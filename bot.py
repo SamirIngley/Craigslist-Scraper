@@ -36,7 +36,7 @@ def bot():
 
     full_url = sf_url + '/search/sss'
     search_params = { 
-                      'sort': 'rel',
+                      'sort': 'rel', # SORT BY RELEVANCE.. helps push stuff we don't want to the back of the list
                       'min_price': '50',
                       'mobile_os': '2', # iOS code
                       'query': 'iphone X -cracked -replacement -broken -case -charger', # - means make sure this term is not included
@@ -49,14 +49,16 @@ def bot():
     # print(soupty.prettify)
     
     price_list = []
-    for i,a in enumerate(soupty.find_all('a')):
+    # NAME OF THE CLASSES BY LOOKING ON CRAIGSLIST INSPECT ELEMENT
+    for i,a in enumerate(soupty.find_all('a', {'class': 'result-image gallery'})):
         # print('i: ', i)
         # print('a: ', a)
         price = a.find('span', {'class': 'result-price'})
         if price:
             price = price.get_text()
             # print('price ', price)
-            price_list.append(price)
+            price_list.append(int(price[1:])) # remove dolla sign
+
             
     print(price_list)
 
