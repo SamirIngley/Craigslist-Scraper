@@ -85,7 +85,7 @@ def bot(c_dict):
         # print(url, search_params, headers)
         r = requests.get(url, headers=headers, params=search_params)
         s = bs(r.content, 'html.parser')
-
+        # print(c_dict[city])
         # pull prices from that city (20 max)
         for i,a in enumerate(s.find_all('a', {'class': 'result-image gallery'})):
             # print(i,a)
