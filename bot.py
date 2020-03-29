@@ -156,7 +156,7 @@ def file_write_locations():
     df.to_csv('cities_and_latlongs.csv')
 
 def new():
-    df = pd.read_csv('cities_and_latlong.csv', index_col=0)
+    df = pd.read_csv('cities_and_latlongs.csv', index_col=0)
     df.dropna(inplace=True) # drops NaNs
     print(df.price.mean())
     
