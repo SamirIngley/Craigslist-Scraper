@@ -8,14 +8,14 @@
 3. save a google api key as an environment variable
     and use that key variable name in the code
 ****************
-Scrapes the data of every craigslist site in the US
-Looks for an item with given parameters
+- Scrapes the data of every craigslist site in the US
+- Looks for an item with given parameters
 
-Creates a pandas DataFrame with the price of the item and its city
-Retrieves lat and long for each city via Google Maps API
+- Creates a pandas DataFrame with the price of the item and its city
+- Retrieves lat and long for each city via Google Maps API
 
-Plots the mean price for each city (eliminating extremes) on a map of the US
-The larger the circle - the higher the price. 
+- Plots the mean price for each city (eliminating extremes) on a map of the US
+- The larger the circle - the higher the price. 
 
 
 Maps plotted with Bokeh
