@@ -196,7 +196,7 @@ def map_data():
     df0 = pd.read_csv('df_clean.csv', index_col=0) # need to tell pandas the first row is an index column
 
     df = df0.groupby('city').mean() # gives us the MEAN PRICE FOR EACH CITY
-    print(df.head)
+    # print(df.head)
 
     # Google maps has control over plot axes so no DataRange1d, only Range1d
     map_options = GMapOptions(lat=50.5020794, lng=-111.9912878, map_type='roadmap', zoom=3) # LAT LNG ARE ROUGHLY THE CENTER OF THE MAP
