@@ -1,12 +1,19 @@
+import os
 import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup as bs
+import googlemaps
+import timeit
+
+api_key = os.environ['GOOGLE_API_KEY']
 
 # modeled on Python Nerds https://www.youtube.com/watch?v=cFNh2amlYHI&list=PLG3zXM1RkYfTZlZOBc2L6e6aU7IBnzfGN&index=1
 
 # all us based craigslist sites
 def cityDict():
+    ''' RETURNS A DICTIONARY OF ALL THE CITIES AND THEIR URLS '''
+
      # HERE'S OUR SOUP - The website html data
     url = 'http://geo.craigslist.org/iso/us/'
     headers = {'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1'}
@@ -34,13 +41,15 @@ def cityDict():
     return city_dict
 
 
-def bot(c_dict):
+def pricesDFrame(c_dict):
+    ''' SCRAPES CRAIGSLIST - CREATES A DATAFRAME OF EACH CITY'S TOP 20 ITEMS' 
+    PRICE AND CITY '''
 
     # 'SF bay area': 'https://sfbay.craigslist.org'
-    sf_url = c_dict["SF bay area"]
+    # sf_url = c_dict["SF bay area"]
     # print(sf_url)
 
-    full_url = sf_url + '/search/sss'
+    # full_url = sf_url + '/search/sss'
     search_params = { 
                       'sort': 'rel', # SORT BY RELEVANCE.. helps push stuff we don't want to the back of the list
                       'min_price': '50',
@@ -52,9 +61,9 @@ def bot(c_dict):
     headers = {'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1'}
 
 
-    r = requests.get(full_url, params=search_params, headers=headers)
+    # r = requests.get(full_url, params=search_params, headers=headers)
     
-    soupty = bs(r.content, 'html.parser')
+    # soupty = bs(r.content, 'html.parser')
     # print(soupty.prettify)
     
     price_list = []
@@ -100,6 +109,51 @@ def bot(c_dict):
 
     print(df.head)
 
+    
+    # SAVE TIME BY SAVING AS A FILE INSTEAD OF PINGING CRAIGSLIST EVERYTIME
+    # THESE COMMANDS ACTUALLY CREATE THOSE FILES, TIMEIT JUST TIMES THEM
+    # pandas can send as csv, to excel, sql, ... 
+    #magic commands work in python notebooks- timeit times one loop how long to process one loop
+    # %timeit df.to_csv('craigslist_data.csv') #just name it
+    # %timeit df.to_excel('craigslist_data.xlsx')
+    # %timeit df.to_html('craigslist_data.html') # can open it in a web browser
+    # %timeit df.to_hdf('craigslist_data.h5', 'craigslist_data') # for millions of lines, must include a data table name, since we're using strings it's gonna be slower - would be faster with chars and ints
+
+def file_write_locations():
+    ''' GETS THE CSV DATA OF THE TWO LISTS (city, price) AND GETS LOCATION ''' 
+
+    df = pd.read_csv('craigslist_data_copy.csv', index_col=0)
+    # print(df)
+    city_list = df.city.unique()
+    # print(city_list)
+
+    for place in city_list:
+        # print(place)
+        single_place = place.split('/')[0]
+        # print(single_place)
+        #Geocoding couldn't recognize what the florida keys were soo... 
+        # try except: try this, if you run into an error, try this other thing
+        # print(df.head)
+        try:
+            if '/' in char for char in place
+            single_place = place.split('/')[0]
+            gmaps = googlemaps.Client(key=api_key)
+            geocode = gmaps.geocode(single_place)[0]
+            latlong = geocode['geometry']['location']
+            # print(latlong)
+        except IndexError or AttributeError:
+            latlong = {'lat': None, 'lng': None}
+        
+        # now we store the latlong with the associated cities
+        # create column called lat
+        df.loc[df.city == place, 'lat'] = latlong['lat']
+        df.loc[df.city == place, 'lng'] = latlong['lng']
+    
+    print(df.head)
+
+    
+
 if __name__ == "__main__":
-    cityDict()
-    bot(cityDict())
+    # cityDict()
+    # pricesDFrame(cityDict())
+    file_write_locations()

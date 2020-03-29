@@ -1,0 +1,8261 @@
+,city,price
+0,"abilene, TX",200
+1,"abilene, TX",503
+2,"abilene, TX",400
+3,"abilene, TX",400
+4,"abilene, TX",200
+5,"abilene, TX",200
+6,"abilene, TX",50
+7,"abilene, TX",200
+8,"abilene, TX",200
+9,"abilene, TX",200
+10,"abilene, TX",300
+11,"abilene, TX",200
+12,"abilene, TX",400
+13,"abilene, TX",240
+14,"abilene, TX",400
+15,akron / canton,400
+16,akron / canton,450
+17,akron / canton,549
+18,akron / canton,225
+19,akron / canton,450
+20,akron / canton,999
+21,akron / canton,201
+22,akron / canton,400
+23,akron / canton,999
+24,akron / canton,999
+25,akron / canton,201
+26,akron / canton,400
+27,akron / canton,400
+28,akron / canton,200
+29,akron / canton,400
+30,akron / canton,400
+31,akron / canton,400
+32,akron / canton,550
+33,akron / canton,400
+34,akron / canton,450
+35,akron / canton,235
+36,"albany, GA",500
+37,"albany, GA",232
+38,"albany, GA",500
+39,"albany, GA",350
+40,"albany, GA",200
+41,"albany, GA",450
+42,"albany, GA",225
+43,"albany, GA",200
+44,"albany, GA",400
+45,"albany, GA",200
+46,"albany, GA",231
+47,"albany, GA",449
+48,"albany, GA",449
+49,"albany, GA",400
+50,"albany, GA",500
+51,"albany, NY",400
+52,"albany, NY",200
+53,"albany, NY",200
+54,"albany, NY",400
+55,"albany, NY",400
+56,"albany, NY",400
+57,"albany, NY",200
+58,"albany, NY",500
+59,"albany, NY",425
+60,"albany, NY",200
+61,"albany, NY",699
+62,"albany, NY",580
+63,"albany, NY",250
+64,"albany, NY",200
+65,"albany, NY",550
+66,"albany, NY",350
+67,"albany, NY",350
+68,"albany, NY",300
+69,"albany, NY",650
+70,albuquerque,450
+71,albuquerque,200
+72,albuquerque,230
+73,albuquerque,190
+74,albuquerque,450
+75,albuquerque,400
+76,albuquerque,650
+77,albuquerque,400
+78,albuquerque,200
+79,altoona-johnstown,225
+80,altoona-johnstown,500
+81,altoona-johnstown,550
+82,altoona-johnstown,500
+83,altoona-johnstown,450
+84,altoona-johnstown,425
+85,altoona-johnstown,400
+86,altoona-johnstown,420
+87,altoona-johnstown,420
+88,altoona-johnstown,600
+89,altoona-johnstown,600
+90,altoona-johnstown,200
+91,altoona-johnstown,475
+92,altoona-johnstown,500
+93,altoona-johnstown,600
+94,altoona-johnstown,600
+95,altoona-johnstown,700
+96,altoona-johnstown,400
+97,altoona-johnstown,200
+98,altoona-johnstown,250
+99,altoona-johnstown,475
+100,"amarillo, TX",450
+101,"amarillo, TX",500
+102,"amarillo, TX",200
+103,"amarillo, TX",200
+104,"amarillo, TX",50
+105,"amarillo, TX",200
+106,"amarillo, TX",200
+107,"amarillo, TX",200
+108,"ames, IA",525
+109,"ames, IA",400
+110,"ames, IA",200
+111,"ames, IA",200
+112,"ames, IA",350
+113,"ames, IA",550
+114,"ames, IA",400
+115,"ames, IA",325
+116,"ames, IA",500
+117,anchorage / mat-su,350
+118,anchorage / mat-su,250
+119,anchorage / mat-su,200
+120,anchorage / mat-su,200
+121,anchorage / mat-su,200
+122,anchorage / mat-su,200
+123,anchorage / mat-su,200
+124,anchorage / mat-su,575
+125,"annapolis, MD",560
+126,"annapolis, MD",379
+127,"annapolis, MD",225
+128,"annapolis, MD",200
+129,"annapolis, MD",350
+130,"annapolis, MD",200
+131,"annapolis, MD",499
+132,"annapolis, MD",499
+133,"annapolis, MD",499
+134,"annapolis, MD",200
+135,"annapolis, MD",200
+136,"annapolis, MD",400
+137,"annapolis, MD",499
+138,"annapolis, MD",500
+139,"annapolis, MD",499
+140,"annapolis, MD",230
+141,"annapolis, MD",500
+142,"annapolis, MD",475
+143,"annapolis, MD",500
+144,"annapolis, MD",499
+145,"annapolis, MD",500
+146,"ann arbor, MI",79
+147,"ann arbor, MI",439
+148,"ann arbor, MI",350
+149,"ann arbor, MI",449
+150,"ann arbor, MI",460
+151,"ann arbor, MI",549
+152,"ann arbor, MI",499
+153,"ann arbor, MI",99
+154,"ann arbor, MI",475
+155,"ann arbor, MI",99
+156,"ann arbor, MI",500
+157,"ann arbor, MI",300
+158,"ann arbor, MI",399
+159,"ann arbor, MI",499
+160,"ann arbor, MI",500
+161,"ann arbor, MI",99
+162,"ann arbor, MI",480
+163,"ann arbor, MI",500
+164,"ann arbor, MI",525
+165,"ann arbor, MI",500
+166,"ann arbor, MI",95
+167,appleton-oshkosh-FDL,550
+168,appleton-oshkosh-FDL,550
+169,appleton-oshkosh-FDL,200
+170,appleton-oshkosh-FDL,350
+171,appleton-oshkosh-FDL,500
+172,appleton-oshkosh-FDL,400
+173,appleton-oshkosh-FDL,1111
+174,appleton-oshkosh-FDL,1111
+175,appleton-oshkosh-FDL,500
+176,appleton-oshkosh-FDL,200
+177,appleton-oshkosh-FDL,400
+178,appleton-oshkosh-FDL,1111
+179,appleton-oshkosh-FDL,425
+180,appleton-oshkosh-FDL,1111
+181,appleton-oshkosh-FDL,400
+182,appleton-oshkosh-FDL,1111
+183,appleton-oshkosh-FDL,1111
+184,appleton-oshkosh-FDL,450
+185,appleton-oshkosh-FDL,425
+186,appleton-oshkosh-FDL,1111
+187,appleton-oshkosh-FDL,385
+188,"asheville, NC",75
+189,"asheville, NC",229
+190,"asheville, NC",350
+191,"asheville, NC",450
+192,"asheville, NC",400
+193,"asheville, NC",200
+194,"asheville, NC",200
+195,"asheville, NC",500
+196,"asheville, NC",600
+197,"asheville, NC",50
+198,"asheville, NC",85
+199,"asheville, NC",400
+200,"asheville, NC",525
+201,"asheville, NC",375
+202,"asheville, NC",400
+203,"asheville, NC",550
+204,"asheville, NC",450
+205,"asheville, NC",580
+206,"asheville, NC",465
+207,"asheville, NC",200
+208,"asheville, NC",480
+209,"ashtabula, OH",400
+210,"ashtabula, OH",226
+211,"ashtabula, OH",225
+212,"ashtabula, OH",450
+213,"ashtabula, OH",999
+214,"ashtabula, OH",201
+215,"ashtabula, OH",400
+216,"ashtabula, OH",999
+217,"ashtabula, OH",999
+218,"ashtabula, OH",201
+219,"ashtabula, OH",400
+220,"ashtabula, OH",400
+221,"ashtabula, OH",200
+222,"ashtabula, OH",400
+223,"ashtabula, OH",400
+224,"ashtabula, OH",400
+225,"ashtabula, OH",550
+226,"ashtabula, OH",400
+227,"ashtabula, OH",450
+228,"ashtabula, OH",225
+229,"ashtabula, OH",400
+230,"athens, GA",400
+231,"athens, GA",400
+232,"athens, GA",425
+233,"athens, GA",430
+234,"athens, GA",490
+235,"athens, GA",200
+236,"athens, GA",450
+237,"athens, GA",450
+238,"athens, GA",320
+239,"athens, GA",380
+240,"athens, GA",420
+241,"athens, GA",470
+242,"athens, GA",240
+243,"athens, GA",400
+244,"athens, GA",450
+245,"athens, GA",380
+246,"athens, GA",250
+247,"athens, GA",350
+248,"athens, GA",160
+249,"athens, GA",250
+250,"athens, GA",450
+251,"athens, OH",240
+252,"athens, OH",400
+253,"athens, OH",600
+254,"athens, OH",230
+255,"athens, OH",500
+256,"athens, OH",549
+257,"athens, OH",600
+258,"athens, OH",450
+259,"athens, OH",425
+260,"athens, OH",400
+261,"athens, OH",500
+262,"athens, OH",579
+263,"athens, OH",400
+264,"atlanta, GA",425
+265,"atlanta, GA",430
+266,"atlanta, GA",490
+267,"atlanta, GA",200
+268,"atlanta, GA",450
+269,"atlanta, GA",450
+270,"atlanta, GA",320
+271,"atlanta, GA",380
+272,"atlanta, GA",420
+273,"atlanta, GA",470
+274,"atlanta, GA",240
+275,"atlanta, GA",400
+276,"atlanta, GA",450
+277,"atlanta, GA",380
+278,"atlanta, GA",250
+279,"atlanta, GA",350
+280,"atlanta, GA",160
+281,"atlanta, GA",250
+282,"atlanta, GA",450
+283,"atlanta, GA",490
+284,"atlanta, GA",490
+285,"auburn, AL",200
+286,"auburn, AL",231
+287,"auburn, AL",450
+288,"auburn, AL",200
+289,"auburn, AL",450
+290,"auburn, AL",225
+291,"auburn, AL",200
+292,"auburn, AL",400
+293,"auburn, AL",350
+294,"auburn, AL",250
+295,"auburn, AL",200
+296,"auburn, AL",350
+297,"auburn, AL",425
+298,"auburn, AL",430
+299,"auburn, AL",490
+300,"auburn, AL",200
+301,"auburn, AL",450
+302,"auburn, AL",450
+303,"auburn, AL",320
+304,"auburn, AL",380
+305,"auburn, AL",420
+306,"augusta, GA",225
+307,"augusta, GA",230
+308,"augusta, GA",350
+309,"augusta, GA",200
+310,"augusta, GA",200
+311,"augusta, GA",400
+312,"augusta, GA",400
+313,"augusta, GA",400
+314,"augusta, GA",600
+315,"augusta, GA",50
+316,"augusta, GA",85
+317,"augusta, GA",400
+318,"augusta, GA",525
+319,"augusta, GA",375
+320,"augusta, GA",400
+321,"augusta, GA",500
+322,"austin, TX",200
+323,"austin, TX",480
+324,"austin, TX",450
+325,"austin, TX",200
+326,"austin, TX",420
+327,"austin, TX",202
+328,"austin, TX",420
+329,"austin, TX",233
+330,"austin, TX",430
+331,"austin, TX",500
+332,"austin, TX",350
+333,"austin, TX",325
+334,"austin, TX",200
+335,"austin, TX",435
+336,"austin, TX",435
+337,"austin, TX",600
+338,"austin, TX",450
+339,"austin, TX",140
+340,"austin, TX",340
+341,"austin, TX",490
+342,"austin, TX",490
+343,"bakersfield, CA",230
+344,"bakersfield, CA",447
+345,"bakersfield, CA",200
+346,"bakersfield, CA",600
+347,"bakersfield, CA",600
+348,"bakersfield, CA",227
+349,"bakersfield, CA",200
+350,"bakersfield, CA",600
+351,"bakersfield, CA",550
+352,"bakersfield, CA",425
+353,"bakersfield, CA",150
+354,"bakersfield, CA",229
+355,"bakersfield, CA",400
+356,"bakersfield, CA",500
+357,"bakersfield, CA",400
+358,"bakersfield, CA",400
+359,"bakersfield, CA",600
+360,"bakersfield, CA",425
+361,"bakersfield, CA",400
+362,"bakersfield, CA",600
+363,"bakersfield, CA",400
+364,"baltimore, MD",560
+365,"baltimore, MD",379
+366,"baltimore, MD",225
+367,"baltimore, MD",200
+368,"baltimore, MD",350
+369,"baltimore, MD",200
+370,"baltimore, MD",499
+371,"baltimore, MD",499
+372,"baltimore, MD",499
+373,"baltimore, MD",200
+374,"baltimore, MD",200
+375,"baltimore, MD",400
+376,"baltimore, MD",499
+377,"baltimore, MD",500
+378,"baltimore, MD",499
+379,"baltimore, MD",230
+380,"baltimore, MD",500
+381,"baltimore, MD",475
+382,"baltimore, MD",500
+383,"baltimore, MD",499
+384,"baltimore, MD",500
+385,baton rouge,125
+386,baton rouge,200
+387,baton rouge,350
+388,baton rouge,325
+389,baton rouge,325
+390,baton rouge,200
+391,baton rouge,200
+392,baton rouge,350
+393,baton rouge,500
+394,baton rouge,200
+395,baton rouge,200
+396,baton rouge,200
+397,baton rouge,200
+398,baton rouge,225
+399,baton rouge,280
+400,"battle creek, MI",200
+401,"battle creek, MI",400
+402,"battle creek, MI",400
+403,"battle creek, MI",400
+404,beaumont / port arthur,425
+405,beaumont / port arthur,465
+406,beaumont / port arthur,465
+407,beaumont / port arthur,475
+408,beaumont / port arthur,465
+409,beaumont / port arthur,475
+410,beaumont / port arthur,230
+411,beaumont / port arthur,425
+412,beaumont / port arthur,390
+413,beaumont / port arthur,475
+414,beaumont / port arthur,200
+415,beaumont / port arthur,350
+416,beaumont / port arthur,725
+417,beaumont / port arthur,1500
+418,beaumont / port arthur,200
+419,beaumont / port arthur,200
+420,beaumont / port arthur,520
+421,beaumont / port arthur,550
+422,beaumont / port arthur,275
+423,beaumont / port arthur,100
+424,beaumont / port arthur,1500
+425,"bellingham, WA",500
+426,"bellingham, WA",375
+427,"bellingham, WA",500
+428,"bellingham, WA",450
+429,"bellingham, WA",600
+430,"bellingham, WA",200
+431,"bellingham, WA",299
+432,"bellingham, WA",575
+433,"bellingham, WA",500
+434,"bellingham, WA",520
+435,"bellingham, WA",550
+436,"bellingham, WA",230
+437,"bellingham, WA",200
+438,"bellingham, WA",450
+439,"bellingham, WA",300
+440,"bellingham, WA",550
+441,"bellingham, WA",400
+442,"bellingham, WA",500
+443,"bellingham, WA",399
+444,"bellingham, WA",550
+445,"bellingham, WA",399
+446,"bemidji, MN",400
+447,"bemidji, MN",450
+448,"bemidji, MN",480
+449,"bemidji, MN",229
+450,"bemidji, MN",450
+451,"bemidji, MN",500
+452,"bemidji, MN",525
+453,"bemidji, MN",450
+454,"bemidji, MN",400
+455,"bemidji, MN",550
+456,"bemidji, MN",375
+457,"bemidji, MN",240
+458,"bemidji, MN",499
+459,"bemidji, MN",499
+460,"bemidji, MN",499
+461,"bemidji, MN",499
+462,"bemidji, MN",499
+463,"bemidji, MN",549
+464,"bemidji, MN",499
+465,"bemidji, MN",1111
+466,"bemidji, MN",550
+467,"bend, OR",230
+468,"bend, OR",200
+469,"bend, OR",200
+470,"bend, OR",230
+471,"bend, OR",460
+472,"bend, OR",500
+473,"bend, OR",450
+474,"bend, OR",600
+475,"bend, OR",400
+476,"bend, OR",409
+477,"bend, OR",99
+478,"bend, OR",50
+479,"bend, OR",500
+480,"bend, OR",500
+481,"bend, OR",300
+482,"bend, OR",450
+483,"bend, OR",99
+484,"bend, OR",99
+485,"bend, OR",69
+486,"bend, OR",50
+487,"bend, OR",500
+488,"billings, MT",550
+489,"billings, MT",200
+490,"billings, MT",200
+491,"billings, MT",400
+492,"billings, MT",400
+493,"billings, MT",200
+494,"binghamton, NY",375
+495,"binghamton, NY",350
+496,"binghamton, NY",200
+497,"binghamton, NY",200
+498,"binghamton, NY",200
+499,"binghamton, NY",200
+500,"birmingham, AL",350
+501,"birmingham, AL",250
+502,"birmingham, AL",200
+503,"birmingham, AL",350
+504,"birmingham, AL",400
+505,"birmingham, AL",200
+506,"birmingham, AL",450
+507,"bismarck, ND",400
+508,"bismarck, ND",400
+509,"bismarck, ND",450
+510,"bloomington, IN",400
+511,"bloomington, IN",200
+512,"bloomington, IN",480
+513,"bloomington, IN",200
+514,"bloomington, IN",465
+515,"bloomington, IN",250
+516,"bloomington, IN",200
+517,"bloomington, IN",202
+518,"bloomington, IN",200
+519,"bloomington, IN",525
+520,"bloomington, IN",525
+521,"bloomington, IN",200
+522,"bloomington, IN",200
+523,"bloomington, IN",200
+524,"bloomington, IN",450
+525,"bloomington, IN",500
+526,"bloomington, IN",235
+527,"bloomington, IN",300
+528,"bloomington, IN",275
+529,bloomington-normal,400
+530,bloomington-normal,400
+531,bloomington-normal,400
+532,bloomington-normal,200
+533,bloomington-normal,230
+534,bloomington-normal,400
+535,bloomington-normal,550
+536,bloomington-normal,600
+537,"boise, ID",550
+538,"boise, ID",200
+539,"boise, ID",200
+540,"boise, ID",430
+541,"boise, ID",487
+542,"boise, ID",60
+543,"boise, ID",250
+544,"boise, ID",400
+545,"boise, ID",200
+546,"boise, ID",480
+547,"boise, ID",200
+548,"boise, ID",200
+549,"boone, NC",580
+550,"boone, NC",550
+551,"boone, NC",450
+552,"boone, NC",200
+553,"boone, NC",75
+554,"boone, NC",229
+555,"boone, NC",350
+556,"boone, NC",450
+557,"boone, NC",400
+558,"boone, NC",200
+559,"boone, NC",200
+560,"boone, NC",500
+561,"boone, NC",325
+562,"boone, NC",425
+563,"boone, NC",799
+564,"boone, NC",799
+565,"boone, NC",400
+566,"boone, NC",450
+567,"boone, NC",550
+568,"boone, NC",200
+569,"boone, NC",250
+570,boston,499
+571,boston,495
+572,boston,500
+573,boston,600
+574,boston,350
+575,boston,350
+576,boston,600
+577,boston,350
+578,boston,490
+579,boston,230
+580,boston,60
+581,boston,400
+582,boston,400
+583,boston,60
+584,boston,60
+585,boston,60
+586,boston,60
+587,boston,275
+588,boston,450
+589,boston,55
+590,boston,55
+591,"boulder, CO",525
+592,"boulder, CO",230
+593,"boulder, CO",450
+594,"boulder, CO",1400
+595,"boulder, CO",325
+596,"boulder, CO",475
+597,"boulder, CO",425
+598,"boulder, CO",200
+599,"boulder, CO",650
+600,"boulder, CO",200
+601,"boulder, CO",400
+602,"boulder, CO",400
+603,"boulder, CO",450
+604,"boulder, CO",450
+605,"boulder, CO",450
+606,"boulder, CO",425
+607,"boulder, CO",200
+608,"boulder, CO",400
+609,"boulder, CO",1100
+610,"boulder, CO",500
+611,"boulder, CO",450
+612,"bowling green, KY",300
+613,"bowling green, KY",400
+614,"bowling green, KY",400
+615,"bowling green, KY",500
+616,"bowling green, KY",400
+617,"bowling green, KY",400
+618,"bowling green, KY",535
+619,"bowling green, KY",240
+620,"bowling green, KY",400
+621,"bowling green, KY",200
+622,"bowling green, KY",500
+623,"bowling green, KY",230
+624,"bowling green, KY",500
+625,"bowling green, KY",232
+626,"bowling green, KY",200
+627,"bowling green, KY",200
+628,"bowling green, KY",475
+629,"bowling green, KY",375
+630,"bowling green, KY",229
+631,"bowling green, KY",200
+632,"bowling green, KY",400
+633,"bozeman, MT",550
+634,"bozeman, MT",200
+635,"bozeman, MT",200
+636,"bozeman, MT",400
+637,"bozeman, MT",400
+638,"brainerd, MN",450
+639,"brainerd, MN",500
+640,"brainerd, MN",525
+641,"brainerd, MN",400
+642,"brainerd, MN",450
+643,"brainerd, MN",400
+644,"brainerd, MN",550
+645,"brainerd, MN",375
+646,"brainerd, MN",240
+647,"brainerd, MN",499
+648,"brainerd, MN",499
+649,"brainerd, MN",499
+650,"brainerd, MN",499
+651,"brainerd, MN",499
+652,"brainerd, MN",549
+653,"brainerd, MN",499
+654,"brainerd, MN",1111
+655,"brainerd, MN",550
+656,"brainerd, MN",400
+657,"brainerd, MN",350
+658,"brainerd, MN",800
+659,"brownsville, TX",410
+660,"brownsville, TX",445
+661,"brownsville, TX",229
+662,"brownsville, TX",450
+663,"brownsville, TX",550
+664,"brownsville, TX",450
+665,"brownsville, TX",123
+666,"brownsville, TX",123
+667,"brownsville, TX",123
+668,"brownsville, TX",390
+669,"brownsville, TX",123
+670,"brownsville, TX",123
+671,"brownsville, TX",123
+672,"brownsville, TX",450
+673,"brownsville, TX",255
+674,"brownsville, TX",450
+675,"brownsville, TX",500
+676,"brownsville, TX",123
+677,"brownsville, TX",123
+678,"brownsville, TX",400
+679,"brownsville, TX",123
+680,"brunswick, GA",200
+681,"brunswick, GA",490
+682,"brunswick, GA",200
+683,"brunswick, GA",449
+684,"brunswick, GA",400
+685,"brunswick, GA",499
+686,"brunswick, GA",499
+687,"brunswick, GA",449
+688,"brunswick, GA",400
+689,"brunswick, GA",500
+690,"brunswick, GA",200
+691,"brunswick, GA",450
+692,"brunswick, GA",500
+693,"brunswick, GA",200
+694,"brunswick, GA",500
+695,"brunswick, GA",202
+696,"brunswick, GA",420
+697,"brunswick, GA",400
+698,"brunswick, GA",450
+699,"brunswick, GA",500
+700,"brunswick, GA",500
+701,"buffalo, NY",200
+702,"buffalo, NY",400
+703,"buffalo, NY",500
+704,"buffalo, NY",575
+705,"buffalo, NY",575
+706,"buffalo, NY",500
+707,"buffalo, NY",226
+708,"butte, MT",200
+709,"butte, MT",200
+710,"butte, MT",400
+711,"butte, MT",400
+712,"butte, MT",400
+713,"butte, MT",400
+714,cape cod / islands,350
+715,cape cod / islands,425
+716,cape cod / islands,350
+717,cape cod / islands,450
+718,cape cod / islands,55
+719,cape cod / islands,55
+720,cape cod / islands,99
+721,cape cod / islands,495
+722,cape cod / islands,350
+723,cape cod / islands,450
+724,cape cod / islands,99
+725,cape cod / islands,90
+726,cape cod / islands,450
+727,cape cod / islands,500
+728,cape cod / islands,99
+729,cape cod / islands,349
+730,cape cod / islands,150
+731,cape cod / islands,230
+732,cape cod / islands,350
+733,cape cod / islands,499
+734,cape cod / islands,495
+735,catskills,250
+736,catskills,200
+737,catskills,350
+738,catskills,300
+739,catskills,650
+740,catskills,350
+741,catskills,400
+742,catskills,200
+743,catskills,200
+744,catskills,400
+745,catskills,400
+746,catskills,400
+747,catskills,200
+748,catskills,500
+749,catskills,425
+750,catskills,200
+751,catskills,699
+752,catskills,550
+753,catskills,580
+754,"cedar rapids, IA",400
+755,"cedar rapids, IA",325
+756,"cedar rapids, IA",500
+757,"cedar rapids, IA",230
+758,"cedar rapids, IA",550
+759,central louisiana,200
+760,central louisiana,200
+761,central louisiana,238
+762,central louisiana,125
+763,central louisiana,200
+764,central louisiana,350
+765,central louisiana,325
+766,central louisiana,325
+767,central louisiana,275
+768,central michigan,450
+769,central michigan,350
+770,central michigan,200
+771,central michigan,400
+772,central michigan,400
+773,central michigan,400
+774,central NJ,290
+775,central NJ,350
+776,central NJ,228
+777,central NJ,600
+778,central NJ,500
+779,central NJ,325
+780,central NJ,450
+781,central NJ,180
+782,central NJ,425
+783,central NJ,270
+784,central NJ,230
+785,central NJ,400
+786,central NJ,400
+787,central NJ,400
+788,central NJ,175
+789,central NJ,600
+790,central NJ,250
+791,central NJ,240
+792,central NJ,60
+793,central NJ,60
+794,central NJ,85
+795,champaign urbana,550
+796,champaign urbana,600
+797,champaign urbana,400
+798,champaign urbana,400
+799,champaign urbana,200
+800,champaign urbana,230
+801,champaign urbana,400
+802,champaign urbana,200
+803,"charleston, SC",150
+804,"charleston, SC",400
+805,"charleston, SC",500
+806,"charleston, SC",500
+807,"charleston, SC",500
+808,"charleston, SC",450
+809,"charleston, SC",750
+810,"charleston, SC",350
+811,"charleston, SC",200
+812,"charleston, SC",200
+813,"charleston, SC",400
+814,"charleston, WV",400
+815,"charleston, WV",240
+816,"charleston, WV",400
+817,"charleston, WV",230
+818,"charlotte, NC",425
+819,"charlotte, NC",799
+820,"charlotte, NC",799
+821,"charlotte, NC",400
+822,"charlotte, NC",450
+823,"charlotte, NC",550
+824,"charlotte, NC",200
+825,"charlotte, NC",250
+826,"charlotte, NC",330
+827,"charlotte, NC",450
+828,"charlotte, NC",220
+829,"charlotte, NC",200
+830,"charlotte, NC",99
+831,"charlotte, NC",425
+832,"charlotte, NC",325
+833,"charlotte, NC",580
+834,"charlotte, NC",485
+835,"charlotte, NC",485
+836,"charlotte, NC",550
+837,"charlotte, NC",240
+838,"charlotte, NC",800
+839,"charlottesville, VA",230
+840,"charlottesville, VA",425
+841,"charlottesville, VA",580
+842,"charlottesville, VA",300
+843,"charlottesville, VA",530
+844,"charlottesville, VA",447
+845,"charlottesville, VA",520
+846,"charlottesville, VA",400
+847,"charlottesville, VA",700
+848,"charlottesville, VA",425
+849,"charlottesville, VA",230
+850,"charlottesville, VA",550
+851,"charlottesville, VA",240
+852,"charlottesville, VA",200
+853,"charlottesville, VA",200
+854,"charlottesville, VA",200
+855,"charlottesville, VA",400
+856,"charlottesville, VA",232
+857,"charlottesville, VA",225
+858,"chattanooga, TN",200
+859,"chattanooga, TN",200
+860,"chattanooga, TN",200
+861,"chattanooga, TN",232
+862,"chattanooga, TN",200
+863,"chattanooga, TN",465
+864,"chattanooga, TN",200
+865,"chattanooga, TN",480
+866,"chattanooga, TN",550
+867,"chattanooga, TN",450
+868,"chattanooga, TN",425
+869,"chattanooga, TN",430
+870,"chattanooga, TN",490
+871,"chattanooga, TN",200
+872,"chattanooga, TN",450
+873,"chattanooga, TN",450
+874,"chattanooga, TN",320
+875,"chattanooga, TN",380
+876,"chattanooga, TN",420
+877,"chattanooga, TN",470
+878,"chattanooga, TN",240
+879,"chautauqua, NY",226
+880,"chautauqua, NY",200
+881,"chautauqua, NY",400
+882,"chautauqua, NY",225
+883,"chautauqua, NY",400
+884,"chautauqua, NY",300
+885,"chautauqua, NY",245
+886,chicago,495
+887,chicago,399
+888,chicago,230
+889,chicago,400
+890,chicago,400
+891,chicago,410
+892,chicago,1000
+893,chicago,400
+894,chicago,600
+895,chicago,225
+896,chicago,1234
+897,chicago,69
+898,chicago,69
+899,chicago,69
+900,chicago,530
+901,chicago,1234
+902,chicago,12345
+903,chicago,350
+904,chicago,350
+905,chicago,450
+906,chicago,470
+907,"chico, CA",400
+908,"chico, CA",450
+909,"chico, CA",500
+910,"chico, CA",239
+911,"chico, CA",400
+912,"chico, CA",227
+913,"chico, CA",500
+914,"chico, CA",400
+915,"chico, CA",400
+916,"chico, CA",200
+917,"chico, CA",200
+918,"chico, CA",550
+919,"chico, CA",550
+920,"chico, CA",425
+921,"chico, CA",370
+922,"chico, CA",400
+923,"chico, CA",200
+924,"chico, CA",580
+925,"chico, CA",400
+926,"chico, CA",500
+927,"chico, CA",500
+928,"chillicothe, OH",600
+929,"chillicothe, OH",230
+930,"chillicothe, OH",500
+931,"chillicothe, OH",549
+932,"chillicothe, OH",600
+933,"chillicothe, OH",450
+934,"chillicothe, OH",425
+935,"chillicothe, OH",400
+936,"chillicothe, OH",500
+937,"chillicothe, OH",579
+938,"chillicothe, OH",240
+939,"chillicothe, OH",400
+940,"cincinnati, OH",450
+941,"cincinnati, OH",549
+942,"cincinnati, OH",202
+943,"cincinnati, OH",600
+944,"cincinnati, OH",101
+945,"cincinnati, OH",400
+946,"cincinnati, OH",490
+947,"cincinnati, OH",200
+948,"cincinnati, OH",200
+949,"cincinnati, OH",450
+950,"cincinnati, OH",200
+951,"cincinnati, OH",202
+952,"cincinnati, OH",200
+953,"cincinnati, OH",525
+954,"cincinnati, OH",525
+955,"clarksville, TN",400
+956,"clarksville, TN",400
+957,"clarksville, TN",500
+958,"clarksville, TN",400
+959,"clarksville, TN",400
+960,"clarksville, TN",535
+961,"clarksville, TN",240
+962,"clarksville, TN",400
+963,"clarksville, TN",200
+964,"clarksville, TN",500
+965,"clarksville, TN",230
+966,"clarksville, TN",500
+967,"clarksville, TN",200
+968,"clarksville, TN",200
+969,"clarksville, TN",475
+970,"clarksville, TN",300
+971,"clarksville, TN",375
+972,"clarksville, TN",229
+973,"clarksville, TN",200
+974,"clarksville, TN",400
+975,"clarksville, TN",200
+976,"cleveland, OH",225
+977,"cleveland, OH",450
+978,"cleveland, OH",999
+979,"cleveland, OH",201
+980,"cleveland, OH",400
+981,"cleveland, OH",999
+982,"cleveland, OH",999
+983,"cleveland, OH",201
+984,"cleveland, OH",400
+985,"cleveland, OH",400
+986,"cleveland, OH",200
+987,"cleveland, OH",400
+988,"cleveland, OH",400
+989,"cleveland, OH",400
+990,"cleveland, OH",550
+991,"cleveland, OH",400
+992,"cleveland, OH",450
+993,"cleveland, OH",400
+994,"cleveland, OH",450
+995,"cleveland, OH",549
+996,"cleveland, OH",230
+997,clovis / portales,450
+998,clovis / portales,500
+999,clovis / portales,200
+1000,clovis / portales,200
+1001,clovis / portales,50
+1002,clovis / portales,200
+1003,clovis / portales,650
+1004,clovis / portales,450
+1005,clovis / portales,200
+1006,clovis / portales,230
+1007,clovis / portales,190
+1008,clovis / portales,450
+1009,clovis / portales,400
+1010,"college station, TX",235
+1011,"college station, TX",575
+1012,"college station, TX",200
+1013,"college station, TX",400
+1014,"college station, TX",240
+1015,"college station, TX",400
+1016,"college station, TX",465
+1017,"college station, TX",465
+1018,"college station, TX",475
+1019,"college station, TX",465
+1020,"college station, TX",475
+1021,"college station, TX",230
+1022,"college station, TX",425
+1023,"college station, TX",390
+1024,"college station, TX",475
+1025,"college station, TX",200
+1026,"college station, TX",350
+1027,"college station, TX",725
+1028,"college station, TX",1500
+1029,"college station, TX",200
+1030,"college station, TX",200
+1031,colorado springs,390
+1032,colorado springs,230
+1033,colorado springs,500
+1034,colorado springs,200
+1035,colorado springs,200
+1036,colorado springs,525
+1037,colorado springs,230
+1038,colorado springs,450
+1039,colorado springs,1400
+1040,colorado springs,325
+1041,colorado springs,475
+1042,colorado springs,425
+1043,colorado springs,200
+1044,colorado springs,650
+1045,colorado springs,200
+1046,colorado springs,400
+1047,colorado springs,400
+1048,colorado springs,450
+1049,colorado springs,450
+1050,colorado springs,450
+1051,colorado springs,425
+1052,columbia / jeff city,500
+1053,columbia / jeff city,375
+1054,columbia / jeff city,240
+1055,columbia / jeff city,475
+1056,columbia / jeff city,530
+1057,columbia / jeff city,450
+1058,columbia / jeff city,380
+1059,columbia / jeff city,550
+1060,columbia / jeff city,500
+1061,columbia / jeff city,400
+1062,columbia / jeff city,480
+1063,columbia / jeff city,200
+1064,columbia / jeff city,400
+1065,columbia / jeff city,550
+1066,columbia / jeff city,200
+1067,columbia / jeff city,400
+1068,columbia / jeff city,395
+1069,columbia / jeff city,400
+1070,columbia / jeff city,395
+1071,columbia / jeff city,800
+1072,columbia / jeff city,380
+1073,"columbia, SC",350
+1074,"columbia, SC",200
+1075,"columbia, SC",200
+1076,"columbia, SC",400
+1077,"columbia, SC",225
+1078,"columbia, SC",230
+1079,"columbia, SC",750
+1080,"columbia, SC",425
+1081,"columbia, SC",799
+1082,"columbia, SC",799
+1083,"columbia, SC",400
+1084,"columbia, SC",450
+1085,"columbia, SC",550
+1086,"columbia, SC",200
+1087,"columbia, SC",250
+1088,"columbia, SC",330
+1089,"columbia, SC",450
+1090,"columbia, SC",220
+1091,"columbia, SC",200
+1092,"columbia, SC",99
+1093,"columbia, SC",425
+1094,"columbus, GA",200
+1095,"columbus, GA",231
+1096,"columbus, GA",450
+1097,"columbus, GA",500
+1098,"columbus, GA",232
+1099,"columbus, GA",500
+1100,"columbus, GA",200
+1101,"columbus, GA",450
+1102,"columbus, GA",225
+1103,"columbus, GA",200
+1104,"columbus, GA",400
+1105,"columbus, GA",425
+1106,"columbus, GA",430
+1107,"columbus, GA",490
+1108,"columbus, GA",200
+1109,"columbus, GA",450
+1110,"columbus, GA",450
+1111,"columbus, GA",320
+1112,"columbus, GA",380
+1113,"columbus, GA",420
+1114,"columbus, GA",470
+1115,"columbus, OH",230
+1116,"columbus, OH",500
+1117,"columbus, OH",549
+1118,"columbus, OH",600
+1119,"columbus, OH",450
+1120,"columbus, OH",425
+1121,"columbus, OH",400
+1122,"columbus, OH",500
+1123,"columbus, OH",579
+1124,"columbus, OH",600
+1125,"columbus, OH",240
+1126,"columbus, OH",400
+1127,"cookeville, TN",232
+1128,"cookeville, TN",400
+1129,"cookeville, TN",400
+1130,"cookeville, TN",535
+1131,"cookeville, TN",240
+1132,"cookeville, TN",400
+1133,"cookeville, TN",200
+1134,"cookeville, TN",500
+1135,"cookeville, TN",230
+1136,"cookeville, TN",500
+1137,"cookeville, TN",300
+1138,"cookeville, TN",200
+1139,"cookeville, TN",200
+1140,"cookeville, TN",200
+1141,"cookeville, TN",465
+1142,"cookeville, TN",200
+1143,"cookeville, TN",480
+1144,"cookeville, TN",550
+1145,"cookeville, TN",450
+1146,"cookeville, TN",400
+1147,"cookeville, TN",400
+1148,"corpus christi, TX",200
+1149,"corpus christi, TX",200
+1150,"corpus christi, TX",200
+1151,"corpus christi, TX",123
+1152,"corpus christi, TX",123
+1153,"corpus christi, TX",123
+1154,"corpus christi, TX",390
+1155,"corpus christi, TX",123
+1156,"corpus christi, TX",123
+1157,"corpus christi, TX",123
+1158,"corpus christi, TX",450
+1159,"corpus christi, TX",255
+1160,"corpus christi, TX",450
+1161,"corpus christi, TX",500
+1162,"corpus christi, TX",123
+1163,"corpus christi, TX",123
+1164,"corpus christi, TX",400
+1165,"corpus christi, TX",123
+1166,"corpus christi, TX",350
+1167,"corpus christi, TX",375
+1168,"corpus christi, TX",450
+1169,corvallis/albany,200
+1170,corvallis/albany,230
+1171,corvallis/albany,460
+1172,corvallis/albany,500
+1173,corvallis/albany,230
+1174,corvallis/albany,200
+1175,corvallis/albany,450
+1176,corvallis/albany,600
+1177,corvallis/albany,400
+1178,corvallis/albany,409
+1179,corvallis/albany,99
+1180,corvallis/albany,50
+1181,corvallis/albany,500
+1182,corvallis/albany,500
+1183,corvallis/albany,300
+1184,corvallis/albany,450
+1185,corvallis/albany,99
+1186,corvallis/albany,99
+1187,corvallis/albany,69
+1188,corvallis/albany,50
+1189,corvallis/albany,500
+1190,cumberland valley,575
+1191,cumberland valley,225
+1192,cumberland valley,500
+1193,cumberland valley,550
+1194,cumberland valley,500
+1195,cumberland valley,450
+1196,cumberland valley,490
+1197,cumberland valley,400
+1198,dallas / fort worth,500
+1199,dallas / fort worth,475
+1200,dallas / fort worth,475
+1201,dallas / fort worth,200
+1202,dallas / fort worth,200
+1203,dallas / fort worth,650
+1204,dallas / fort worth,499
+1205,dallas / fort worth,475
+1206,dallas / fort worth,567
+1207,dallas / fort worth,500
+1208,dallas / fort worth,500
+1209,dallas / fort worth,430
+1210,dallas / fort worth,999
+1211,dallas / fort worth,66666
+1212,dallas / fort worth,66666
+1213,dallas / fort worth,66666
+1214,dallas / fort worth,999
+1215,dallas / fort worth,500
+1216,dallas / fort worth,999
+1217,dallas / fort worth,350
+1218,dallas / fort worth,350
+1219,danville,235
+1220,danville,400
+1221,danville,485
+1222,danville,485
+1223,danville,550
+1224,danville,240
+1225,danville,800
+1226,danville,450
+1227,danville,500
+1228,danville,232
+1229,danville,225
+1230,danville,325
+1231,danville,400
+1232,danville,700
+1233,danville,450
+1234,danville,500
+1235,danville,450
+1236,danville,495
+1237,danville,450
+1238,danville,549
+1239,danville,450
+1240,daytona beach,300
+1241,daytona beach,200
+1242,daytona beach,500
+1243,daytona beach,250
+1244,daytona beach,440
+1245,daytona beach,425
+1246,daytona beach,400
+1247,daytona beach,230
+1248,daytona beach,500
+1249,daytona beach,485
+1250,daytona beach,500
+1251,daytona beach,350
+1252,daytona beach,200
+1253,daytona beach,550
+1254,daytona beach,700
+1255,daytona beach,500
+1256,daytona beach,470
+1257,daytona beach,500
+1258,daytona beach,200
+1259,daytona beach,899
+1260,daytona beach,700
+1261,dayton / springfield,202
+1262,dayton / springfield,450
+1263,dayton / springfield,549
+1264,dayton / springfield,230
+1265,dayton / springfield,500
+1266,dayton / springfield,549
+1267,dayton / springfield,600
+1268,dayton / springfield,450
+1269,dayton / springfield,425
+1270,dayton / springfield,400
+1271,dayton / springfield,500
+1272,dayton / springfield,579
+1273,dayton / springfield,200
+1274,dayton / springfield,200
+1275,dayton / springfield,450
+1276,dayton / springfield,600
+1277,"decatur, IL",400
+1278,"decatur, IL",400
+1279,"decatur, IL",200
+1280,"decatur, IL",230
+1281,"decatur, IL",400
+1282,"decatur, IL",550
+1283,"decatur, IL",600
+1284,"decatur, IL",400
+1285,deep east texas,700
+1286,deep east texas,275
+1287,deep east texas,235
+1288,deep east texas,575
+1289,delaware,200
+1290,delaware,625
+1291,delaware,420
+1292,delaware,400
+1293,delaware,400
+1294,delaware,400
+1295,delaware,175
+1296,delaware,600
+1297,delaware,250
+1298,delaware,240
+1299,delaware,60
+1300,delaware,60
+1301,delaware,85
+1302,delaware,85
+1303,delaware,60
+1304,delaware,60
+1305,delaware,85
+1306,delaware,85
+1307,delaware,60
+1308,delaware,85
+1309,delaware,60
+1310,del rio / eagle pass,225
+1311,del rio / eagle pass,450
+1312,del rio / eagle pass,100
+1313,del rio / eagle pass,380
+1314,del rio / eagle pass,200
+1315,del rio / eagle pass,900
+1316,del rio / eagle pass,380
+1317,del rio / eagle pass,450
+1318,del rio / eagle pass,800
+1319,del rio / eagle pass,500
+1320,del rio / eagle pass,800
+1321,del rio / eagle pass,500
+1322,del rio / eagle pass,800
+1323,del rio / eagle pass,800
+1324,del rio / eagle pass,350
+1325,del rio / eagle pass,420
+1326,del rio / eagle pass,800
+1327,del rio / eagle pass,700
+1328,del rio / eagle pass,900
+1329,del rio / eagle pass,800
+1330,del rio / eagle pass,800
+1331,"denver, CO",525
+1332,"denver, CO",230
+1333,"denver, CO",450
+1334,"denver, CO",1400
+1335,"denver, CO",325
+1336,"denver, CO",475
+1337,"denver, CO",425
+1338,"denver, CO",200
+1339,"denver, CO",650
+1340,"denver, CO",200
+1341,"denver, CO",400
+1342,"denver, CO",400
+1343,"denver, CO",450
+1344,"denver, CO",450
+1345,"denver, CO",450
+1346,"denver, CO",425
+1347,"denver, CO",200
+1348,"denver, CO",400
+1349,"denver, CO",1100
+1350,"denver, CO",500
+1351,"denver, CO",450
+1352,"des moines, IA",525
+1353,"des moines, IA",400
+1354,"des moines, IA",200
+1355,"des moines, IA",200
+1356,"des moines, IA",350
+1357,"des moines, IA",550
+1358,"des moines, IA",400
+1359,"des moines, IA",325
+1360,"des moines, IA",500
+1361,"des moines, IA",230
+1362,detroit metro,439
+1363,detroit metro,350
+1364,detroit metro,449
+1365,detroit metro,460
+1366,detroit metro,549
+1367,detroit metro,499
+1368,detroit metro,99
+1369,detroit metro,475
+1370,detroit metro,99
+1371,detroit metro,500
+1372,detroit metro,300
+1373,detroit metro,399
+1374,detroit metro,499
+1375,detroit metro,500
+1376,detroit metro,99
+1377,detroit metro,480
+1378,detroit metro,500
+1379,detroit metro,525
+1380,detroit metro,500
+1381,detroit metro,95
+1382,detroit metro,520
+1383,"dothan, AL",200
+1384,"dothan, AL",450
+1385,"dothan, AL",225
+1386,"dothan, AL",200
+1387,"dothan, AL",400
+1388,"dothan, AL",500
+1389,"dothan, AL",232
+1390,"dothan, AL",175
+1391,"dothan, AL",500
+1392,"dothan, AL",449
+1393,"dothan, AL",449
+1394,"dothan, AL",400
+1395,"dothan, AL",200
+1396,"dothan, AL",231
+1397,"dothan, AL",450
+1398,dubuque,400
+1399,dubuque,325
+1400,dubuque,500
+1401,dubuque,230
+1402,dubuque,200
+1403,dubuque,450
+1404,dubuque,400
+1405,dubuque,400
+1406,duluth / superior,450
+1407,duluth / superior,450
+1408,duluth / superior,500
+1409,duluth / superior,525
+1410,duluth / superior,400
+1411,duluth / superior,550
+1412,duluth / superior,375
+1413,duluth / superior,240
+1414,duluth / superior,499
+1415,duluth / superior,499
+1416,duluth / superior,499
+1417,duluth / superior,499
+1418,duluth / superior,499
+1419,duluth / superior,549
+1420,duluth / superior,499
+1421,duluth / superior,1111
+1422,duluth / superior,550
+1423,duluth / superior,400
+1424,duluth / superior,350
+1425,duluth / superior,800
+1426,duluth / superior,450
+1427,eastern CO,390
+1428,eastern CO,230
+1429,eastern CO,500
+1430,eastern CO,200
+1431,eastern CO,200
+1432,eastern CO,525
+1433,eastern CO,230
+1434,eastern CO,450
+1435,eastern CO,1400
+1436,eastern CO,325
+1437,eastern CO,475
+1438,eastern CO,425
+1439,eastern CO,200
+1440,eastern CO,650
+1441,eastern CO,200
+1442,eastern CO,400
+1443,eastern CO,400
+1444,eastern CO,450
+1445,eastern CO,450
+1446,eastern CO,450
+1447,eastern CO,425
+1448,eastern CT,200
+1449,eastern CT,400
+1450,eastern CT,420
+1451,eastern CT,400
+1452,eastern CT,200
+1453,eastern CT,400
+1454,eastern CT,200
+1455,eastern CT,400
+1456,eastern CT,700
+1457,eastern CT,200
+1458,eastern CT,650
+1459,eastern CT,450
+1460,eastern CT,55
+1461,eastern CT,55
+1462,eastern CT,99
+1463,eastern CT,495
+1464,eastern CT,350
+1465,eastern CT,450
+1466,eastern CT,99
+1467,eastern CT,90
+1468,eastern CT,450
+1469,eastern kentucky,230
+1470,eastern kentucky,200
+1471,eastern kentucky,550
+1472,eastern kentucky,450
+1473,eastern kentucky,400
+1474,eastern kentucky,101
+1475,eastern kentucky,400
+1476,eastern kentucky,490
+1477,eastern montana,400
+1478,eastern montana,400
+1479,eastern montana,550
+1480,eastern montana,200
+1481,eastern montana,200
+1482,eastern montana,400
+1483,eastern montana,400
+1484,eastern NC,300
+1485,eastern NC,240
+1486,eastern NC,50
+1487,eastern NC,200
+1488,eastern NC,350
+1489,eastern NC,600
+1490,eastern NC,400
+1491,eastern NC,450
+1492,eastern NC,500
+1493,eastern NC,450
+1494,eastern NC,495
+1495,eastern NC,450
+1496,eastern NC,549
+1497,eastern NC,450
+1498,eastern NC,200
+1499,eastern NC,400
+1500,eastern NC,800
+1501,eastern NC,450
+1502,eastern NC,475
+1503,eastern NC,420
+1504,eastern NC,375
+1505,eastern panhandle,575
+1506,eastern panhandle,200
+1507,eastern panhandle,200
+1508,eastern panhandle,400
+1509,eastern panhandle,499
+1510,eastern panhandle,500
+1511,eastern panhandle,499
+1512,eastern panhandle,230
+1513,eastern panhandle,500
+1514,eastern panhandle,475
+1515,eastern panhandle,500
+1516,eastern panhandle,499
+1517,eastern panhandle,500
+1518,eastern panhandle,500
+1519,eastern panhandle,550
+1520,eastern panhandle,400
+1521,eastern panhandle,499
+1522,eastern panhandle,299
+1523,eastern panhandle,200
+1524,eastern panhandle,425
+1525,eastern panhandle,335
+1526,eastern shore,200
+1527,eastern shore,560
+1528,eastern shore,379
+1529,eastern shore,225
+1530,eastern shore,200
+1531,eastern shore,350
+1532,eastern shore,200
+1533,eastern shore,499
+1534,eastern shore,499
+1535,eastern shore,499
+1536,eastern shore,200
+1537,eastern shore,200
+1538,eastern shore,400
+1539,eastern shore,499
+1540,eastern shore,500
+1541,eastern shore,499
+1542,eastern shore,230
+1543,eastern shore,500
+1544,eastern shore,475
+1545,eastern shore,500
+1546,eastern shore,499
+1547,east idaho,400
+1548,east idaho,200
+1549,east idaho,480
+1550,east idaho,225
+1551,east idaho,400
+1552,east idaho,550
+1553,east idaho,200
+1554,east idaho,200
+1555,east idaho,430
+1556,east idaho,487
+1557,east idaho,60
+1558,east oregon,250
+1559,east oregon,550
+1560,east oregon,200
+1561,east oregon,200
+1562,east oregon,430
+1563,east oregon,487
+1564,east oregon,60
+1565,east oregon,475
+1566,east oregon,560
+1567,"eau claire, WI",425
+1568,"eau claire, WI",600
+1569,"eau claire, WI",380
+1570,"eau claire, WI",600
+1571,"eau claire, WI",400
+1572,"eau claire, WI",550
+1573,"eau claire, WI",375
+1574,"eau claire, WI",240
+1575,"eau claire, WI",499
+1576,"eau claire, WI",499
+1577,"eau claire, WI",499
+1578,"eau claire, WI",499
+1579,"eau claire, WI",499
+1580,"eau claire, WI",549
+1581,"eau claire, WI",499
+1582,"eau claire, WI",1111
+1583,"eau claire, WI",550
+1584,"eau claire, WI",400
+1585,"eau claire, WI",350
+1586,"eau claire, WI",800
+1587,"eau claire, WI",450
+1588,"elko, NV",200
+1589,"elko, NV",200
+1590,"elko, NV",400
+1591,"elko, NV",200
+1592,"elko, NV",480
+1593,"elko, NV",550
+1594,"elko, NV",200
+1595,"elko, NV",200
+1596,"elko, NV",430
+1597,"elko, NV",487
+1598,"elko, NV",60
+1599,"elko, NV",200
+1600,"elko, NV",225
+1601,"elko, NV",400
+1602,"elko, NV",550
+1603,elmira-corning,200
+1604,elmira-corning,200
+1605,elmira-corning,200
+1606,elmira-corning,200
+1607,elmira-corning,375
+1608,"el paso, TX",580
+1609,"el paso, TX",500
+1610,"el paso, TX",300
+1611,"el paso, TX",450
+1612,"el paso, TX",475
+1613,"el paso, TX",449
+1614,"el paso, TX",450
+1615,"el paso, TX",200
+1616,"el paso, TX",450
+1617,"el paso, TX",200
+1618,"el paso, TX",230
+1619,"el paso, TX",190
+1620,"el paso, TX",450
+1621,"el paso, TX",400
+1622,"el paso, TX",225
+1623,"erie, PA",226
+1624,"erie, PA",400
+1625,"erie, PA",225
+1626,"erie, PA",400
+1627,"erie, PA",300
+1628,"erie, PA",245
+1629,"erie, PA",200
+1630,"eugene, OR",230
+1631,"eugene, OR",200
+1632,"eugene, OR",200
+1633,"eugene, OR",230
+1634,"eugene, OR",460
+1635,"eugene, OR",500
+1636,"eugene, OR",450
+1637,"eugene, OR",600
+1638,"eugene, OR",400
+1639,"eugene, OR",409
+1640,"eugene, OR",99
+1641,"eugene, OR",50
+1642,"eugene, OR",500
+1643,"eugene, OR",500
+1644,"eugene, OR",300
+1645,"eugene, OR",450
+1646,"eugene, OR",99
+1647,"eugene, OR",99
+1648,"eugene, OR",69
+1649,"eugene, OR",50
+1650,"eugene, OR",500
+1651,"evansville, IN",375
+1652,"evansville, IN",229
+1653,"evansville, IN",200
+1654,"evansville, IN",400
+1655,"evansville, IN",200
+1656,"evansville, IN",200
+1657,"evansville, IN",200
+1658,"evansville, IN",475
+1659,"evansville, IN",300
+1660,"evansville, IN",400
+1661,"evansville, IN",200
+1662,"evansville, IN",202
+1663,"evansville, IN",200
+1664,"evansville, IN",525
+1665,"evansville, IN",525
+1666,"fairbanks, AK",350
+1667,"fairbanks, AK",250
+1668,"fairbanks, AK",200
+1669,"fairbanks, AK",200
+1670,"fairbanks, AK",200
+1671,"fairbanks, AK",200
+1672,"fairbanks, AK",200
+1673,"fairbanks, AK",575
+1674,fargo / moorhead,450
+1675,fargo / moorhead,480
+1676,fargo / moorhead,229
+1677,fargo / moorhead,400
+1678,fargo / moorhead,450
+1679,fargo / moorhead,500
+1680,fargo / moorhead,525
+1681,fargo / moorhead,200
+1682,"farmington, NM",400
+1683,"farmington, NM",200
+1684,"farmington, NM",450
+1685,"farmington, NM",200
+1686,"farmington, NM",230
+1687,"farmington, NM",190
+1688,"farmington, NM",450
+1689,"farmington, NM",400
+1690,"farmington, NM",650
+1691,"farmington, NM",229
+1692,"farmington, NM",200
+1693,"fayetteville, AR",200
+1694,"fayetteville, AR",225
+1695,"fayetteville, AR",225
+1696,"fayetteville, AR",400
+1697,"fayetteville, AR",400
+1698,"fayetteville, AR",600
+1699,"fayetteville, AR",350
+1700,"fayetteville, AR",400
+1701,"fayetteville, AR",400
+1702,"fayetteville, AR",950
+1703,"fayetteville, AR",429
+1704,"fayetteville, AR",775
+1705,"fayetteville, AR",469
+1706,"fayetteville, AR",449
+1707,"fayetteville, AR",449
+1708,"fayetteville, AR",775
+1709,"fayetteville, AR",200
+1710,"fayetteville, AR",469
+1711,"fayetteville, AR",459
+1712,"fayetteville, AR",225
+1713,"fayetteville, AR",500
+1714,"fayetteville, NC",475
+1715,"fayetteville, NC",425
+1716,"fayetteville, NC",225
+1717,"fayetteville, NC",225
+1718,"fayetteville, NC",400
+1719,"fayetteville, NC",450
+1720,"fayetteville, NC",500
+1721,"fayetteville, NC",450
+1722,"fayetteville, NC",495
+1723,"fayetteville, NC",450
+1724,"fayetteville, NC",549
+1725,"fayetteville, NC",450
+1726,"fayetteville, NC",200
+1727,"fayetteville, NC",400
+1728,"fayetteville, NC",800
+1729,"fayetteville, NC",450
+1730,"fayetteville, NC",475
+1731,"fayetteville, NC",420
+1732,"fayetteville, NC",375
+1733,"fayetteville, NC",200
+1734,"fayetteville, NC",450
+1735,"finger lakes, NY",200
+1736,"finger lakes, NY",200
+1737,"finger lakes, NY",200
+1738,"finger lakes, NY",200
+1739,"finger lakes, NY",400
+1740,"finger lakes, NY",500
+1741,"finger lakes, NY",575
+1742,"finger lakes, NY",575
+1743,"finger lakes, NY",500
+1744,flagstaff / sedona,229
+1745,flagstaff / sedona,200
+1746,flagstaff / sedona,400
+1747,flagstaff / sedona,390
+1748,flagstaff / sedona,1750
+1749,flagstaff / sedona,649
+1750,flagstaff / sedona,799
+1751,flagstaff / sedona,200
+1752,flagstaff / sedona,700
+1753,flagstaff / sedona,60
+1754,flagstaff / sedona,200
+1755,flagstaff / sedona,60
+1756,flagstaff / sedona,400
+1757,flagstaff / sedona,380
+1758,flagstaff / sedona,200
+1759,flagstaff / sedona,450
+1760,flagstaff / sedona,200
+1761,flagstaff / sedona,350
+1762,flagstaff / sedona,200
+1763,flagstaff / sedona,380
+1764,flagstaff / sedona,575
+1765,"flint, MI",450
+1766,"flint, MI",200
+1767,"flint, MI",79
+1768,"flint, MI",439
+1769,"flint, MI",350
+1770,"flint, MI",449
+1771,"flint, MI",460
+1772,"flint, MI",549
+1773,"flint, MI",499
+1774,"flint, MI",99
+1775,"flint, MI",475
+1776,"flint, MI",99
+1777,"flint, MI",500
+1778,"flint, MI",300
+1779,"flint, MI",399
+1780,"flint, MI",499
+1781,"flint, MI",500
+1782,"flint, MI",99
+1783,"flint, MI",480
+1784,"flint, MI",500
+1785,"flint, MI",525
+1786,florence / muscle shoals,450
+1787,florence / muscle shoals,350
+1788,florence / muscle shoals,250
+1789,florence / muscle shoals,200
+1790,florence / muscle shoals,350
+1791,florence / muscle shoals,400
+1792,florence / muscle shoals,400
+1793,florence / muscle shoals,535
+1794,florence / muscle shoals,240
+1795,florence / muscle shoals,400
+1796,florence / muscle shoals,200
+1797,florence / muscle shoals,500
+1798,florence / muscle shoals,230
+1799,florence / muscle shoals,500
+1800,florence / muscle shoals,430
+1801,florence / muscle shoals,200
+1802,"florence, SC",750
+1803,"florence, SC",450
+1804,"florence, SC",350
+1805,"florence, SC",200
+1806,"florence, SC",200
+1807,"florence, SC",400
+1808,"florence, SC",475
+1809,"florence, SC",425
+1810,"florence, SC",225
+1811,"florence, SC",225
+1812,"florence, SC",400
+1813,"florence, SC",425
+1814,"florence, SC",799
+1815,"florence, SC",799
+1816,"florence, SC",400
+1817,"florence, SC",450
+1818,"florence, SC",550
+1819,"florence, SC",200
+1820,"florence, SC",250
+1821,"florence, SC",330
+1822,"florence, SC",450
+1823,florida keys,200
+1824,florida keys,200
+1825,florida keys,499
+1826,florida keys,630
+1827,florida keys,499
+1828,florida keys,65
+1829,florida keys,499
+1830,florida keys,300
+1831,florida keys,500
+1832,florida keys,450
+1833,florida keys,400
+1834,florida keys,500
+1835,florida keys,450
+1836,florida keys,65
+1837,florida keys,700
+1838,florida keys,400
+1839,florida keys,450
+1840,florida keys,1300
+1841,florida keys,950
+1842,florida keys,349
+1843,florida keys,500
+1844,fort collins / north CO,500
+1845,fort collins / north CO,450
+1846,fort collins / north CO,119
+1847,fort collins / north CO,525
+1848,fort collins / north CO,230
+1849,fort collins / north CO,450
+1850,fort collins / north CO,1400
+1851,fort collins / north CO,325
+1852,fort collins / north CO,475
+1853,fort collins / north CO,425
+1854,fort collins / north CO,200
+1855,fort collins / north CO,650
+1856,fort collins / north CO,200
+1857,fort collins / north CO,400
+1858,fort collins / north CO,400
+1859,fort collins / north CO,450
+1860,fort collins / north CO,450
+1861,fort collins / north CO,450
+1862,fort collins / north CO,425
+1863,fort collins / north CO,200
+1864,fort collins / north CO,400
+1865,"fort dodge, IA",350
+1866,"fort dodge, IA",525
+1867,"fort dodge, IA",400
+1868,"fort dodge, IA",200
+1869,"fort dodge, IA",200
+1870,"fort dodge, IA",550
+1871,"fort dodge, IA",200
+1872,"fort smith, AR",400
+1873,"fort smith, AR",600
+1874,"fort smith, AR",200
+1875,"fort smith, AR",225
+1876,"fort smith, AR",225
+1877,"fort smith, AR",400
+1878,"fort smith, AR",429
+1879,"fort smith, AR",775
+1880,"fort smith, AR",469
+1881,"fort smith, AR",449
+1882,"fort smith, AR",449
+1883,"fort smith, AR",775
+1884,"fort smith, AR",200
+1885,"fort smith, AR",469
+1886,"fort smith, AR",459
+1887,"fort smith, AR",350
+1888,"fort smith, AR",400
+1889,"fort smith, AR",500
+1890,"fort smith, AR",235
+1891,"fort smith, AR",400
+1892,"fort smith, AR",200
+1893,"fort wayne, IN",200
+1894,"fort wayne, IN",700
+1895,"fort wayne, IN",400
+1896,"fort wayne, IN",200
+1897,"fort wayne, IN",260
+1898,"fort wayne, IN",200
+1899,"fort wayne, IN",200
+1900,"fort wayne, IN",450
+1901,"fort wayne, IN",500
+1902,"fort wayne, IN",235
+1903,"fort wayne, IN",300
+1904,"fort wayne, IN",275
+1905,"fort wayne, IN",450
+1906,"fort wayne, IN",470
+1907,"frederick, MD",575
+1908,"frederick, MD",200
+1909,"frederick, MD",200
+1910,"frederick, MD",400
+1911,"frederick, MD",499
+1912,"frederick, MD",500
+1913,"frederick, MD",499
+1914,"frederick, MD",230
+1915,"frederick, MD",500
+1916,"frederick, MD",475
+1917,"frederick, MD",500
+1918,"frederick, MD",499
+1919,"frederick, MD",500
+1920,"frederick, MD",500
+1921,"frederick, MD",550
+1922,"frederick, MD",400
+1923,"frederick, MD",499
+1924,"frederick, MD",299
+1925,"frederick, MD",200
+1926,"frederick, MD",425
+1927,"frederick, MD",335
+1928,"fredericksburg, VA",425
+1929,"fredericksburg, VA",200
+1930,"fredericksburg, VA",200
+1931,"fredericksburg, VA",400
+1932,"fredericksburg, VA",499
+1933,"fredericksburg, VA",500
+1934,"fredericksburg, VA",499
+1935,"fredericksburg, VA",230
+1936,"fredericksburg, VA",500
+1937,"fredericksburg, VA",475
+1938,"fredericksburg, VA",500
+1939,"fredericksburg, VA",499
+1940,"fredericksburg, VA",500
+1941,"fredericksburg, VA",500
+1942,"fredericksburg, VA",550
+1943,"fredericksburg, VA",400
+1944,"fredericksburg, VA",499
+1945,"fredericksburg, VA",299
+1946,"fredericksburg, VA",200
+1947,"fredericksburg, VA",425
+1948,"fredericksburg, VA",335
+1949,fresno / madera,200
+1950,fresno / madera,200
+1951,fresno / madera,200
+1952,fresno / madera,250
+1953,fresno / madera,480
+1954,fresno / madera,230
+1955,fresno / madera,200
+1956,fresno / madera,400
+1957,fresno / madera,400
+1958,fresno / madera,400
+1959,fresno / madera,400
+1960,fresno / madera,400
+1961,fresno / madera,400
+1962,fresno / madera,200
+1963,fresno / madera,400
+1964,fresno / madera,460
+1965,fresno / madera,400
+1966,fresno / madera,400
+1967,fresno / madera,400
+1968,fresno / madera,400
+1969,fresno / madera,450
+1970,ft myers / SW florida,475
+1971,ft myers / SW florida,475
+1972,ft myers / SW florida,475
+1973,ft myers / SW florida,300
+1974,ft myers / SW florida,400
+1975,ft myers / SW florida,400
+1976,ft myers / SW florida,420
+1977,ft myers / SW florida,360
+1978,ft myers / SW florida,450
+1979,ft myers / SW florida,400
+1980,ft myers / SW florida,200
+1981,ft myers / SW florida,400
+1982,ft myers / SW florida,100
+1983,ft myers / SW florida,399
+1984,ft myers / SW florida,499
+1985,ft myers / SW florida,100
+1986,ft myers / SW florida,400
+1987,ft myers / SW florida,499
+1988,ft myers / SW florida,50
+1989,ft myers / SW florida,397
+1990,ft myers / SW florida,397
+1991,gadsden-anniston,200
+1992,gadsden-anniston,350
+1993,gadsden-anniston,250
+1994,gadsden-anniston,200
+1995,gadsden-anniston,350
+1996,gadsden-anniston,200
+1997,gadsden-anniston,200
+1998,gadsden-anniston,200
+1999,gadsden-anniston,425
+2000,gadsden-anniston,430
+2001,gadsden-anniston,490
+2002,gadsden-anniston,200
+2003,gadsden-anniston,450
+2004,gadsden-anniston,450
+2005,gadsden-anniston,320
+2006,gadsden-anniston,380
+2007,gadsden-anniston,420
+2008,gadsden-anniston,470
+2009,gadsden-anniston,240
+2010,gadsden-anniston,400
+2011,gadsden-anniston,450
+2012,"gainesville, FL",450
+2013,"gainesville, FL",500
+2014,"gainesville, FL",400
+2015,"gainesville, FL",400
+2016,"gainesville, FL",200
+2017,"gainesville, FL",400
+2018,"gainesville, FL",265
+2019,"gainesville, FL",200
+2020,"gainesville, FL",490
+2021,"gainesville, FL",200
+2022,"gainesville, FL",449
+2023,"gainesville, FL",400
+2024,"gainesville, FL",499
+2025,"gainesville, FL",499
+2026,"gainesville, FL",449
+2027,"gainesville, FL",400
+2028,"gainesville, FL",500
+2029,"gainesville, FL",200
+2030,"gainesville, FL",450
+2031,"gainesville, FL",500
+2032,"gainesville, FL",200
+2033,"galveston, TX",425
+2034,"galveston, TX",465
+2035,"galveston, TX",465
+2036,"galveston, TX",475
+2037,"galveston, TX",465
+2038,"galveston, TX",475
+2039,"galveston, TX",230
+2040,"galveston, TX",425
+2041,"galveston, TX",390
+2042,"galveston, TX",475
+2043,"galveston, TX",200
+2044,"galveston, TX",350
+2045,"galveston, TX",725
+2046,"galveston, TX",1500
+2047,"galveston, TX",200
+2048,"galveston, TX",200
+2049,"galveston, TX",520
+2050,"galveston, TX",550
+2051,"galveston, TX",275
+2052,"galveston, TX",100
+2053,"galveston, TX",1500
+2054,"glens falls, NY",400
+2055,"glens falls, NY",200
+2056,"glens falls, NY",200
+2057,"glens falls, NY",400
+2058,"glens falls, NY",400
+2059,"glens falls, NY",400
+2060,"glens falls, NY",200
+2061,"glens falls, NY",500
+2062,"glens falls, NY",425
+2063,"glens falls, NY",200
+2064,"glens falls, NY",699
+2065,"glens falls, NY",580
+2066,"glens falls, NY",460
+2067,"glens falls, NY",350
+2068,gold country,200
+2069,gold country,200
+2070,gold country,550
+2071,gold country,550
+2072,gold country,425
+2073,gold country,370
+2074,gold country,400
+2075,gold country,200
+2076,gold country,580
+2077,gold country,400
+2078,gold country,500
+2079,gold country,500
+2080,gold country,460
+2081,gold country,500
+2082,gold country,500
+2083,gold country,227
+2084,gold country,500
+2085,gold country,450
+2086,gold country,450
+2087,gold country,200
+2088,gold country,400
+2089,grand forks,480
+2090,grand forks,229
+2091,grand forks,450
+2092,grand forks,400
+2093,grand forks,400
+2094,grand forks,400
+2095,"grand island, NE",200
+2096,"grand island, NE",230
+2097,"grand island, NE",200
+2098,"grand island, NE",400
+2099,"grand island, NE",400
+2100,"grand island, NE",202
+2101,"grand island, NE",400
+2102,"grand island, NE",230
+2103,"grand island, NE",200
+2104,"grand island, NE",400
+2105,"grand island, NE",200
+2106,"grand island, NE",200
+2107,"grand island, NE",400
+2108,"grand rapids, MI",400
+2109,"grand rapids, MI",400
+2110,"grand rapids, MI",400
+2111,"grand rapids, MI",200
+2112,"great falls, MT",200
+2113,"great falls, MT",200
+2114,"great falls, MT",400
+2115,"great falls, MT",400
+2116,"great falls, MT",400
+2117,"great falls, MT",400
+2118,"great falls, MT",550
+2119,"green bay, WI",550
+2120,"green bay, WI",200
+2121,"green bay, WI",350
+2122,"green bay, WI",500
+2123,"green bay, WI",550
+2124,"green bay, WI",400
+2125,"green bay, WI",1111
+2126,"green bay, WI",1111
+2127,"green bay, WI",500
+2128,"green bay, WI",200
+2129,"green bay, WI",400
+2130,"green bay, WI",1111
+2131,"green bay, WI",425
+2132,"green bay, WI",1111
+2133,"green bay, WI",400
+2134,"green bay, WI",1111
+2135,"green bay, WI",1111
+2136,"green bay, WI",450
+2137,"green bay, WI",425
+2138,"green bay, WI",1111
+2139,"green bay, WI",385
+2140,"greensboro, NC",485
+2141,"greensboro, NC",485
+2142,"greensboro, NC",550
+2143,"greensboro, NC",240
+2144,"greensboro, NC",800
+2145,"greensboro, NC",450
+2146,"greensboro, NC",500
+2147,"greensboro, NC",325
+2148,"greensboro, NC",235
+2149,"greensboro, NC",400
+2150,"greensboro, NC",450
+2151,"greensboro, NC",500
+2152,"greensboro, NC",450
+2153,"greensboro, NC",495
+2154,"greensboro, NC",450
+2155,"greensboro, NC",549
+2156,"greensboro, NC",450
+2157,"greensboro, NC",200
+2158,"greensboro, NC",400
+2159,"greensboro, NC",800
+2160,"greensboro, NC",450
+2161,greenville / upstate,600
+2162,greenville / upstate,50
+2163,greenville / upstate,85
+2164,greenville / upstate,400
+2165,greenville / upstate,525
+2166,greenville / upstate,375
+2167,greenville / upstate,400
+2168,greenville / upstate,75
+2169,greenville / upstate,229
+2170,greenville / upstate,350
+2171,greenville / upstate,450
+2172,greenville / upstate,400
+2173,greenville / upstate,200
+2174,greenville / upstate,200
+2175,greenville / upstate,500
+2176,greenville / upstate,400
+2177,greenville / upstate,400
+2178,greenville / upstate,425
+2179,greenville / upstate,799
+2180,greenville / upstate,799
+2181,greenville / upstate,400
+2182,gulfport / biloxi,200
+2183,gulfport / biloxi,225
+2184,gulfport / biloxi,280
+2185,gulfport / biloxi,350
+2186,gulfport / biloxi,500
+2187,gulfport / biloxi,200
+2188,gulfport / biloxi,200
+2189,gulfport / biloxi,200
+2190,gulfport / biloxi,200
+2191,gulfport / biloxi,240
+2192,gulfport / biloxi,475
+2193,gulfport / biloxi,350
+2194,gulfport / biloxi,200
+2195,gulfport / biloxi,300
+2196,gulfport / biloxi,200
+2197,gulfport / biloxi,240
+2198,gulfport / biloxi,500
+2199,gulfport / biloxi,400
+2200,gulfport / biloxi,600
+2201,gulfport / biloxi,125
+2202,gulfport / biloxi,200
+2203,hanford-corcoran,550
+2204,hanford-corcoran,200
+2205,hanford-corcoran,200
+2206,hanford-corcoran,200
+2207,hanford-corcoran,250
+2208,hanford-corcoran,480
+2209,hanford-corcoran,230
+2210,hanford-corcoran,200
+2211,hanford-corcoran,400
+2212,hanford-corcoran,400
+2213,hanford-corcoran,400
+2214,hanford-corcoran,400
+2215,hanford-corcoran,400
+2216,hanford-corcoran,400
+2217,hanford-corcoran,200
+2218,hanford-corcoran,400
+2219,hanford-corcoran,460
+2220,hanford-corcoran,400
+2221,hanford-corcoran,400
+2222,hanford-corcoran,400
+2223,hanford-corcoran,400
+2224,"harrisburg, PA",225
+2225,"harrisburg, PA",500
+2226,"harrisburg, PA",550
+2227,"harrisburg, PA",500
+2228,"harrisburg, PA",450
+2229,"harrisburg, PA",490
+2230,"harrisburg, PA",400
+2231,"harrisburg, PA",229
+2232,"harrisburg, PA",440
+2233,"harrisburg, PA",230
+2234,"harrisburg, PA",420
+2235,"harrisburg, PA",575
+2236,"harrisonburg, VA",447
+2237,"harrisonburg, VA",520
+2238,"harrisonburg, VA",230
+2239,"harrisonburg, VA",425
+2240,"harrisonburg, VA",580
+2241,"harrisonburg, VA",300
+2242,"harrisonburg, VA",530
+2243,"harrisonburg, VA",400
+2244,"harrisonburg, VA",700
+2245,"harrisonburg, VA",425
+2246,"hartford, CT",200
+2247,"hartford, CT",400
+2248,"hartford, CT",420
+2249,"hartford, CT",400
+2250,"hartford, CT",200
+2251,"hartford, CT",400
+2252,"hartford, CT",200
+2253,"hartford, CT",400
+2254,"hartford, CT",550
+2255,"hartford, CT",700
+2256,"hartford, CT",200
+2257,"hartford, CT",650
+2258,"hartford, CT",580
+2259,"hartford, CT",60
+2260,"hartford, CT",400
+2261,"hartford, CT",400
+2262,"hartford, CT",60
+2263,"hartford, CT",60
+2264,"hartford, CT",60
+2265,"hartford, CT",60
+2266,"hartford, CT",275
+2267,"hattiesburg, MS",240
+2268,"hattiesburg, MS",500
+2269,"hattiesburg, MS",200
+2270,"hattiesburg, MS",225
+2271,"hattiesburg, MS",280
+2272,"hattiesburg, MS",200
+2273,"hattiesburg, MS",400
+2274,"hattiesburg, MS",200
+2275,"hattiesburg, MS",240
+2276,"hattiesburg, MS",475
+2277,"hattiesburg, MS",350
+2278,"hattiesburg, MS",200
+2279,"hattiesburg, MS",300
+2280,"hattiesburg, MS",200
+2281,"hattiesburg, MS",350
+2282,"hattiesburg, MS",500
+2283,"hattiesburg, MS",200
+2284,"hattiesburg, MS",200
+2285,"hattiesburg, MS",200
+2286,hawaii,250
+2287,hawaii,600
+2288,hawaii,150
+2289,hawaii,650
+2290,hawaii,500
+2291,hawaii,460
+2292,hawaii,200
+2293,hawaii,200
+2294,hawaii,650
+2295,hawaii,550
+2296,hawaii,580
+2297,hawaii,500
+2298,hawaii,550
+2299,hawaii,650
+2300,hawaii,500
+2301,hawaii,575
+2302,hawaii,450
+2303,hawaii,400
+2304,heartland florida,450
+2305,heartland florida,400
+2306,heartland florida,200
+2307,heartland florida,400
+2308,heartland florida,400
+2309,heartland florida,400
+2310,heartland florida,420
+2311,heartland florida,360
+2312,heartland florida,100
+2313,heartland florida,399
+2314,heartland florida,499
+2315,heartland florida,100
+2316,heartland florida,400
+2317,heartland florida,499
+2318,heartland florida,50
+2319,heartland florida,397
+2320,heartland florida,397
+2321,heartland florida,397
+2322,heartland florida,100
+2323,heartland florida,397
+2324,heartland florida,100
+2325,"helena, MT",200
+2326,"helena, MT",200
+2327,"helena, MT",400
+2328,"helena, MT",400
+2329,"helena, MT",400
+2330,"helena, MT",400
+2331,"helena, MT",550
+2332,hickory / lenoir,580
+2333,hickory / lenoir,425
+2334,hickory / lenoir,799
+2335,hickory / lenoir,799
+2336,hickory / lenoir,400
+2337,hickory / lenoir,450
+2338,hickory / lenoir,550
+2339,hickory / lenoir,200
+2340,hickory / lenoir,250
+2341,hickory / lenoir,330
+2342,hickory / lenoir,450
+2343,hickory / lenoir,220
+2344,hickory / lenoir,200
+2345,hickory / lenoir,99
+2346,hickory / lenoir,425
+2347,hickory / lenoir,325
+2348,hickory / lenoir,75
+2349,hickory / lenoir,229
+2350,hickory / lenoir,350
+2351,hickory / lenoir,450
+2352,hickory / lenoir,400
+2353,high rockies,525
+2354,high rockies,230
+2355,high rockies,450
+2356,high rockies,1400
+2357,high rockies,325
+2358,high rockies,475
+2359,high rockies,425
+2360,high rockies,200
+2361,high rockies,650
+2362,high rockies,200
+2363,high rockies,400
+2364,high rockies,400
+2365,high rockies,450
+2366,high rockies,450
+2367,high rockies,450
+2368,high rockies,425
+2369,high rockies,200
+2370,high rockies,400
+2371,high rockies,1100
+2372,high rockies,500
+2373,high rockies,450
+2374,hilton head,500
+2375,hilton head,500
+2376,hilton head,150
+2377,hilton head,400
+2378,hilton head,500
+2379,hilton head,225
+2380,hilton head,230
+2381,hilton head,350
+2382,hilton head,200
+2383,hilton head,200
+2384,hilton head,400
+2385,"holland, MI",400
+2386,"holland, MI",400
+2387,"holland, MI",400
+2388,"holland, MI",450
+2389,"holland, MI",470
+2390,"houma, LA",350
+2391,"houma, LA",500
+2392,"houma, LA",200
+2393,"houma, LA",200
+2394,"houma, LA",200
+2395,"houma, LA",125
+2396,"houma, LA",200
+2397,"houma, LA",350
+2398,"houma, LA",325
+2399,"houma, LA",325
+2400,"houma, LA",200
+2401,"houma, LA",200
+2402,"houma, LA",200
+2403,"houma, LA",225
+2404,"houma, LA",280
+2405,"houma, LA",240
+2406,"houma, LA",500
+2407,"houston, TX",465
+2408,"houston, TX",465
+2409,"houston, TX",475
+2410,"houston, TX",465
+2411,"houston, TX",475
+2412,"houston, TX",230
+2413,"houston, TX",425
+2414,"houston, TX",390
+2415,"houston, TX",475
+2416,"houston, TX",200
+2417,"houston, TX",350
+2418,"houston, TX",725
+2419,"houston, TX",1500
+2420,"houston, TX",200
+2421,"houston, TX",200
+2422,"houston, TX",520
+2423,"houston, TX",550
+2424,"houston, TX",275
+2425,"houston, TX",100
+2426,"houston, TX",1500
+2427,"houston, TX",275
+2428,"hudson valley, NY",350
+2429,"hudson valley, NY",300
+2430,"hudson valley, NY",650
+2431,"hudson valley, NY",550
+2432,"hudson valley, NY",250
+2433,"hudson valley, NY",200
+2434,"hudson valley, NY",700
+2435,"hudson valley, NY",200
+2436,"hudson valley, NY",650
+2437,"hudson valley, NY",450
+2438,"hudson valley, NY",425
+2439,"hudson valley, NY",340
+2440,"hudson valley, NY",580
+2441,"hudson valley, NY",450
+2442,"hudson valley, NY",490
+2443,"hudson valley, NY",540
+2444,"hudson valley, NY",475
+2445,"hudson valley, NY",400
+2446,"hudson valley, NY",399
+2447,"hudson valley, NY",450
+2448,"hudson valley, NY",520
+2449,humboldt county,500
+2450,humboldt county,500
+2451,humboldt county,400
+2452,humboldt county,400
+2453,humboldt county,352
+2454,humboldt county,425
+2455,humboldt county,500
+2456,humboldt county,600
+2457,humboldt county,400
+2458,humboldt county,450
+2459,humboldt county,500
+2460,humboldt county,239
+2461,humboldt county,400
+2462,humboldt county,500
+2463,huntington-ashland,400
+2464,huntington-ashland,230
+2465,huntington-ashland,240
+2466,huntington-ashland,400
+2467,huntington-ashland,600
+2468,huntsville / decatur,200
+2469,huntsville / decatur,200
+2470,huntsville / decatur,200
+2471,huntsville / decatur,200
+2472,huntsville / decatur,350
+2473,huntsville / decatur,250
+2474,huntsville / decatur,200
+2475,huntsville / decatur,350
+2476,huntsville / decatur,400
+2477,huntsville / decatur,400
+2478,huntsville / decatur,535
+2479,huntsville / decatur,240
+2480,huntsville / decatur,400
+2481,huntsville / decatur,200
+2482,huntsville / decatur,500
+2483,huntsville / decatur,230
+2484,huntsville / decatur,500
+2485,imperial county,239
+2486,imperial county,600
+2487,imperial county,400
+2488,imperial county,229
+2489,imperial county,600
+2490,imperial county,280
+2491,imperial county,540
+2492,imperial county,350
+2493,imperial county,550
+2494,imperial county,449
+2495,imperial county,777
+2496,imperial county,200
+2497,imperial county,200
+2498,imperial county,400
+2499,imperial county,459
+2500,imperial county,499
+2501,imperial county,499
+2502,imperial county,230
+2503,imperial county,450
+2504,imperial county,350
+2505,imperial county,1500
+2506,indianapolis,200
+2507,indianapolis,480
+2508,indianapolis,200
+2509,indianapolis,465
+2510,indianapolis,250
+2511,indianapolis,400
+2512,indianapolis,500
+2513,indianapolis,235
+2514,indianapolis,300
+2515,indianapolis,275
+2516,indianapolis,200
+2517,indianapolis,200
+2518,indianapolis,450
+2519,indianapolis,200
+2520,indianapolis,202
+2521,"inland empire, CA",230
+2522,"inland empire, CA",450
+2523,"inland empire, CA",350
+2524,"inland empire, CA",1500
+2525,"inland empire, CA",600
+2526,"inland empire, CA",480
+2527,"inland empire, CA",425
+2528,"inland empire, CA",450
+2529,"inland empire, CA",550
+2530,"inland empire, CA",999999
+2531,"inland empire, CA",999999
+2532,"inland empire, CA",999999
+2533,"inland empire, CA",650
+2534,"inland empire, CA",999999
+2535,"inland empire, CA",355
+2536,"inland empire, CA",575
+2537,"inland empire, CA",550
+2538,"inland empire, CA",540
+2539,"inland empire, CA",460
+2540,"inland empire, CA",450
+2541,"inland empire, CA",500
+2542,"iowa city, IA",230
+2543,"iowa city, IA",400
+2544,"iowa city, IA",325
+2545,"iowa city, IA",500
+2546,"iowa city, IA",550
+2547,"iowa city, IA",525
+2548,"iowa city, IA",400
+2549,"iowa city, IA",200
+2550,"iowa city, IA",200
+2551,"ithaca, NY",200
+2552,"ithaca, NY",200
+2553,"ithaca, NY",200
+2554,"ithaca, NY",200
+2555,"ithaca, NY",350
+2556,"ithaca, NY",400
+2557,"ithaca, NY",500
+2558,"ithaca, NY",575
+2559,"ithaca, NY",575
+2560,"ithaca, NY",500
+2561,"jackson, MI",200
+2562,"jackson, MI",79
+2563,"jackson, MI",201
+2564,"jackson, MS",200
+2565,"jackson, MS",400
+2566,"jackson, MS",240
+2567,"jackson, MS",500
+2568,"jackson, MS",238
+2569,"jackson, MS",125
+2570,"jackson, MS",200
+2571,"jackson, MS",350
+2572,"jackson, MS",325
+2573,"jackson, MS",325
+2574,"jackson, MS",430
+2575,"jackson, TN",450
+2576,"jackson, TN",350
+2577,"jackson, TN",225
+2578,"jackson, TN",200
+2579,"jackson, TN",200
+2580,"jackson, TN",450
+2581,"jackson, TN",201
+2582,"jackson, TN",600
+2583,"jackson, TN",400
+2584,"jackson, TN",400
+2585,"jackson, TN",350
+2586,"jackson, TN",430
+2587,"jackson, TN",400
+2588,"jackson, TN",400
+2589,"jackson, TN",500
+2590,"jacksonville, FL",200
+2591,"jacksonville, FL",490
+2592,"jacksonville, FL",200
+2593,"jacksonville, FL",449
+2594,"jacksonville, FL",400
+2595,"jacksonville, FL",499
+2596,"jacksonville, FL",499
+2597,"jacksonville, FL",449
+2598,"jacksonville, FL",400
+2599,"jacksonville, FL",500
+2600,"jacksonville, FL",200
+2601,"jacksonville, FL",450
+2602,"jacksonville, FL",500
+2603,"jacksonville, FL",200
+2604,"jacksonville, FL",500
+2605,"jacksonville, FL",202
+2606,"jacksonville, FL",420
+2607,"jacksonville, FL",400
+2608,"jacksonville, FL",450
+2609,"jacksonville, FL",450
+2610,"jacksonville, FL",500
+2611,"jacksonville, NC",200
+2612,"jacksonville, NC",350
+2613,"jacksonville, NC",600
+2614,"jacksonville, NC",400
+2615,"jacksonville, NC",599
+2616,"jacksonville, NC",370
+2617,"jacksonville, NC",500
+2618,"jacksonville, NC",539
+2619,"jacksonville, NC",539
+2620,"jacksonville, NC",539
+2621,"jacksonville, NC",300
+2622,"jacksonville, NC",240
+2623,"jacksonville, NC",50
+2624,"jacksonville, NC",475
+2625,"jacksonville, NC",425
+2626,"jacksonville, NC",225
+2627,"jacksonville, NC",225
+2628,"jacksonville, NC",400
+2629,"jacksonville, NC",450
+2630,"jacksonville, NC",500
+2631,"jacksonville, NC",450
+2632,"janesville, WI",400
+2633,"janesville, WI",400
+2634,"janesville, WI",200
+2635,"janesville, WI",450
+2636,"janesville, WI",350
+2637,"janesville, WI",350
+2638,"janesville, WI",1111
+2639,"janesville, WI",1111
+2640,"janesville, WI",500
+2641,"janesville, WI",200
+2642,"janesville, WI",400
+2643,"janesville, WI",1111
+2644,"janesville, WI",425
+2645,"janesville, WI",1111
+2646,"janesville, WI",400
+2647,"janesville, WI",1111
+2648,"janesville, WI",1111
+2649,"janesville, WI",450
+2650,"janesville, WI",425
+2651,"janesville, WI",1111
+2652,"janesville, WI",385
+2653,jersey shore,270
+2654,jersey shore,230
+2655,jersey shore,415
+2656,jersey shore,450
+2657,jersey shore,450
+2658,jersey shore,200
+2659,jersey shore,650
+2660,jersey shore,530
+2661,jersey shore,650
+2662,jersey shore,950
+2663,jersey shore,450
+2664,jersey shore,90
+2665,jersey shore,450
+2666,jersey shore,425
+2667,jersey shore,500
+2668,jersey shore,500
+2669,jersey shore,450
+2670,jersey shore,450
+2671,jersey shore,400
+2672,jersey shore,430
+2673,jersey shore,725
+2674,"jonesboro, AR",350
+2675,"jonesboro, AR",225
+2676,"jonesboro, AR",200
+2677,"jonesboro, AR",200
+2678,"jonesboro, AR",450
+2679,"jonesboro, AR",201
+2680,"jonesboro, AR",600
+2681,"jonesboro, AR",400
+2682,"jonesboro, AR",400
+2683,"jonesboro, AR",350
+2684,"jonesboro, AR",450
+2685,"jonesboro, AR",500
+2686,"jonesboro, AR",235
+2687,"jonesboro, AR",400
+2688,"jonesboro, AR",200
+2689,"jonesboro, AR",430
+2690,"joplin, MO",350
+2691,"joplin, MO",400
+2692,"joplin, MO",225
+2693,"joplin, MO",400
+2694,"joplin, MO",950
+2695,"joplin, MO",200
+2696,"joplin, MO",225
+2697,"joplin, MO",225
+2698,"joplin, MO",400
+2699,"joplin, MO",429
+2700,"joplin, MO",775
+2701,"joplin, MO",469
+2702,"joplin, MO",449
+2703,"joplin, MO",449
+2704,"joplin, MO",775
+2705,"joplin, MO",200
+2706,"joplin, MO",469
+2707,"joplin, MO",459
+2708,"joplin, MO",400
+2709,"joplin, MO",600
+2710,"kalamazoo, MI",400
+2711,"kalamazoo, MI",400
+2712,"kalamazoo, MI",400
+2713,"kalamazoo, MI",450
+2714,"kalamazoo, MI",470
+2715,"kalispell, MT",400
+2716,"kalispell, MT",400
+2717,"kalispell, MT",200
+2718,"kalispell, MT",200
+2719,"kalispell, MT",400
+2720,"kalispell, MT",400
+2721,"kalispell, MT",500
+2722,"kalispell, MT",475
+2723,"kalispell, MT",500
+2724,"kalispell, MT",500
+2725,"kalispell, MT",500
+2726,"kansas city, MO",800
+2727,"kansas city, MO",380
+2728,"kansas city, MO",480
+2729,"kansas city, MO",540
+2730,"kansas city, MO",480
+2731,"kansas city, MO",450
+2732,"kansas city, MO",200
+2733,"kansas city, MO",200
+2734,"kansas city, MO",450
+2735,"kansas city, MO",600
+2736,"kansas city, MO",1000
+2737,"kansas city, MO",400
+2738,"kansas city, MO",400
+2739,"kansas city, MO",500
+2740,"kansas city, MO",200
+2741,"kansas city, MO",200
+2742,"kansas city, MO",200
+2743,"kansas city, MO",400
+2744,"kansas city, MO",500
+2745,"kansas city, MO",375
+2746,kenai peninsula,350
+2747,kenai peninsula,250
+2748,kenai peninsula,200
+2749,kenai peninsula,200
+2750,kenai peninsula,200
+2751,kenai peninsula,200
+2752,kenai peninsula,200
+2753,kenai peninsula,575
+2754,kennewick-pasco-richland,475
+2755,kennewick-pasco-richland,560
+2756,kennewick-pasco-richland,450
+2757,kennewick-pasco-richland,250
+2758,kenosha-racine,350
+2759,kenosha-racine,350
+2760,kenosha-racine,1111
+2761,kenosha-racine,1111
+2762,kenosha-racine,500
+2763,kenosha-racine,200
+2764,kenosha-racine,400
+2765,kenosha-racine,1111
+2766,kenosha-racine,425
+2767,kenosha-racine,1111
+2768,kenosha-racine,400
+2769,kenosha-racine,1111
+2770,kenosha-racine,1111
+2771,kenosha-racine,450
+2772,kenosha-racine,425
+2773,kenosha-racine,1111
+2774,kenosha-racine,385
+2775,kenosha-racine,425
+2776,kenosha-racine,425
+2777,kenosha-racine,1111
+2778,kenosha-racine,1111
+2779,killeen / temple / ft hood,200
+2780,killeen / temple / ft hood,200
+2781,killeen / temple / ft hood,300
+2782,killeen / temple / ft hood,200
+2783,killeen / temple / ft hood,400
+2784,killeen / temple / ft hood,240
+2785,killeen / temple / ft hood,200
+2786,killeen / temple / ft hood,480
+2787,killeen / temple / ft hood,450
+2788,killeen / temple / ft hood,200
+2789,killeen / temple / ft hood,420
+2790,killeen / temple / ft hood,202
+2791,killeen / temple / ft hood,420
+2792,killeen / temple / ft hood,233
+2793,killeen / temple / ft hood,430
+2794,killeen / temple / ft hood,500
+2795,killeen / temple / ft hood,350
+2796,killeen / temple / ft hood,325
+2797,killeen / temple / ft hood,200
+2798,killeen / temple / ft hood,435
+2799,killeen / temple / ft hood,435
+2800,"kirksville, MO",240
+2801,"kirksville, MO",500
+2802,"kirksville, MO",375
+2803,"kirksville, MO",525
+2804,"kirksville, MO",400
+2805,"kirksville, MO",200
+2806,"kirksville, MO",200
+2807,"kirksville, MO",230
+2808,"klamath falls, OR",500
+2809,"klamath falls, OR",425
+2810,"klamath falls, OR",500
+2811,"klamath falls, OR",600
+2812,"klamath falls, OR",352
+2813,"klamath falls, OR",400
+2814,"klamath falls, OR",400
+2815,"knoxville, TN",465
+2816,"knoxville, TN",200
+2817,"knoxville, TN",480
+2818,"knoxville, TN",550
+2819,"knoxville, TN",450
+2820,"knoxville, TN",75
+2821,"knoxville, TN",229
+2822,"knoxville, TN",350
+2823,"knoxville, TN",450
+2824,"knoxville, TN",400
+2825,"knoxville, TN",200
+2826,"knoxville, TN",200
+2827,"knoxville, TN",500
+2828,"knoxville, TN",550
+2829,"knoxville, TN",450
+2830,"knoxville, TN",232
+2831,"knoxville, TN",200
+2832,"knoxville, TN",200
+2833,"knoxville, TN",200
+2834,"knoxville, TN",600
+2835,"knoxville, TN",50
+2836,"kokomo, IN",500
+2837,"kokomo, IN",235
+2838,"kokomo, IN",300
+2839,"kokomo, IN",275
+2840,"kokomo, IN",200
+2841,"kokomo, IN",200
+2842,"kokomo, IN",200
+2843,"kokomo, IN",450
+2844,"kokomo, IN",200
+2845,"kokomo, IN",480
+2846,"kokomo, IN",200
+2847,"kokomo, IN",465
+2848,"kokomo, IN",250
+2849,"kokomo, IN",200
+2850,"kokomo, IN",700
+2851,"kokomo, IN",400
+2852,"kokomo, IN",200
+2853,"kokomo, IN",260
+2854,"kokomo, IN",202
+2855,"kokomo, IN",450
+2856,"kokomo, IN",470
+2857,"la crosse, WI",380
+2858,"la crosse, WI",600
+2859,"la crosse, WI",425
+2860,"la crosse, WI",600
+2861,"la crosse, WI",200
+2862,"la crosse, WI",450
+2863,"la crosse, WI",550
+2864,"lafayette, LA",200
+2865,"lafayette, LA",200
+2866,"lafayette, LA",125
+2867,"lafayette, LA",200
+2868,"lafayette, LA",350
+2869,"lafayette, LA",325
+2870,"lafayette, LA",325
+2871,"lafayette, LA",350
+2872,"lafayette, LA",500
+2873,"lafayette, LA",200
+2874,"lafayette, LA",200
+2875,"lafayette, LA",200
+2876,lafayette / west lafayette,200
+2877,lafayette / west lafayette,500
+2878,lafayette / west lafayette,235
+2879,lafayette / west lafayette,300
+2880,lafayette / west lafayette,275
+2881,lafayette / west lafayette,200
+2882,lafayette / west lafayette,480
+2883,lafayette / west lafayette,200
+2884,lafayette / west lafayette,465
+2885,lafayette / west lafayette,250
+2886,lafayette / west lafayette,550
+2887,lafayette / west lafayette,600
+2888,lafayette / west lafayette,200
+2889,lafayette / west lafayette,200
+2890,lafayette / west lafayette,450
+2891,lafayette / west lafayette,400
+2892,"lake charles, LA",200
+2893,"lake charles, LA",200
+2894,"lake charles, LA",425
+2895,"lake charles, LA",125
+2896,"lake charles, LA",200
+2897,"lake charles, LA",350
+2898,"lake charles, LA",325
+2899,"lake charles, LA",325
+2900,"lakeland, FL",450
+2901,"lakeland, FL",400
+2902,"lakeland, FL",200
+2903,"lakeland, FL",400
+2904,"lakeland, FL",100
+2905,"lakeland, FL",399
+2906,"lakeland, FL",499
+2907,"lakeland, FL",100
+2908,"lakeland, FL",400
+2909,"lakeland, FL",499
+2910,"lakeland, FL",50
+2911,"lakeland, FL",397
+2912,"lakeland, FL",397
+2913,"lakeland, FL",397
+2914,"lakeland, FL",100
+2915,"lakeland, FL",397
+2916,"lakeland, FL",100
+2917,"lakeland, FL",499
+2918,"lakeland, FL",100
+2919,"lakeland, FL",100
+2920,"lakeland, FL",100
+2921,lake of the ozarks,500
+2922,lake of the ozarks,375
+2923,lake of the ozarks,400
+2924,lake of the ozarks,950
+2925,lake of the ozarks,800
+2926,lake of the ozarks,380
+2927,lake of the ozarks,480
+2928,lake of the ozarks,540
+2929,lake of the ozarks,480
+2930,lake of the ozarks,450
+2931,lake of the ozarks,200
+2932,lake of the ozarks,200
+2933,lake of the ozarks,450
+2934,lake of the ozarks,600
+2935,lake of the ozarks,1000
+2936,lake of the ozarks,400
+2937,lake of the ozarks,400
+2938,lake of the ozarks,500
+2939,lake of the ozarks,350
+2940,lake of the ozarks,400
+2941,lake of the ozarks,475
+2942,"lancaster, PA",490
+2943,"lancaster, PA",400
+2944,"lancaster, PA",229
+2945,"lancaster, PA",440
+2946,"lancaster, PA",230
+2947,"lancaster, PA",420
+2948,"lancaster, PA",225
+2949,"lancaster, PA",500
+2950,"lancaster, PA",550
+2951,"lancaster, PA",500
+2952,"lancaster, PA",450
+2953,"lancaster, PA",560
+2954,"lancaster, PA",379
+2955,"lancaster, PA",225
+2956,"lancaster, PA",200
+2957,"lancaster, PA",350
+2958,"lancaster, PA",200
+2959,"lancaster, PA",499
+2960,"lancaster, PA",499
+2961,"lancaster, PA",499
+2962,"lancaster, PA",474
+2963,"lansing, MI",200
+2964,"lansing, MI",79
+2965,"lansing, MI",450
+2966,"lansing, MI",400
+2967,"lansing, MI",400
+2968,"lansing, MI",400
+2969,"laredo, TX",550
+2970,"laredo, TX",370
+2971,"laredo, TX",380
+2972,"laredo, TX",370
+2973,"laredo, TX",380
+2974,"laredo, TX",650
+2975,"laredo, TX",123
+2976,"laredo, TX",123
+2977,"laredo, TX",123
+2978,"laredo, TX",390
+2979,"laredo, TX",123
+2980,"laredo, TX",123
+2981,"laredo, TX",123
+2982,"laredo, TX",450
+2983,"laredo, TX",255
+2984,"laredo, TX",450
+2985,"laredo, TX",500
+2986,"laredo, TX",123
+2987,"laredo, TX",123
+2988,"laredo, TX",400
+2989,"laredo, TX",123
+2990,la salle co,400
+2991,la salle co,400
+2992,la salle co,400
+2993,la salle co,495
+2994,la salle co,399
+2995,la salle co,230
+2996,la salle co,400
+2997,la salle co,400
+2998,la salle co,410
+2999,la salle co,1000
+3000,la salle co,400
+3001,la salle co,600
+3002,la salle co,225
+3003,la salle co,1234
+3004,la salle co,69
+3005,la salle co,69
+3006,la salle co,69
+3007,la salle co,530
+3008,la salle co,1234
+3009,la salle co,12345
+3010,"las cruces, NM",580
+3011,"las cruces, NM",500
+3012,"las cruces, NM",300
+3013,"las cruces, NM",450
+3014,"las cruces, NM",475
+3015,"las cruces, NM",449
+3016,"las cruces, NM",450
+3017,"las cruces, NM",450
+3018,"las cruces, NM",200
+3019,"las cruces, NM",230
+3020,"las cruces, NM",190
+3021,"las cruces, NM",450
+3022,"las cruces, NM",400
+3023,"las cruces, NM",200
+3024,"las cruces, NM",650
+3025,las vegas,340
+3026,las vegas,230
+3027,las vegas,525
+3028,las vegas,200
+3029,las vegas,200
+3030,las vegas,400
+3031,las vegas,550
+3032,las vegas,550
+3033,las vegas,200
+3034,las vegas,550
+3035,las vegas,350
+3036,las vegas,200
+3037,las vegas,400
+3038,las vegas,200
+3039,las vegas,600
+3040,las vegas,400
+3041,las vegas,400
+3042,las vegas,200
+3043,las vegas,550
+3044,las vegas,550
+3045,las vegas,479
+3046,"lawrence, KS",200
+3047,"lawrence, KS",200
+3048,"lawrence, KS",800
+3049,"lawrence, KS",380
+3050,"lawrence, KS",480
+3051,"lawrence, KS",540
+3052,"lawrence, KS",480
+3053,"lawrence, KS",450
+3054,"lawrence, KS",200
+3055,"lawrence, KS",200
+3056,"lawrence, KS",450
+3057,"lawrence, KS",600
+3058,"lawrence, KS",1000
+3059,"lawrence, KS",400
+3060,"lawrence, KS",400
+3061,"lawrence, KS",500
+3062,"lawrence, KS",200
+3063,"lawrence, KS",400
+3064,"lawrence, KS",225
+3065,"lawton, OK",200
+3066,"lawton, OK",200
+3067,"lawton, OK",460
+3068,"lawton, OK",469
+3069,"lawton, OK",469
+3070,"lawton, OK",469
+3071,"lawton, OK",469
+3072,"lawton, OK",469
+3073,"lawton, OK",469
+3074,"lawton, OK",475
+3075,"lawton, OK",460
+3076,"lawton, OK",400
+3077,"lawton, OK",460
+3078,"lawton, OK",469
+3079,"lawton, OK",469
+3080,"lawton, OK",460
+3081,"lawton, OK",200
+3082,"lawton, OK",460
+3083,"lawton, OK",460
+3084,"lawton, OK",500
+3085,"lawton, OK",460
+3086,lehigh valley,474
+3087,lehigh valley,500
+3088,lehigh valley,229
+3089,lehigh valley,440
+3090,lehigh valley,230
+3091,lehigh valley,420
+3092,lehigh valley,290
+3093,lehigh valley,350
+3094,lehigh valley,228
+3095,lehigh valley,600
+3096,lehigh valley,500
+3097,lehigh valley,325
+3098,lehigh valley,450
+3099,lehigh valley,180
+3100,lehigh valley,425
+3101,lehigh valley,400
+3102,lehigh valley,400
+3103,lehigh valley,400
+3104,lehigh valley,175
+3105,lehigh valley,600
+3106,lehigh valley,250
+3107,lewiston / clarkston,500
+3108,lewiston / clarkston,475
+3109,lewiston / clarkston,500
+3110,lewiston / clarkston,500
+3111,lewiston / clarkston,500
+3112,lewiston / clarkston,475
+3113,lewiston / clarkston,560
+3114,lewiston / clarkston,250
+3115,"lexington, KY",101
+3116,"lexington, KY",400
+3117,"lexington, KY",490
+3118,"lexington, KY",200
+3119,"lexington, KY",202
+3120,"lexington, KY",200
+3121,"lexington, KY",525
+3122,"lexington, KY",525
+3123,"lexington, KY",450
+3124,"lexington, KY",549
+3125,"lexington, KY",230
+3126,"lexington, KY",600
+3127,lima / findlay,200
+3128,lima / findlay,700
+3129,lima / findlay,400
+3130,lima / findlay,200
+3131,lima / findlay,260
+3132,lima / findlay,201
+3133,lima / findlay,202
+3134,lima / findlay,200
+3135,lima / findlay,200
+3136,lima / findlay,450
+3137,lima / findlay,230
+3138,lima / findlay,500
+3139,lima / findlay,549
+3140,lima / findlay,600
+3141,lima / findlay,450
+3142,lima / findlay,425
+3143,lima / findlay,400
+3144,lima / findlay,500
+3145,lima / findlay,579
+3146,"lincoln, NE",200
+3147,"lincoln, NE",400
+3148,"lincoln, NE",400
+3149,"lincoln, NE",202
+3150,"lincoln, NE",400
+3151,"lincoln, NE",200
+3152,"lincoln, NE",400
+3153,"lincoln, NE",200
+3154,"lincoln, NE",230
+3155,"lincoln, NE",200
+3156,"lincoln, NE",400
+3157,"lincoln, NE",200
+3158,"lincoln, NE",200
+3159,"lincoln, NE",200
+3160,little rock,500
+3161,little rock,235
+3162,little rock,400
+3163,little rock,200
+3164,little rock,400
+3165,little rock,600
+3166,little rock,350
+3167,little rock,225
+3168,little rock,200
+3169,little rock,200
+3170,little rock,450
+3171,little rock,201
+3172,little rock,600
+3173,little rock,400
+3174,little rock,400
+3175,little rock,350
+3176,little rock,239
+3177,little rock,200
+3178,little rock,225
+3179,little rock,225
+3180,little rock,400
+3181,"logan, UT",225
+3182,"logan, UT",400
+3183,"logan, UT",200
+3184,"logan, UT",550
+3185,"logan, UT",400
+3186,"logan, UT",200
+3187,"logan, UT",480
+3188,"logan, UT",200
+3189,"long island, NY",200
+3190,"long island, NY",650
+3191,"long island, NY",475
+3192,"long island, NY",350
+3193,"long island, NY",380
+3194,"long island, NY",200
+3195,"long island, NY",500
+3196,"long island, NY",450
+3197,"long island, NY",375
+3198,"long island, NY",700
+3199,"long island, NY",200
+3200,"long island, NY",650
+3201,"long island, NY",415
+3202,"long island, NY",450
+3203,"long island, NY",450
+3204,"long island, NY",200
+3205,"long island, NY",650
+3206,"long island, NY",530
+3207,"long island, NY",650
+3208,"long island, NY",950
+3209,"long island, NY",450
+3210,los angeles,145
+3211,los angeles,600
+3212,los angeles,499
+3213,los angeles,375
+3214,los angeles,500
+3215,los angeles,360
+3216,los angeles,560
+3217,los angeles,500
+3218,los angeles,300
+3219,los angeles,360
+3220,los angeles,145
+3221,los angeles,458
+3222,los angeles,650
+3223,los angeles,360
+3224,los angeles,465
+3225,los angeles,400
+3226,los angeles,500
+3227,los angeles,500
+3228,los angeles,600
+3229,los angeles,400
+3230,los angeles,500
+3231,"louisville, KY",200
+3232,"louisville, KY",202
+3233,"louisville, KY",200
+3234,"louisville, KY",525
+3235,"louisville, KY",525
+3236,"louisville, KY",101
+3237,"louisville, KY",400
+3238,"louisville, KY",490
+3239,"louisville, KY",400
+3240,"louisville, KY",450
+3241,"louisville, KY",549
+3242,"louisville, KY",300
+3243,"louisville, KY",375
+3244,"louisville, KY",229
+3245,"louisville, KY",200
+3246,"louisville, KY",400
+3247,"louisville, KY",200
+3248,"lubbock, TX",50
+3249,"lubbock, TX",200
+3250,"lubbock, TX",450
+3251,"lubbock, TX",500
+3252,"lubbock, TX",200
+3253,"lubbock, TX",200
+3254,"lubbock, TX",200
+3255,"lubbock, TX",503
+3256,"lubbock, TX",400
+3257,"lubbock, TX",400
+3258,"lynchburg, VA",400
+3259,"lynchburg, VA",700
+3260,"lynchburg, VA",232
+3261,"lynchburg, VA",225
+3262,"lynchburg, VA",230
+3263,"lynchburg, VA",425
+3264,"lynchburg, VA",580
+3265,"lynchburg, VA",300
+3266,"lynchburg, VA",530
+3267,"lynchburg, VA",235
+3268,"lynchburg, VA",400
+3269,"lynchburg, VA",447
+3270,"lynchburg, VA",520
+3271,"lynchburg, VA",230
+3272,"lynchburg, VA",550
+3273,"lynchburg, VA",240
+3274,"lynchburg, VA",200
+3275,"lynchburg, VA",200
+3276,"lynchburg, VA",200
+3277,"lynchburg, VA",400
+3278,macon / warner robins,500
+3279,macon / warner robins,425
+3280,macon / warner robins,430
+3281,macon / warner robins,490
+3282,macon / warner robins,200
+3283,macon / warner robins,450
+3284,macon / warner robins,450
+3285,macon / warner robins,320
+3286,macon / warner robins,380
+3287,macon / warner robins,420
+3288,macon / warner robins,470
+3289,macon / warner robins,240
+3290,macon / warner robins,400
+3291,macon / warner robins,450
+3292,macon / warner robins,380
+3293,macon / warner robins,250
+3294,macon / warner robins,350
+3295,macon / warner robins,160
+3296,macon / warner robins,250
+3297,macon / warner robins,450
+3298,macon / warner robins,490
+3299,"madison, WI",200
+3300,"madison, WI",450
+3301,"madison, WI",400
+3302,"madison, WI",400
+3303,"madison, WI",1111
+3304,"madison, WI",1111
+3305,"madison, WI",500
+3306,"madison, WI",200
+3307,"madison, WI",400
+3308,"madison, WI",1111
+3309,"madison, WI",425
+3310,"madison, WI",1111
+3311,"madison, WI",400
+3312,"madison, WI",1111
+3313,"madison, WI",1111
+3314,"madison, WI",450
+3315,"madison, WI",425
+3316,"madison, WI",1111
+3317,"madison, WI",385
+3318,"madison, WI",425
+3319,"madison, WI",425
+3320,maine,200
+3321,maine,200
+3322,maine,500
+3323,maine,500
+3324,maine,385
+3325,maine,200
+3326,maine,200
+3327,maine,200
+3328,maine,499
+3329,maine,499
+3330,maine,489
+3331,maine,465
+3332,maine,340
+3333,maine,499
+3334,maine,495
+3335,maine,500
+3336,maine,600
+3337,maine,350
+3338,maine,350
+3339,maine,600
+3340,maine,350
+3341,"manhattan, KS",200
+3342,"manhattan, KS",400
+3343,"manhattan, KS",200
+3344,"manhattan, KS",200
+3345,"manhattan, KS",800
+3346,"manhattan, KS",380
+3347,"manhattan, KS",480
+3348,"manhattan, KS",540
+3349,"manhattan, KS",480
+3350,"manhattan, KS",450
+3351,"manhattan, KS",200
+3352,"manhattan, KS",200
+3353,"manhattan, KS",450
+3354,"manhattan, KS",600
+3355,"manhattan, KS",1000
+3356,"manhattan, KS",400
+3357,"manhattan, KS",400
+3358,"manhattan, KS",500
+3359,"manhattan, KS",525
+3360,"manhattan, KS",499
+3361,"manhattan, KS",499
+3362,"mankato, MN",400
+3363,"mankato, MN",550
+3364,"mankato, MN",375
+3365,"mankato, MN",240
+3366,"mankato, MN",499
+3367,"mankato, MN",499
+3368,"mankato, MN",499
+3369,"mankato, MN",499
+3370,"mankato, MN",499
+3371,"mankato, MN",549
+3372,"mankato, MN",499
+3373,"mankato, MN",1111
+3374,"mankato, MN",550
+3375,"mankato, MN",400
+3376,"mankato, MN",350
+3377,"mankato, MN",800
+3378,"mankato, MN",450
+3379,"mankato, MN",500
+3380,"mankato, MN",599
+3381,"mankato, MN",600
+3382,"mankato, MN",200
+3383,"mansfield, OH",230
+3384,"mansfield, OH",450
+3385,"mansfield, OH",400
+3386,"mansfield, OH",450
+3387,"mansfield, OH",549
+3388,"mansfield, OH",235
+3389,"mansfield, OH",230
+3390,"mansfield, OH",500
+3391,"mansfield, OH",549
+3392,"mansfield, OH",600
+3393,"mansfield, OH",450
+3394,"mansfield, OH",425
+3395,"mansfield, OH",400
+3396,"mansfield, OH",500
+3397,"mansfield, OH",579
+3398,"mansfield, OH",225
+3399,"mansfield, OH",450
+3400,"mansfield, OH",999
+3401,"mansfield, OH",201
+3402,"mansfield, OH",400
+3403,"mansfield, OH",999
+3404,"mason city, IA",550
+3405,"mason city, IA",350
+3406,"mason city, IA",600
+3407,"mason city, IA",380
+3408,mattoon-charleston,400
+3409,mattoon-charleston,400
+3410,mattoon-charleston,200
+3411,mattoon-charleston,230
+3412,mattoon-charleston,400
+3413,mattoon-charleston,550
+3414,mattoon-charleston,600
+3415,mattoon-charleston,400
+3416,mcallen / edinburg,123
+3417,mcallen / edinburg,123
+3418,mcallen / edinburg,123
+3419,mcallen / edinburg,390
+3420,mcallen / edinburg,123
+3421,mcallen / edinburg,123
+3422,mcallen / edinburg,123
+3423,mcallen / edinburg,450
+3424,mcallen / edinburg,255
+3425,mcallen / edinburg,450
+3426,mcallen / edinburg,500
+3427,mcallen / edinburg,123
+3428,mcallen / edinburg,123
+3429,mcallen / edinburg,400
+3430,mcallen / edinburg,123
+3431,mcallen / edinburg,350
+3432,mcallen / edinburg,375
+3433,mcallen / edinburg,450
+3434,mcallen / edinburg,123
+3435,mcallen / edinburg,123
+3436,mcallen / edinburg,410
+3437,"meadville, PA",226
+3438,"meadville, PA",400
+3439,"meadville, PA",225
+3440,"meadville, PA",400
+3441,"meadville, PA",300
+3442,"meadville, PA",245
+3443,"meadville, PA",225
+3444,"meadville, PA",450
+3445,"meadville, PA",999
+3446,"meadville, PA",201
+3447,"meadville, PA",400
+3448,"meadville, PA",999
+3449,"meadville, PA",999
+3450,"meadville, PA",201
+3451,"meadville, PA",400
+3452,"meadville, PA",400
+3453,"meadville, PA",200
+3454,"meadville, PA",400
+3455,"meadville, PA",400
+3456,"meadville, PA",400
+3457,"meadville, PA",550
+3458,medford-ashland,425
+3459,medford-ashland,500
+3460,medford-ashland,600
+3461,medford-ashland,500
+3462,medford-ashland,352
+3463,medford-ashland,230
+3464,medford-ashland,200
+3465,medford-ashland,400
+3466,medford-ashland,400
+3467,"memphis, TN",350
+3468,"memphis, TN",225
+3469,"memphis, TN",200
+3470,"memphis, TN",200
+3471,"memphis, TN",450
+3472,"memphis, TN",201
+3473,"memphis, TN",600
+3474,"memphis, TN",400
+3475,"memphis, TN",400
+3476,"memphis, TN",350
+3477,"memphis, TN",430
+3478,"memphis, TN",450
+3479,"memphis, TN",500
+3480,"memphis, TN",235
+3481,"memphis, TN",400
+3482,"memphis, TN",200
+3483,mendocino county,400
+3484,mendocino county,450
+3485,mendocino county,500
+3486,mendocino county,239
+3487,mendocino county,400
+3488,mendocino county,227
+3489,mendocino county,500
+3490,mendocino county,500
+3491,mendocino county,500
+3492,mendocino county,400
+3493,mendocino county,400
+3494,mendocino county,200
+3495,mendocino county,200
+3496,mendocino county,550
+3497,mendocino county,550
+3498,mendocino county,425
+3499,mendocino county,370
+3500,mendocino county,400
+3501,mendocino county,200
+3502,mendocino county,580
+3503,mendocino county,400
+3504,"merced, CA",350
+3505,"merced, CA",549
+3506,"merced, CA",400
+3507,"merced, CA",400
+3508,"merced, CA",600
+3509,"merced, CA",400
+3510,"merced, CA",500
+3511,"merced, CA",200
+3512,"merced, CA",200
+3513,"merced, CA",200
+3514,"merced, CA",250
+3515,"merced, CA",480
+3516,"merced, CA",230
+3517,"merced, CA",200
+3518,"merced, CA",400
+3519,"merced, CA",400
+3520,"merced, CA",400
+3521,"merced, CA",400
+3522,"merced, CA",400
+3523,"merced, CA",400
+3524,"merced, CA",200
+3525,"meridian, MS",240
+3526,"meridian, MS",500
+3527,"meridian, MS",200
+3528,"meridian, MS",400
+3529,"meridian, MS",400
+3530,"meridian, MS",200
+3531,"meridian, MS",240
+3532,"meridian, MS",475
+3533,"meridian, MS",350
+3534,"meridian, MS",200
+3535,"meridian, MS",300
+3536,"meridian, MS",200
+3537,"meridian, MS",350
+3538,"meridian, MS",250
+3539,"meridian, MS",200
+3540,"meridian, MS",350
+3541,"meridian, MS",200
+3542,"meridian, MS",225
+3543,"meridian, MS",280
+3544,"milwaukee, WI",1111
+3545,"milwaukee, WI",1111
+3546,"milwaukee, WI",500
+3547,"milwaukee, WI",200
+3548,"milwaukee, WI",400
+3549,"milwaukee, WI",1111
+3550,"milwaukee, WI",425
+3551,"milwaukee, WI",1111
+3552,"milwaukee, WI",400
+3553,"milwaukee, WI",1111
+3554,"milwaukee, WI",1111
+3555,"milwaukee, WI",450
+3556,"milwaukee, WI",425
+3557,"milwaukee, WI",1111
+3558,"milwaukee, WI",385
+3559,"milwaukee, WI",425
+3560,"milwaukee, WI",425
+3561,"milwaukee, WI",1111
+3562,"milwaukee, WI",1111
+3563,"milwaukee, WI",1111
+3564,"milwaukee, WI",1111
+3565,minneapolis / st paul,400
+3566,minneapolis / st paul,550
+3567,minneapolis / st paul,375
+3568,minneapolis / st paul,240
+3569,minneapolis / st paul,499
+3570,minneapolis / st paul,499
+3571,minneapolis / st paul,499
+3572,minneapolis / st paul,499
+3573,minneapolis / st paul,499
+3574,minneapolis / st paul,549
+3575,minneapolis / st paul,499
+3576,minneapolis / st paul,1111
+3577,minneapolis / st paul,550
+3578,minneapolis / st paul,400
+3579,minneapolis / st paul,350
+3580,minneapolis / st paul,800
+3581,minneapolis / st paul,450
+3582,minneapolis / st paul,500
+3583,minneapolis / st paul,599
+3584,minneapolis / st paul,450
+3585,minneapolis / st paul,500
+3586,"missoula, MT",400
+3587,"missoula, MT",400
+3588,"missoula, MT",200
+3589,"missoula, MT",200
+3590,"missoula, MT",400
+3591,"missoula, MT",400
+3592,"mobile, AL",200
+3593,"mobile, AL",240
+3594,"mobile, AL",475
+3595,"mobile, AL",350
+3596,"mobile, AL",200
+3597,"mobile, AL",300
+3598,"mobile, AL",200
+3599,"mobile, AL",400
+3600,"mobile, AL",600
+3601,"mobile, AL",200
+3602,"mobile, AL",225
+3603,"mobile, AL",280
+3604,"mobile, AL",240
+3605,"mobile, AL",500
+3606,"mobile, AL",175
+3607,"mobile, AL",500
+3608,"mobile, AL",350
+3609,"mobile, AL",500
+3610,"mobile, AL",200
+3611,"mobile, AL",200
+3612,"mobile, AL",200
+3613,"modesto, CA",549
+3614,"modesto, CA",400
+3615,"modesto, CA",400
+3616,"modesto, CA",600
+3617,"modesto, CA",400
+3618,"modesto, CA",500
+3619,"modesto, CA",450
+3620,"modesto, CA",450
+3621,"modesto, CA",200
+3622,"modesto, CA",400
+3623,"modesto, CA",425
+3624,"modesto, CA",450
+3625,"modesto, CA",350
+3626,"modesto, CA",400
+3627,"modesto, CA",470
+3628,"modesto, CA",199
+3629,"modesto, CA",360
+3630,"modesto, CA",445
+3631,"modesto, CA",465
+3632,"modesto, CA",475
+3633,"modesto, CA",480
+3634,mohave county,200
+3635,mohave county,237
+3636,mohave county,200
+3637,mohave county,340
+3638,mohave county,230
+3639,mohave county,525
+3640,mohave county,200
+3641,mohave county,200
+3642,mohave county,400
+3643,mohave county,550
+3644,mohave county,550
+3645,mohave county,200
+3646,mohave county,550
+3647,mohave county,350
+3648,mohave county,200
+3649,mohave county,400
+3650,mohave county,200
+3651,mohave county,600
+3652,mohave county,400
+3653,mohave county,400
+3654,mohave county,200
+3655,"monroe, LA",238
+3656,"monroe, LA",275
+3657,"monroe, LA",200
+3658,"monroe, LA",400
+3659,"monroe, LA",239
+3660,"monroe, LA",125
+3661,"monroe, LA",200
+3662,"monroe, LA",350
+3663,"monroe, LA",325
+3664,"monroe, LA",325
+3665,"monroe, MI",201
+3666,"monroe, MI",79
+3667,"monroe, MI",439
+3668,"monroe, MI",350
+3669,"monroe, MI",449
+3670,"monroe, MI",460
+3671,"monroe, MI",549
+3672,"monroe, MI",499
+3673,"monroe, MI",99
+3674,"monroe, MI",475
+3675,"monroe, MI",99
+3676,"monroe, MI",500
+3677,"monroe, MI",300
+3678,"monroe, MI",399
+3679,"monroe, MI",499
+3680,"monroe, MI",500
+3681,"monroe, MI",99
+3682,"monroe, MI",480
+3683,"monroe, MI",500
+3684,"monroe, MI",525
+3685,"monroe, MI",500
+3686,monterey bay,400
+3687,monterey bay,470
+3688,monterey bay,199
+3689,monterey bay,360
+3690,monterey bay,445
+3691,monterey bay,465
+3692,monterey bay,475
+3693,monterey bay,480
+3694,monterey bay,500
+3695,monterey bay,470
+3696,monterey bay,500
+3697,monterey bay,220
+3698,monterey bay,420
+3699,monterey bay,325
+3700,monterey bay,320
+3701,monterey bay,450
+3702,monterey bay,350
+3703,monterey bay,1000
+3704,monterey bay,80
+3705,monterey bay,540
+3706,monterey bay,420
+3707,"montgomery, AL",450
+3708,"montgomery, AL",200
+3709,"montgomery, AL",231
+3710,"montgomery, AL",350
+3711,"montgomery, AL",250
+3712,"montgomery, AL",200
+3713,"montgomery, AL",350
+3714,"montgomery, AL",400
+3715,"montgomery, AL",200
+3716,"montgomery, AL",450
+3717,"montgomery, AL",225
+3718,"montgomery, AL",200
+3719,"montgomery, AL",400
+3720,"montgomery, AL",175
+3721,"montgomery, AL",500
+3722,"morgantown, WV",425
+3723,"morgantown, WV",400
+3724,"morgantown, WV",420
+3725,"morgantown, WV",420
+3726,"morgantown, WV",600
+3727,"morgantown, WV",600
+3728,"morgantown, WV",200
+3729,"morgantown, WV",475
+3730,"morgantown, WV",500
+3731,"morgantown, WV",600
+3732,"morgantown, WV",600
+3733,"morgantown, WV",700
+3734,"morgantown, WV",400
+3735,"morgantown, WV",200
+3736,"morgantown, WV",250
+3737,"morgantown, WV",475
+3738,"morgantown, WV",235
+3739,"moses lake, WA",475
+3740,"moses lake, WA",560
+3741,"moses lake, WA",450
+3742,"moses lake, WA",500
+3743,"moses lake, WA",475
+3744,"moses lake, WA",500
+3745,"moses lake, WA",500
+3746,"moses lake, WA",500
+3747,muncie / anderson,200
+3748,muncie / anderson,200
+3749,muncie / anderson,450
+3750,muncie / anderson,202
+3751,muncie / anderson,500
+3752,muncie / anderson,235
+3753,muncie / anderson,300
+3754,muncie / anderson,275
+3755,muncie / anderson,200
+3756,muncie / anderson,480
+3757,muncie / anderson,200
+3758,muncie / anderson,465
+3759,muncie / anderson,250
+3760,muncie / anderson,200
+3761,muncie / anderson,700
+3762,muncie / anderson,400
+3763,muncie / anderson,200
+3764,muncie / anderson,260
+3765,"muskegon, MI",400
+3766,"muskegon, MI",400
+3767,"muskegon, MI",400
+3768,"muskegon, MI",400
+3769,"myrtle beach, SC",450
+3770,"myrtle beach, SC",750
+3771,"myrtle beach, SC",599
+3772,"myrtle beach, SC",370
+3773,"myrtle beach, SC",500
+3774,"myrtle beach, SC",539
+3775,"myrtle beach, SC",539
+3776,"myrtle beach, SC",539
+3777,"myrtle beach, SC",150
+3778,"myrtle beach, SC",400
+3779,"myrtle beach, SC",500
+3780,"myrtle beach, SC",475
+3781,"myrtle beach, SC",425
+3782,"myrtle beach, SC",225
+3783,"myrtle beach, SC",225
+3784,"myrtle beach, SC",400
+3785,"myrtle beach, SC",200
+3786,"myrtle beach, SC",350
+3787,"myrtle beach, SC",600
+3788,"myrtle beach, SC",400
+3789,"myrtle beach, SC",350
+3790,"nashville, TN",400
+3791,"nashville, TN",400
+3792,"nashville, TN",535
+3793,"nashville, TN",240
+3794,"nashville, TN",400
+3795,"nashville, TN",200
+3796,"nashville, TN",500
+3797,"nashville, TN",230
+3798,"nashville, TN",500
+3799,"nashville, TN",400
+3800,"nashville, TN",400
+3801,"nashville, TN",500
+3802,"nashville, TN",300
+3803,"nashville, TN",232
+3804,"nashville, TN",200
+3805,"nashville, TN",200
+3806,"nashville, TN",475
+3807,new hampshire,200
+3808,new hampshire,200
+3809,new hampshire,200
+3810,new hampshire,499
+3811,new hampshire,499
+3812,new hampshire,489
+3813,new hampshire,465
+3814,new hampshire,340
+3815,new hampshire,499
+3816,new hampshire,495
+3817,new hampshire,500
+3818,new hampshire,600
+3819,new hampshire,350
+3820,new hampshire,350
+3821,new hampshire,600
+3822,new hampshire,350
+3823,new hampshire,490
+3824,new hampshire,230
+3825,new hampshire,60
+3826,new hampshire,400
+3827,new hampshire,400
+3828,"new haven, CT",700
+3829,"new haven, CT",200
+3830,"new haven, CT",650
+3831,"new haven, CT",200
+3832,"new haven, CT",400
+3833,"new haven, CT",420
+3834,"new haven, CT",400
+3835,"new haven, CT",200
+3836,"new haven, CT",400
+3837,"new haven, CT",200
+3838,"new haven, CT",400
+3839,"new haven, CT",200
+3840,"new haven, CT",650
+3841,"new haven, CT",475
+3842,"new haven, CT",350
+3843,"new haven, CT",380
+3844,"new haven, CT",200
+3845,"new haven, CT",500
+3846,"new haven, CT",450
+3847,"new haven, CT",375
+3848,"new haven, CT",550
+3849,new orleans,350
+3850,new orleans,500
+3851,new orleans,200
+3852,new orleans,200
+3853,new orleans,200
+3854,new orleans,200
+3855,new orleans,225
+3856,new orleans,280
+3857,new orleans,125
+3858,new orleans,200
+3859,new orleans,350
+3860,new orleans,325
+3861,new orleans,325
+3862,new orleans,240
+3863,new orleans,500
+3864,new orleans,200
+3865,new orleans,200
+3866,new orleans,200
+3867,new orleans,240
+3868,new orleans,475
+3869,new orleans,350
+3870,new river valley,232
+3871,new river valley,225
+3872,new river valley,400
+3873,new river valley,700
+3874,new river valley,235
+3875,new river valley,400
+3876,new river valley,325
+3877,new river valley,485
+3878,new river valley,485
+3879,new river valley,550
+3880,new river valley,240
+3881,new river valley,800
+3882,new river valley,450
+3883,new river valley,500
+3884,new york city,415
+3885,new york city,450
+3886,new york city,450
+3887,new york city,200
+3888,new york city,650
+3889,new york city,530
+3890,new york city,650
+3891,new york city,950
+3892,new york city,450
+3893,new york city,90
+3894,new york city,450
+3895,new york city,425
+3896,new york city,500
+3897,new york city,500
+3898,new york city,450
+3899,new york city,450
+3900,new york city,400
+3901,new york city,430
+3902,new york city,725
+3903,new york city,725
+3904,new york city,450
+3905,norfolk / hampton roads,230
+3906,norfolk / hampton roads,250
+3907,norfolk / hampton roads,200
+3908,norfolk / hampton roads,230
+3909,norfolk / hampton roads,550
+3910,norfolk / hampton roads,240
+3911,norfolk / hampton roads,200
+3912,norfolk / hampton roads,200
+3913,norfolk / hampton roads,200
+3914,norfolk / hampton roads,400
+3915,norfolk / hampton roads,300
+3916,norfolk / hampton roads,240
+3917,norfolk / hampton roads,50
+3918,norfolk / hampton roads,425
+3919,north central FL,450
+3920,north central FL,500
+3921,north central FL,400
+3922,north central FL,400
+3923,north central FL,500
+3924,north central FL,350
+3925,north central FL,200
+3926,north central FL,490
+3927,north central FL,200
+3928,north central FL,449
+3929,north central FL,400
+3930,north central FL,499
+3931,north central FL,499
+3932,north central FL,449
+3933,north central FL,400
+3934,north central FL,500
+3935,north central FL,200
+3936,north central FL,450
+3937,north central FL,500
+3938,north central FL,200
+3939,north central FL,500
+3940,north dakota,400
+3941,north dakota,400
+3942,north dakota,480
+3943,north dakota,229
+3944,north dakota,450
+3945,northeast SD,200
+3946,northeast SD,450
+3947,northeast SD,390
+3948,northeast SD,450
+3949,northeast SD,500
+3950,northeast SD,525
+3951,northern michigan,350
+3952,northern michigan,450
+3953,northern michigan,400
+3954,northern michigan,400
+3955,northern michigan,400
+3956,northern panhandle,425
+3957,northern panhandle,400
+3958,northern panhandle,420
+3959,northern panhandle,420
+3960,northern panhandle,600
+3961,northern panhandle,600
+3962,northern panhandle,200
+3963,northern panhandle,475
+3964,northern panhandle,500
+3965,northern panhandle,600
+3966,northern panhandle,600
+3967,northern panhandle,700
+3968,northern panhandle,400
+3969,northern panhandle,200
+3970,northern panhandle,250
+3971,northern panhandle,475
+3972,northern panhandle,235
+3973,northern panhandle,225
+3974,northern panhandle,400
+3975,northern panhandle,300
+3976,northern panhandle,245
+3977,northern WI,550
+3978,northern WI,200
+3979,northern WI,350
+3980,northern WI,500
+3981,northern WI,550
+3982,northern WI,425
+3983,northern WI,600
+3984,northern WI,450
+3985,north jersey,450
+3986,north jersey,425
+3987,north jersey,340
+3988,north jersey,580
+3989,north jersey,450
+3990,north jersey,490
+3991,north jersey,540
+3992,north jersey,475
+3993,north jersey,400
+3994,north jersey,399
+3995,north jersey,450
+3996,north jersey,520
+3997,north jersey,400
+3998,north jersey,599
+3999,north jersey,250
+4000,north jersey,180
+4001,north jersey,200
+4002,north jersey,490
+4003,north jersey,599
+4004,north jersey,520
+4005,north jersey,400
+4006,north mississippi,430
+4007,north mississippi,350
+4008,north mississippi,225
+4009,north mississippi,200
+4010,north mississippi,200
+4011,north mississippi,450
+4012,north mississippi,201
+4013,north mississippi,600
+4014,north mississippi,400
+4015,north mississippi,400
+4016,north mississippi,350
+4017,north mississippi,450
+4018,north mississippi,400
+4019,"north platte, NE",230
+4020,"north platte, NE",200
+4021,"north platte, NE",230
+4022,"north platte, NE",200
+4023,"north platte, NE",400
+4024,"north platte, NE",400
+4025,"north platte, NE",202
+4026,"north platte, NE",400
+4027,"north platte, NE",500
+4028,"north platte, NE",450
+4029,"north platte, NE",119
+4030,northwest CT,550
+4031,northwest CT,200
+4032,northwest CT,400
+4033,northwest CT,420
+4034,northwest CT,400
+4035,northwest CT,200
+4036,northwest CT,400
+4037,northwest CT,200
+4038,northwest CT,400
+4039,northwest CT,580
+4040,northwest CT,350
+4041,northwest CT,300
+4042,northwest CT,650
+4043,northwest CT,700
+4044,northwest CT,200
+4045,northwest CT,650
+4046,northwest CT,400
+4047,northwest CT,200
+4048,northwest CT,200
+4049,northwest CT,400
+4050,northwest CT,400
+4051,northwest GA,200
+4052,northwest GA,200
+4053,northwest GA,200
+4054,northwest GA,425
+4055,northwest GA,430
+4056,northwest GA,490
+4057,northwest GA,200
+4058,northwest GA,450
+4059,northwest GA,450
+4060,northwest GA,320
+4061,northwest GA,380
+4062,northwest GA,420
+4063,northwest GA,470
+4064,northwest GA,240
+4065,northwest GA,400
+4066,northwest GA,450
+4067,northwest GA,380
+4068,northwest GA,250
+4069,northwest GA,350
+4070,northwest GA,160
+4071,northwest GA,250
+4072,northwest KS,230
+4073,northwest KS,200
+4074,northwest KS,230
+4075,northwest KS,525
+4076,northwest KS,499
+4077,northwest KS,499
+4078,northwest KS,149
+4079,northwest KS,55
+4080,northwest KS,550
+4081,northwest OK,200
+4082,northwest OK,460
+4083,northwest OK,469
+4084,northwest OK,469
+4085,northwest OK,469
+4086,northwest OK,469
+4087,northwest OK,469
+4088,northwest OK,469
+4089,northwest OK,475
+4090,northwest OK,460
+4091,northwest OK,400
+4092,northwest OK,460
+4093,northwest OK,469
+4094,northwest OK,469
+4095,northwest OK,460
+4096,northwest OK,200
+4097,northwest OK,460
+4098,northwest OK,460
+4099,northwest OK,500
+4100,northwest OK,460
+4101,northwest OK,460
+4102,"ocala, FL",200
+4103,"ocala, FL",400
+4104,"ocala, FL",265
+4105,"ocala, FL",450
+4106,"ocala, FL",500
+4107,"ocala, FL",400
+4108,"ocala, FL",400
+4109,"ocala, FL",485
+4110,"ocala, FL",500
+4111,"ocala, FL",350
+4112,"ocala, FL",200
+4113,"ocala, FL",550
+4114,"ocala, FL",700
+4115,"ocala, FL",500
+4116,"ocala, FL",470
+4117,"ocala, FL",500
+4118,"ocala, FL",200
+4119,"ocala, FL",899
+4120,"ocala, FL",700
+4121,"ocala, FL",530
+4122,"ocala, FL",700
+4123,odessa / midland,400
+4124,odessa / midland,400
+4125,odessa / midland,50
+4126,odessa / midland,200
+4127,odessa / midland,200
+4128,odessa / midland,503
+4129,odessa / midland,225
+4130,ogden-clearfield,200
+4131,ogden-clearfield,225
+4132,ogden-clearfield,400
+4133,ogden-clearfield,550
+4134,ogden-clearfield,400
+4135,ogden-clearfield,200
+4136,ogden-clearfield,480
+4137,ogden-clearfield,200
+4138,ogden-clearfield,200
+4139,okaloosa / walton,175
+4140,okaloosa / walton,500
+4141,okaloosa / walton,400
+4142,okaloosa / walton,600
+4143,okaloosa / walton,200
+4144,okaloosa / walton,450
+4145,okaloosa / walton,225
+4146,okaloosa / walton,200
+4147,okaloosa / walton,400
+4148,okaloosa / walton,200
+4149,okaloosa / walton,240
+4150,okaloosa / walton,475
+4151,okaloosa / walton,350
+4152,okaloosa / walton,200
+4153,okaloosa / walton,300
+4154,okaloosa / walton,200
+4155,okaloosa / walton,450
+4156,okaloosa / walton,449
+4157,okaloosa / walton,449
+4158,okaloosa / walton,400
+4159,oklahoma city,460
+4160,oklahoma city,469
+4161,oklahoma city,469
+4162,oklahoma city,469
+4163,oklahoma city,469
+4164,oklahoma city,469
+4165,oklahoma city,469
+4166,oklahoma city,475
+4167,oklahoma city,460
+4168,oklahoma city,400
+4169,oklahoma city,460
+4170,oklahoma city,469
+4171,oklahoma city,469
+4172,oklahoma city,460
+4173,oklahoma city,200
+4174,oklahoma city,460
+4175,oklahoma city,460
+4176,oklahoma city,500
+4177,oklahoma city,460
+4178,oklahoma city,460
+4179,oklahoma city,499
+4180,olympic peninsula,370
+4181,olympic peninsula,550
+4182,olympic peninsula,600
+4183,olympic peninsula,200
+4184,olympic peninsula,299
+4185,olympic peninsula,575
+4186,olympic peninsula,500
+4187,olympic peninsula,520
+4188,olympic peninsula,550
+4189,olympic peninsula,230
+4190,olympic peninsula,200
+4191,olympic peninsula,450
+4192,olympic peninsula,300
+4193,olympic peninsula,550
+4194,olympic peninsula,400
+4195,olympic peninsula,500
+4196,olympic peninsula,399
+4197,olympic peninsula,550
+4198,olympic peninsula,399
+4199,olympic peninsula,399
+4200,olympic peninsula,399
+4201,omaha / council bluffs,200
+4202,omaha / council bluffs,400
+4203,omaha / council bluffs,200
+4204,omaha / council bluffs,400
+4205,omaha / council bluffs,400
+4206,omaha / council bluffs,202
+4207,omaha / council bluffs,400
+4208,omaha / council bluffs,200
+4209,omaha / council bluffs,525
+4210,omaha / council bluffs,400
+4211,omaha / council bluffs,200
+4212,omaha / council bluffs,200
+4213,omaha / council bluffs,350
+4214,omaha / council bluffs,200
+4215,omaha / council bluffs,230
+4216,"oneonta, NY",350
+4217,"oneonta, NY",250
+4218,"oneonta, NY",200
+4219,"oneonta, NY",400
+4220,"oneonta, NY",200
+4221,"oneonta, NY",200
+4222,"oneonta, NY",400
+4223,"oneonta, NY",400
+4224,"oneonta, NY",400
+4225,"oneonta, NY",200
+4226,"oneonta, NY",500
+4227,"oneonta, NY",425
+4228,"oneonta, NY",200
+4229,"oneonta, NY",699
+4230,"oneonta, NY",200
+4231,"oneonta, NY",200
+4232,"oneonta, NY",200
+4233,"oneonta, NY",200
+4234,"orange county, CA",460
+4235,"orange county, CA",450
+4236,"orange county, CA",500
+4237,"orange county, CA",400
+4238,"orange county, CA",450
+4239,"orange county, CA",500
+4240,"orange county, CA",500
+4241,"orange county, CA",450
+4242,"orange county, CA",400
+4243,"orange county, CA",475
+4244,"orange county, CA",290
+4245,"orange county, CA",490
+4246,"orange county, CA",420
+4247,"orange county, CA",600
+4248,"orange county, CA",500
+4249,"orange county, CA",390
+4250,"orange county, CA",500
+4251,"orange county, CA",470
+4252,"orange county, CA",999999
+4253,"orange county, CA",999999
+4254,"orange county, CA",999999
+4255,oregon coast,230
+4256,oregon coast,200
+4257,oregon coast,200
+4258,oregon coast,425
+4259,oregon coast,500
+4260,oregon coast,600
+4261,oregon coast,230
+4262,oregon coast,460
+4263,oregon coast,500
+4264,oregon coast,500
+4265,"orlando, FL",485
+4266,"orlando, FL",500
+4267,"orlando, FL",350
+4268,"orlando, FL",200
+4269,"orlando, FL",550
+4270,"orlando, FL",700
+4271,"orlando, FL",500
+4272,"orlando, FL",470
+4273,"orlando, FL",500
+4274,"orlando, FL",200
+4275,"orlando, FL",899
+4276,"orlando, FL",700
+4277,"orlando, FL",530
+4278,"orlando, FL",700
+4279,"orlando, FL",440
+4280,"orlando, FL",425
+4281,"orlando, FL",400
+4282,"orlando, FL",230
+4283,"orlando, FL",500
+4284,"orlando, FL",450
+4285,"orlando, FL",400
+4286,outer banks,230
+4287,outer banks,250
+4288,outer banks,200
+4289,outer banks,300
+4290,outer banks,240
+4291,outer banks,50
+4292,outer banks,200
+4293,outer banks,350
+4294,outer banks,600
+4295,outer banks,400
+4296,outer banks,230
+4297,outer banks,550
+4298,outer banks,240
+4299,outer banks,200
+4300,outer banks,200
+4301,outer banks,200
+4302,outer banks,400
+4303,outer banks,450
+4304,outer banks,500
+4305,outer banks,450
+4306,outer banks,495
+4307,"owensboro, KY",375
+4308,"owensboro, KY",229
+4309,"owensboro, KY",200
+4310,"owensboro, KY",400
+4311,"owensboro, KY",200
+4312,"owensboro, KY",300
+4313,"owensboro, KY",200
+4314,"owensboro, KY",200
+4315,"owensboro, KY",475
+4316,"owensboro, KY",200
+4317,"owensboro, KY",202
+4318,"owensboro, KY",200
+4319,"owensboro, KY",525
+4320,"owensboro, KY",525
+4321,"owensboro, KY",400
+4322,"owensboro, KY",400
+4323,"owensboro, KY",500
+4324,"owensboro, KY",400
+4325,"palm springs, CA",229
+4326,"palm springs, CA",600
+4327,"palm springs, CA",80
+4328,"palm springs, CA",600
+4329,"palm springs, CA",650
+4330,"palm springs, CA",230
+4331,"palm springs, CA",450
+4332,"palm springs, CA",350
+4333,"palm springs, CA",1500
+4334,"palm springs, CA",600
+4335,"palm springs, CA",480
+4336,"palm springs, CA",425
+4337,"palm springs, CA",450
+4338,"palm springs, CA",550
+4339,"palm springs, CA",999999
+4340,"palm springs, CA",999999
+4341,"palm springs, CA",999999
+4342,"palm springs, CA",650
+4343,"palm springs, CA",999999
+4344,"palm springs, CA",460
+4345,"palm springs, CA",450
+4346,"panama city, FL",175
+4347,"panama city, FL",500
+4348,"panama city, FL",200
+4349,"panama city, FL",450
+4350,"panama city, FL",225
+4351,"panama city, FL",200
+4352,"panama city, FL",400
+4353,"panama city, FL",449
+4354,"panama city, FL",449
+4355,"panama city, FL",400
+4356,"panama city, FL",400
+4357,"panama city, FL",600
+4358,"panama city, FL",500
+4359,"panama city, FL",232
+4360,"panama city, FL",200
+4361,"panama city, FL",240
+4362,"panama city, FL",475
+4363,"panama city, FL",350
+4364,"panama city, FL",200
+4365,"panama city, FL",300
+4366,"panama city, FL",200
+4367,parkersburg-marietta,240
+4368,parkersburg-marietta,400
+4369,parkersburg-marietta,400
+4370,"pensacola, FL",400
+4371,"pensacola, FL",600
+4372,"pensacola, FL",175
+4373,"pensacola, FL",500
+4374,"pensacola, FL",200
+4375,"pensacola, FL",240
+4376,"pensacola, FL",475
+4377,"pensacola, FL",350
+4378,"pensacola, FL",200
+4379,"pensacola, FL",300
+4380,"pensacola, FL",200
+4381,"pensacola, FL",200
+4382,"pensacola, FL",225
+4383,"pensacola, FL",280
+4384,"pensacola, FL",200
+4385,"pensacola, FL",450
+4386,"pensacola, FL",225
+4387,"pensacola, FL",200
+4388,"pensacola, FL",400
+4389,"pensacola, FL",240
+4390,"pensacola, FL",500
+4391,"peoria, IL",400
+4392,"peoria, IL",400
+4393,"peoria, IL",400
+4394,"peoria, IL",200
+4395,"peoria, IL",230
+4396,"peoria, IL",400
+4397,"peoria, IL",550
+4398,"peoria, IL",600
+4399,philadelphia,400
+4400,philadelphia,400
+4401,philadelphia,400
+4402,philadelphia,175
+4403,philadelphia,600
+4404,philadelphia,250
+4405,philadelphia,240
+4406,philadelphia,60
+4407,philadelphia,60
+4408,philadelphia,85
+4409,philadelphia,85
+4410,philadelphia,60
+4411,philadelphia,60
+4412,philadelphia,85
+4413,philadelphia,85
+4414,philadelphia,60
+4415,philadelphia,85
+4416,philadelphia,60
+4417,philadelphia,60
+4418,philadelphia,240
+4419,philadelphia,400
+4420,"phoenix, AZ",390
+4421,"phoenix, AZ",1750
+4422,"phoenix, AZ",649
+4423,"phoenix, AZ",799
+4424,"phoenix, AZ",200
+4425,"phoenix, AZ",700
+4426,"phoenix, AZ",60
+4427,"phoenix, AZ",200
+4428,"phoenix, AZ",60
+4429,"phoenix, AZ",400
+4430,"phoenix, AZ",380
+4431,"phoenix, AZ",200
+4432,"phoenix, AZ",450
+4433,"phoenix, AZ",200
+4434,"phoenix, AZ",350
+4435,"phoenix, AZ",200
+4436,"phoenix, AZ",380
+4437,"phoenix, AZ",575
+4438,"phoenix, AZ",550
+4439,"phoenix, AZ",60
+4440,"phoenix, AZ",400
+4441,pierre / central SD,400
+4442,pierre / central SD,400
+4443,pierre / central SD,390
+4444,"pittsburgh, PA",425
+4445,"pittsburgh, PA",400
+4446,"pittsburgh, PA",420
+4447,"pittsburgh, PA",420
+4448,"pittsburgh, PA",600
+4449,"pittsburgh, PA",600
+4450,"pittsburgh, PA",200
+4451,"pittsburgh, PA",475
+4452,"pittsburgh, PA",500
+4453,"pittsburgh, PA",600
+4454,"pittsburgh, PA",600
+4455,"pittsburgh, PA",700
+4456,"pittsburgh, PA",400
+4457,"pittsburgh, PA",200
+4458,"pittsburgh, PA",250
+4459,"pittsburgh, PA",475
+4460,"pittsburgh, PA",225
+4461,"pittsburgh, PA",400
+4462,"pittsburgh, PA",300
+4463,"pittsburgh, PA",245
+4464,"pittsburgh, PA",235
+4465,plattsburgh-adirondacks,460
+4466,plattsburgh-adirondacks,200
+4467,plattsburgh-adirondacks,200
+4468,plattsburgh-adirondacks,200
+4469,plattsburgh-adirondacks,499
+4470,plattsburgh-adirondacks,499
+4471,plattsburgh-adirondacks,489
+4472,plattsburgh-adirondacks,465
+4473,plattsburgh-adirondacks,340
+4474,poconos,375
+4475,poconos,474
+4476,poconos,500
+4477,poconos,450
+4478,poconos,425
+4479,poconos,340
+4480,poconos,580
+4481,poconos,450
+4482,poconos,490
+4483,poconos,540
+4484,poconos,475
+4485,poconos,400
+4486,poconos,399
+4487,poconos,450
+4488,poconos,520
+4489,poconos,400
+4490,poconos,599
+4491,poconos,250
+4492,poconos,180
+4493,poconos,200
+4494,poconos,490
+4495,"port huron, MI",145
+4496,"port huron, MI",439
+4497,"port huron, MI",350
+4498,"port huron, MI",449
+4499,"port huron, MI",460
+4500,"port huron, MI",549
+4501,"port huron, MI",499
+4502,"port huron, MI",99
+4503,"port huron, MI",475
+4504,"port huron, MI",99
+4505,"port huron, MI",500
+4506,"port huron, MI",300
+4507,"port huron, MI",399
+4508,"port huron, MI",499
+4509,"port huron, MI",500
+4510,"port huron, MI",99
+4511,"port huron, MI",480
+4512,"port huron, MI",500
+4513,"port huron, MI",525
+4514,"port huron, MI",500
+4515,"port huron, MI",95
+4516,"portland, OR",450
+4517,"portland, OR",600
+4518,"portland, OR",400
+4519,"portland, OR",409
+4520,"portland, OR",99
+4521,"portland, OR",50
+4522,"portland, OR",500
+4523,"portland, OR",500
+4524,"portland, OR",300
+4525,"portland, OR",450
+4526,"portland, OR",99
+4527,"portland, OR",99
+4528,"portland, OR",69
+4529,"portland, OR",50
+4530,"portland, OR",500
+4531,"portland, OR",99
+4532,"portland, OR",420
+4533,"portland, OR",449
+4534,"portland, OR",430
+4535,"portland, OR",449
+4536,"portland, OR",500
+4537,potsdam-canton-massena,460
+4538,potsdam-canton-massena,200
+4539,potsdam-canton-massena,200
+4540,potsdam-canton-massena,200
+4541,potsdam-canton-massena,200
+4542,"prescott, AZ",400
+4543,"prescott, AZ",229
+4544,"prescott, AZ",200
+4545,"prescott, AZ",390
+4546,"prescott, AZ",1750
+4547,"prescott, AZ",649
+4548,"prescott, AZ",799
+4549,"prescott, AZ",200
+4550,"prescott, AZ",700
+4551,"prescott, AZ",60
+4552,"prescott, AZ",200
+4553,"prescott, AZ",60
+4554,"prescott, AZ",400
+4555,"prescott, AZ",380
+4556,"prescott, AZ",200
+4557,"prescott, AZ",450
+4558,"prescott, AZ",200
+4559,"prescott, AZ",350
+4560,"prescott, AZ",200
+4561,"prescott, AZ",380
+4562,"prescott, AZ",575
+4563,provo / orem,550
+4564,provo / orem,200
+4565,provo / orem,225
+4566,provo / orem,400
+4567,provo / orem,400
+4568,provo / orem,200
+4569,provo / orem,480
+4570,provo / orem,200
+4571,provo / orem,200
+4572,"pueblo, CO",200
+4573,"pueblo, CO",390
+4574,"pueblo, CO",230
+4575,"pueblo, CO",500
+4576,"pueblo, CO",200
+4577,"pueblo, CO",525
+4578,"pueblo, CO",230
+4579,"pueblo, CO",450
+4580,"pueblo, CO",1400
+4581,"pueblo, CO",325
+4582,"pueblo, CO",475
+4583,"pueblo, CO",425
+4584,"pueblo, CO",200
+4585,"pueblo, CO",650
+4586,"pueblo, CO",200
+4587,"pueblo, CO",400
+4588,"pueblo, CO",400
+4589,"pueblo, CO",450
+4590,"pueblo, CO",450
+4591,"pueblo, CO",450
+4592,"pueblo, CO",425
+4593,pullman / moscow,500
+4594,pullman / moscow,475
+4595,pullman / moscow,500
+4596,pullman / moscow,500
+4597,pullman / moscow,500
+4598,pullman / moscow,475
+4599,pullman / moscow,560
+4600,pullman / moscow,250
+4601,"quad cities, IA/IL",230
+4602,"quad cities, IA/IL",400
+4603,"quad cities, IA/IL",325
+4604,"quad cities, IA/IL",500
+4605,"quad cities, IA/IL",400
+4606,"quad cities, IA/IL",400
+4607,"quad cities, IA/IL",400
+4608,raleigh / durham / CH,450
+4609,raleigh / durham / CH,500
+4610,raleigh / durham / CH,450
+4611,raleigh / durham / CH,495
+4612,raleigh / durham / CH,450
+4613,raleigh / durham / CH,549
+4614,raleigh / durham / CH,450
+4615,raleigh / durham / CH,200
+4616,raleigh / durham / CH,400
+4617,raleigh / durham / CH,800
+4618,raleigh / durham / CH,450
+4619,raleigh / durham / CH,475
+4620,raleigh / durham / CH,420
+4621,raleigh / durham / CH,375
+4622,raleigh / durham / CH,200
+4623,raleigh / durham / CH,450
+4624,raleigh / durham / CH,450
+4625,raleigh / durham / CH,400
+4626,raleigh / durham / CH,450
+4627,raleigh / durham / CH,450
+4628,raleigh / durham / CH,450
+4629,rapid city / west SD,400
+4630,rapid city / west SD,400
+4631,rapid city / west SD,230
+4632,"reading, PA",229
+4633,"reading, PA",440
+4634,"reading, PA",230
+4635,"reading, PA",420
+4636,"reading, PA",474
+4637,"reading, PA",500
+4638,"reading, PA",400
+4639,"reading, PA",400
+4640,"reading, PA",400
+4641,"reading, PA",175
+4642,"reading, PA",600
+4643,"reading, PA",250
+4644,"reading, PA",240
+4645,"reading, PA",60
+4646,"reading, PA",60
+4647,"reading, PA",85
+4648,"reading, PA",85
+4649,"reading, PA",60
+4650,"reading, PA",60
+4651,"reading, PA",85
+4652,"reading, PA",85
+4653,"redding, CA",400
+4654,"redding, CA",400
+4655,"redding, CA",352
+4656,"redding, CA",400
+4657,"redding, CA",450
+4658,"redding, CA",500
+4659,"redding, CA",239
+4660,"redding, CA",400
+4661,"redding, CA",500
+4662,"redding, CA",500
+4663,"redding, CA",227
+4664,"redding, CA",500
+4665,reno / tahoe,470
+4666,reno / tahoe,475
+4667,reno / tahoe,475
+4668,reno / tahoe,200
+4669,reno / tahoe,450
+4670,reno / tahoe,470
+4671,reno / tahoe,475
+4672,reno / tahoe,227
+4673,reno / tahoe,500
+4674,reno / tahoe,400
+4675,reno / tahoe,450
+4676,reno / tahoe,500
+4677,reno / tahoe,239
+4678,reno / tahoe,400
+4679,reno / tahoe,200
+4680,reno / tahoe,200
+4681,reno / tahoe,550
+4682,reno / tahoe,550
+4683,reno / tahoe,425
+4684,reno / tahoe,370
+4685,reno / tahoe,400
+4686,rhode island,450
+4687,rhode island,55
+4688,rhode island,55
+4689,rhode island,99
+4690,rhode island,495
+4691,rhode island,350
+4692,rhode island,450
+4693,rhode island,99
+4694,rhode island,90
+4695,rhode island,450
+4696,rhode island,500
+4697,rhode island,99
+4698,rhode island,349
+4699,rhode island,150
+4700,rhode island,230
+4701,rhode island,350
+4702,rhode island,425
+4703,rhode island,350
+4704,rhode island,60
+4705,rhode island,400
+4706,rhode island,400
+4707,"richmond, IN",202
+4708,"richmond, IN",200
+4709,"richmond, IN",200
+4710,"richmond, IN",450
+4711,"richmond, IN",450
+4712,"richmond, IN",549
+4713,"richmond, IN",200
+4714,"richmond, IN",480
+4715,"richmond, IN",200
+4716,"richmond, IN",465
+4717,"richmond, IN",250
+4718,"richmond, IN",500
+4719,"richmond, IN",235
+4720,"richmond, IN",300
+4721,"richmond, IN",275
+4722,"richmond, VA",230
+4723,"richmond, VA",550
+4724,"richmond, VA",240
+4725,"richmond, VA",200
+4726,"richmond, VA",200
+4727,"richmond, VA",200
+4728,"richmond, VA",400
+4729,"richmond, VA",425
+4730,"richmond, VA",230
+4731,"richmond, VA",425
+4732,"richmond, VA",580
+4733,"richmond, VA",300
+4734,"richmond, VA",530
+4735,"richmond, VA",230
+4736,"richmond, VA",250
+4737,"richmond, VA",200
+4738,"richmond, VA",400
+4739,"richmond, VA",700
+4740,"richmond, VA",200
+4741,"richmond, VA",200
+4742,"richmond, VA",400
+4743,"roanoke, VA",232
+4744,"roanoke, VA",225
+4745,"roanoke, VA",400
+4746,"roanoke, VA",700
+4747,"roanoke, VA",235
+4748,"roanoke, VA",400
+4749,"roanoke, VA",325
+4750,"roanoke, VA",485
+4751,"roanoke, VA",485
+4752,"roanoke, VA",550
+4753,"roanoke, VA",240
+4754,"roanoke, VA",800
+4755,"roanoke, VA",450
+4756,"roanoke, VA",500
+4757,"rochester, MN",600
+4758,"rochester, MN",380
+4759,"rochester, MN",425
+4760,"rochester, MN",600
+4761,"rochester, MN",400
+4762,"rochester, MN",550
+4763,"rochester, MN",375
+4764,"rochester, MN",240
+4765,"rochester, MN",499
+4766,"rochester, MN",499
+4767,"rochester, MN",499
+4768,"rochester, MN",499
+4769,"rochester, MN",499
+4770,"rochester, MN",549
+4771,"rochester, MN",499
+4772,"rochester, MN",1111
+4773,"rochester, MN",550
+4774,"rochester, MN",400
+4775,"rochester, MN",350
+4776,"rochester, MN",800
+4777,"rochester, MN",450
+4778,"rochester, NY",400
+4779,"rochester, NY",500
+4780,"rochester, NY",575
+4781,"rochester, NY",575
+4782,"rochester, NY",500
+4783,"rochester, NY",200
+4784,"rochester, NY",200
+4785,"rochester, NY",200
+4786,"rochester, NY",200
+4787,"rochester, NY",200
+4788,"rockford, IL",400
+4789,"rockford, IL",400
+4790,"rockford, IL",200
+4791,"rockford, IL",450
+4792,"rockford, IL",350
+4793,"rockford, IL",350
+4794,"rockford, IL",495
+4795,"rockford, IL",399
+4796,"rockford, IL",230
+4797,"rockford, IL",400
+4798,"rockford, IL",400
+4799,"rockford, IL",410
+4800,"rockford, IL",1000
+4801,"rockford, IL",400
+4802,"rockford, IL",600
+4803,"rockford, IL",225
+4804,"rockford, IL",1234
+4805,"rockford, IL",69
+4806,"rockford, IL",69
+4807,"rockford, IL",69
+4808,"rockford, IL",530
+4809,"roseburg, OR",230
+4810,"roseburg, OR",200
+4811,"roseburg, OR",425
+4812,"roseburg, OR",500
+4813,"roseburg, OR",600
+4814,"roseburg, OR",200
+4815,"roseburg, OR",500
+4816,roswell / carlsbad,50
+4817,roswell / carlsbad,200
+4818,roswell / carlsbad,580
+4819,roswell / carlsbad,500
+4820,roswell / carlsbad,300
+4821,roswell / carlsbad,450
+4822,roswell / carlsbad,475
+4823,roswell / carlsbad,449
+4824,roswell / carlsbad,450
+4825,roswell / carlsbad,450
+4826,roswell / carlsbad,200
+4827,roswell / carlsbad,230
+4828,roswell / carlsbad,190
+4829,roswell / carlsbad,450
+4830,roswell / carlsbad,400
+4831,sacramento,200
+4832,sacramento,200
+4833,sacramento,550
+4834,sacramento,550
+4835,sacramento,425
+4836,sacramento,370
+4837,sacramento,400
+4838,sacramento,200
+4839,sacramento,580
+4840,sacramento,400
+4841,sacramento,500
+4842,sacramento,500
+4843,sacramento,460
+4844,sacramento,500
+4845,sacramento,500
+4846,sacramento,227
+4847,sacramento,500
+4848,sacramento,450
+4849,sacramento,450
+4850,sacramento,200
+4851,sacramento,400
+4852,saginaw-midland-baycity,450
+4853,saginaw-midland-baycity,200
+4854,saginaw-midland-baycity,79
+4855,saginaw-midland-baycity,145
+4856,"salem, OR",230
+4857,"salem, OR",460
+4858,"salem, OR",500
+4859,"salem, OR",200
+4860,"salem, OR",450
+4861,"salem, OR",600
+4862,"salem, OR",400
+4863,"salem, OR",409
+4864,"salem, OR",99
+4865,"salem, OR",50
+4866,"salem, OR",500
+4867,"salem, OR",500
+4868,"salem, OR",300
+4869,"salem, OR",450
+4870,"salem, OR",99
+4871,"salem, OR",99
+4872,"salem, OR",69
+4873,"salem, OR",50
+4874,"salem, OR",500
+4875,"salem, OR",99
+4876,"salem, OR",420
+4877,"salina, KS",200
+4878,"salina, KS",400
+4879,"salina, KS",525
+4880,"salina, KS",499
+4881,"salina, KS",499
+4882,"salina, KS",149
+4883,"salina, KS",55
+4884,"salina, KS",550
+4885,"salina, KS",200
+4886,"salina, KS",200
+4887,"salina, KS",200
+4888,"salina, KS",400
+4889,"salina, KS",400
+4890,"salina, KS",202
+4891,"salina, KS",400
+4892,"salina, KS",200
+4893,"salina, KS",230
+4894,salt lake city,200
+4895,salt lake city,550
+4896,salt lake city,225
+4897,salt lake city,400
+4898,salt lake city,400
+4899,salt lake city,200
+4900,salt lake city,480
+4901,salt lake city,200
+4902,salt lake city,200
+4903,"san angelo, TX",400
+4904,"san angelo, TX",400
+4905,"san angelo, TX",200
+4906,"san angelo, TX",503
+4907,"san angelo, TX",200
+4908,"san angelo, TX",200
+4909,"san angelo, TX",300
+4910,"san angelo, TX",50
+4911,"san angelo, TX",200
+4912,"san angelo, TX",200
+4913,"san angelo, TX",480
+4914,"san angelo, TX",450
+4915,"san angelo, TX",200
+4916,"san angelo, TX",420
+4917,"san angelo, TX",202
+4918,"san angelo, TX",420
+4919,"san angelo, TX",233
+4920,"san angelo, TX",430
+4921,"san angelo, TX",500
+4922,"san angelo, TX",350
+4923,"san angelo, TX",325
+4924,san antonio,450
+4925,san antonio,100
+4926,san antonio,380
+4927,san antonio,200
+4928,san antonio,900
+4929,san antonio,380
+4930,san antonio,450
+4931,san antonio,800
+4932,san antonio,500
+4933,san antonio,800
+4934,san antonio,500
+4935,san antonio,800
+4936,san antonio,800
+4937,san antonio,350
+4938,san antonio,420
+4939,san antonio,800
+4940,san antonio,700
+4941,san antonio,900
+4942,san antonio,800
+4943,san antonio,800
+4944,san antonio,800
+4945,san diego,280
+4946,san diego,540
+4947,san diego,350
+4948,san diego,550
+4949,san diego,449
+4950,san diego,777
+4951,san diego,200
+4952,san diego,200
+4953,san diego,400
+4954,san diego,459
+4955,san diego,499
+4956,san diego,499
+4957,san diego,460
+4958,san diego,450
+4959,san diego,500
+4960,san diego,400
+4961,san diego,450
+4962,san diego,500
+4963,san diego,500
+4964,san diego,450
+4965,san diego,400
+4966,"sandusky, OH",230
+4967,"sandusky, OH",450
+4968,"sandusky, OH",201
+4969,"sandusky, OH",225
+4970,"sandusky, OH",450
+4971,"sandusky, OH",999
+4972,"sandusky, OH",201
+4973,"sandusky, OH",400
+4974,"sandusky, OH",999
+4975,"sandusky, OH",999
+4976,"sandusky, OH",201
+4977,"sandusky, OH",400
+4978,"sandusky, OH",400
+4979,"sandusky, OH",200
+4980,"sandusky, OH",400
+4981,"sandusky, OH",400
+4982,"sandusky, OH",400
+4983,"sandusky, OH",550
+4984,"sandusky, OH",400
+4985,"sandusky, OH",450
+4986,"sandusky, OH",439
+4987,san luis obispo,400
+4988,san luis obispo,400
+4989,san luis obispo,600
+4990,san luis obispo,425
+4991,san luis obispo,400
+4992,san luis obispo,600
+4993,san luis obispo,230
+4994,san luis obispo,447
+4995,san luis obispo,200
+4996,san luis obispo,600
+4997,san luis obispo,600
+4998,san luis obispo,227
+4999,san luis obispo,200
+5000,san luis obispo,600
+5001,san luis obispo,550
+5002,san luis obispo,200
+5003,san luis obispo,200
+5004,san luis obispo,200
+5005,san luis obispo,250
+5006,san luis obispo,480
+5007,san luis obispo,230
+5008,"san marcos, TX",200
+5009,"san marcos, TX",480
+5010,"san marcos, TX",450
+5011,"san marcos, TX",200
+5012,"san marcos, TX",420
+5013,"san marcos, TX",202
+5014,"san marcos, TX",420
+5015,"san marcos, TX",233
+5016,"san marcos, TX",430
+5017,"san marcos, TX",500
+5018,"san marcos, TX",350
+5019,"san marcos, TX",325
+5020,"san marcos, TX",200
+5021,"san marcos, TX",435
+5022,"san marcos, TX",435
+5023,"san marcos, TX",600
+5024,"san marcos, TX",450
+5025,"san marcos, TX",140
+5026,"san marcos, TX",340
+5027,"san marcos, TX",490
+5028,"san marcos, TX",490
+5029,santa barbara,400
+5030,santa barbara,600
+5031,santa barbara,425
+5032,santa barbara,400
+5033,santa barbara,600
+5034,santa barbara,425
+5035,santa barbara,150
+5036,santa barbara,229
+5037,santa barbara,400
+5038,santa barbara,500
+5039,santa barbara,400
+5040,santa barbara,400
+5041,santa barbara,230
+5042,santa barbara,447
+5043,santa barbara,200
+5044,santa barbara,600
+5045,santa barbara,600
+5046,santa barbara,227
+5047,santa barbara,200
+5048,santa barbara,600
+5049,santa barbara,145
+5050,santa fe / taos,650
+5051,santa fe / taos,450
+5052,santa fe / taos,200
+5053,santa fe / taos,230
+5054,santa fe / taos,190
+5055,santa fe / taos,450
+5056,santa fe / taos,400
+5057,santa fe / taos,400
+5058,santa fe / taos,200
+5059,santa fe / taos,200
+5060,santa fe / taos,390
+5061,santa fe / taos,230
+5062,santa fe / taos,500
+5063,santa fe / taos,200
+5064,"santa maria, CA",400
+5065,"santa maria, CA",400
+5066,"santa maria, CA",600
+5067,"santa maria, CA",425
+5068,"santa maria, CA",400
+5069,"santa maria, CA",600
+5070,"santa maria, CA",230
+5071,"santa maria, CA",447
+5072,"santa maria, CA",200
+5073,"santa maria, CA",600
+5074,"santa maria, CA",600
+5075,"santa maria, CA",227
+5076,"santa maria, CA",200
+5077,"santa maria, CA",600
+5078,"santa maria, CA",425
+5079,"santa maria, CA",150
+5080,"santa maria, CA",229
+5081,"santa maria, CA",400
+5082,"santa maria, CA",500
+5083,"santa maria, CA",400
+5084,"santa maria, CA",550
+5085,sarasota-bradenton,400
+5086,sarasota-bradenton,400
+5087,sarasota-bradenton,420
+5088,sarasota-bradenton,360
+5089,sarasota-bradenton,100
+5090,sarasota-bradenton,399
+5091,sarasota-bradenton,499
+5092,sarasota-bradenton,100
+5093,sarasota-bradenton,400
+5094,sarasota-bradenton,499
+5095,sarasota-bradenton,50
+5096,sarasota-bradenton,397
+5097,sarasota-bradenton,397
+5098,sarasota-bradenton,397
+5099,sarasota-bradenton,100
+5100,sarasota-bradenton,397
+5101,sarasota-bradenton,100
+5102,sarasota-bradenton,499
+5103,sarasota-bradenton,100
+5104,sarasota-bradenton,100
+5105,sarasota-bradenton,100
+5106,savannah / hinesville,500
+5107,savannah / hinesville,500
+5108,savannah / hinesville,150
+5109,savannah / hinesville,400
+5110,savannah / hinesville,500
+5111,savannah / hinesville,225
+5112,savannah / hinesville,230
+5113,savannah / hinesville,200
+5114,savannah / hinesville,490
+5115,savannah / hinesville,200
+5116,savannah / hinesville,449
+5117,savannah / hinesville,400
+5118,savannah / hinesville,499
+5119,savannah / hinesville,499
+5120,savannah / hinesville,449
+5121,savannah / hinesville,400
+5122,savannah / hinesville,500
+5123,savannah / hinesville,200
+5124,savannah / hinesville,450
+5125,savannah / hinesville,500
+5126,savannah / hinesville,200
+5127,scottsbluff / panhandle,500
+5128,scottsbluff / panhandle,450
+5129,scottsbluff / panhandle,119
+5130,scottsbluff / panhandle,230
+5131,scottsbluff / panhandle,525
+5132,scottsbluff / panhandle,230
+5133,scottsbluff / panhandle,450
+5134,scottsbluff / panhandle,1400
+5135,scottsbluff / panhandle,325
+5136,scottsbluff / panhandle,475
+5137,scottsbluff / panhandle,425
+5138,scottsbluff / panhandle,200
+5139,scottsbluff / panhandle,650
+5140,scottsbluff / panhandle,200
+5141,scottsbluff / panhandle,400
+5142,scottsbluff / panhandle,400
+5143,scottsbluff / panhandle,450
+5144,scottsbluff / panhandle,450
+5145,scottsbluff / panhandle,450
+5146,scottsbluff / panhandle,425
+5147,scottsbluff / panhandle,200
+5148,scranton / wilkes-barre,375
+5149,scranton / wilkes-barre,474
+5150,scranton / wilkes-barre,500
+5151,scranton / wilkes-barre,229
+5152,scranton / wilkes-barre,440
+5153,scranton / wilkes-barre,230
+5154,scranton / wilkes-barre,420
+5155,seattle-tacoma,600
+5156,seattle-tacoma,200
+5157,seattle-tacoma,299
+5158,seattle-tacoma,575
+5159,seattle-tacoma,500
+5160,seattle-tacoma,520
+5161,seattle-tacoma,550
+5162,seattle-tacoma,230
+5163,seattle-tacoma,200
+5164,seattle-tacoma,450
+5165,seattle-tacoma,300
+5166,seattle-tacoma,550
+5167,seattle-tacoma,400
+5168,seattle-tacoma,500
+5169,seattle-tacoma,399
+5170,seattle-tacoma,550
+5171,seattle-tacoma,399
+5172,seattle-tacoma,399
+5173,seattle-tacoma,399
+5174,seattle-tacoma,370
+5175,seattle-tacoma,550
+5176,SF bay area,400
+5177,SF bay area,470
+5178,SF bay area,199
+5179,SF bay area,360
+5180,SF bay area,445
+5181,SF bay area,465
+5182,SF bay area,475
+5183,SF bay area,480
+5184,SF bay area,500
+5185,SF bay area,470
+5186,SF bay area,500
+5187,SF bay area,220
+5188,SF bay area,420
+5189,SF bay area,325
+5190,SF bay area,320
+5191,SF bay area,450
+5192,SF bay area,350
+5193,SF bay area,1000
+5194,SF bay area,80
+5195,SF bay area,540
+5196,SF bay area,420
+5197,"sheboygan, WI",400
+5198,"sheboygan, WI",550
+5199,"sheboygan, WI",1111
+5200,"sheboygan, WI",1111
+5201,"sheboygan, WI",500
+5202,"sheboygan, WI",200
+5203,"sheboygan, WI",400
+5204,"sheboygan, WI",1111
+5205,"sheboygan, WI",425
+5206,"sheboygan, WI",1111
+5207,"sheboygan, WI",400
+5208,"sheboygan, WI",1111
+5209,"sheboygan, WI",1111
+5210,"sheboygan, WI",450
+5211,"sheboygan, WI",425
+5212,"sheboygan, WI",1111
+5213,"sheboygan, WI",385
+5214,"sheboygan, WI",425
+5215,"sheboygan, WI",425
+5216,"sheboygan, WI",1111
+5217,"sheboygan, WI",1111
+5218,"show low, AZ",229
+5219,"show low, AZ",200
+5220,"show low, AZ",390
+5221,"show low, AZ",1750
+5222,"show low, AZ",649
+5223,"show low, AZ",799
+5224,"show low, AZ",200
+5225,"show low, AZ",700
+5226,"show low, AZ",60
+5227,"show low, AZ",200
+5228,"show low, AZ",60
+5229,"show low, AZ",400
+5230,"show low, AZ",380
+5231,"show low, AZ",200
+5232,"show low, AZ",450
+5233,"show low, AZ",200
+5234,"show low, AZ",350
+5235,"show low, AZ",200
+5236,"show low, AZ",380
+5237,"show low, AZ",575
+5238,"show low, AZ",550
+5239,"shreveport, LA",275
+5240,"shreveport, LA",239
+5241,"shreveport, LA",700
+5242,"shreveport, LA",238
+5243,"sierra vista, AZ",200
+5244,"sierra vista, AZ",500
+5245,"sierra vista, AZ",390
+5246,"sierra vista, AZ",1750
+5247,"sierra vista, AZ",649
+5248,"sierra vista, AZ",799
+5249,"sierra vista, AZ",200
+5250,"sierra vista, AZ",700
+5251,"sierra vista, AZ",60
+5252,"sierra vista, AZ",200
+5253,"sierra vista, AZ",60
+5254,"sierra vista, AZ",400
+5255,"sierra vista, AZ",380
+5256,"sierra vista, AZ",200
+5257,"sierra vista, AZ",450
+5258,"sierra vista, AZ",200
+5259,"sierra vista, AZ",350
+5260,"sierra vista, AZ",200
+5261,"sierra vista, AZ",380
+5262,"sierra vista, AZ",575
+5263,"sierra vista, AZ",550
+5264,"sioux city, IA",200
+5265,"sioux city, IA",390
+5266,"sioux city, IA",200
+5267,"sioux city, IA",400
+5268,"sioux city, IA",350
+5269,"sioux city, IA",200
+5270,"sioux city, IA",400
+5271,"sioux city, IA",400
+5272,"sioux city, IA",202
+5273,"sioux city, IA",400
+5274,"sioux city, IA",200
+5275,sioux falls / SE SD,390
+5276,sioux falls / SE SD,200
+5277,sioux falls / SE SD,200
+5278,sioux falls / SE SD,350
+5279,siskiyou county,352
+5280,siskiyou county,400
+5281,siskiyou county,400
+5282,siskiyou county,500
+5283,siskiyou county,425
+5284,siskiyou county,500
+5285,siskiyou county,600
+5286,siskiyou county,500
+5287,siskiyou county,500
+5288,siskiyou county,400
+5289,siskiyou county,450
+5290,siskiyou county,500
+5291,siskiyou county,239
+5292,siskiyou county,400
+5293,skagit / island / SJI,500
+5294,skagit / island / SJI,375
+5295,skagit / island / SJI,500
+5296,skagit / island / SJI,450
+5297,skagit / island / SJI,600
+5298,skagit / island / SJI,200
+5299,skagit / island / SJI,299
+5300,skagit / island / SJI,575
+5301,skagit / island / SJI,500
+5302,skagit / island / SJI,520
+5303,skagit / island / SJI,550
+5304,skagit / island / SJI,230
+5305,skagit / island / SJI,200
+5306,skagit / island / SJI,450
+5307,skagit / island / SJI,300
+5308,skagit / island / SJI,550
+5309,skagit / island / SJI,400
+5310,skagit / island / SJI,500
+5311,skagit / island / SJI,399
+5312,skagit / island / SJI,550
+5313,skagit / island / SJI,399
+5314,south bend / michiana,450
+5315,south bend / michiana,470
+5316,south bend / michiana,200
+5317,south bend / michiana,700
+5318,south bend / michiana,400
+5319,south bend / michiana,200
+5320,south bend / michiana,260
+5321,south bend / michiana,495
+5322,south bend / michiana,399
+5323,south bend / michiana,230
+5324,south bend / michiana,400
+5325,south bend / michiana,400
+5326,south bend / michiana,410
+5327,south bend / michiana,1000
+5328,south bend / michiana,400
+5329,south bend / michiana,600
+5330,south bend / michiana,225
+5331,south bend / michiana,1234
+5332,south bend / michiana,69
+5333,south bend / michiana,69
+5334,south bend / michiana,69
+5335,"south coast, MA",425
+5336,"south coast, MA",350
+5337,"south coast, MA",450
+5338,"south coast, MA",55
+5339,"south coast, MA",55
+5340,"south coast, MA",99
+5341,"south coast, MA",495
+5342,"south coast, MA",350
+5343,"south coast, MA",450
+5344,"south coast, MA",99
+5345,"south coast, MA",90
+5346,"south coast, MA",450
+5347,"south coast, MA",500
+5348,"south coast, MA",99
+5349,"south coast, MA",349
+5350,"south coast, MA",150
+5351,"south coast, MA",230
+5352,"south coast, MA",350
+5353,"south coast, MA",350
+5354,"south coast, MA",499
+5355,"south coast, MA",495
+5356,south dakota,390
+5357,south dakota,200
+5358,south dakota,400
+5359,south dakota,400
+5360,south dakota,200
+5361,southeast IA,230
+5362,southeast IA,525
+5363,southeast IA,400
+5364,southeast IA,200
+5365,southeast IA,200
+5366,southeast IA,400
+5367,southeast IA,325
+5368,southeast IA,500
+5369,southeast IA,240
+5370,southeast KS,225
+5371,southeast KS,350
+5372,southeast KS,400
+5373,southeast KS,429
+5374,southeast KS,775
+5375,southeast KS,469
+5376,southeast KS,449
+5377,southeast KS,449
+5378,southeast KS,775
+5379,southeast KS,200
+5380,southeast KS,469
+5381,southeast KS,459
+5382,southeast KS,525
+5383,southeast KS,499
+5384,southeast KS,499
+5385,southeast KS,149
+5386,southeast KS,55
+5387,southeast KS,550
+5388,southeast KS,200
+5389,southeast KS,225
+5390,southeast KS,225
+5391,southeast missouri,200
+5392,southeast missouri,200
+5393,southeast missouri,475
+5394,southeast missouri,450
+5395,southeast missouri,350
+5396,southeast missouri,225
+5397,southeast missouri,200
+5398,southeast missouri,200
+5399,southeast missouri,450
+5400,southeast missouri,201
+5401,southeast missouri,600
+5402,southeast missouri,400
+5403,southeast missouri,400
+5404,southeast missouri,350
+5405,southeast missouri,400
+5406,southeast missouri,400
+5407,southeast missouri,500
+5408,southern illinois,200
+5409,southern illinois,200
+5410,southern illinois,475
+5411,southern illinois,475
+5412,southern illinois,530
+5413,southern illinois,450
+5414,southern illinois,380
+5415,southern illinois,550
+5416,southern illinois,500
+5417,southern illinois,400
+5418,southern illinois,480
+5419,southern illinois,200
+5420,southern illinois,400
+5421,southern illinois,550
+5422,southern illinois,200
+5423,southern illinois,400
+5424,southern illinois,395
+5425,southern illinois,400
+5426,southern illinois,395
+5427,southern illinois,375
+5428,southern illinois,229
+5429,southern maryland,200
+5430,southern maryland,200
+5431,southern maryland,400
+5432,southern maryland,499
+5433,southern maryland,500
+5434,southern maryland,499
+5435,southern maryland,230
+5436,southern maryland,500
+5437,southern maryland,475
+5438,southern maryland,500
+5439,southern maryland,499
+5440,southern maryland,500
+5441,southern maryland,500
+5442,southern maryland,550
+5443,southern maryland,400
+5444,southern maryland,499
+5445,southern maryland,299
+5446,southern maryland,200
+5447,southern maryland,425
+5448,southern maryland,335
+5449,southern maryland,299
+5450,southern WV,400
+5451,southern WV,232
+5452,southern WV,225
+5453,southern WV,200
+5454,south florida,499
+5455,south florida,630
+5456,south florida,499
+5457,south florida,65
+5458,south florida,499
+5459,south florida,300
+5460,south florida,500
+5461,south florida,450
+5462,south florida,400
+5463,south florida,500
+5464,south florida,450
+5465,south florida,65
+5466,south florida,700
+5467,south florida,400
+5468,south florida,450
+5469,south florida,1300
+5470,south florida,950
+5471,south florida,349
+5472,south florida,500
+5473,south florida,200
+5474,south florida,440
+5475,south jersey,625
+5476,south jersey,420
+5477,south jersey,400
+5478,south jersey,400
+5479,south jersey,400
+5480,south jersey,175
+5481,south jersey,600
+5482,south jersey,250
+5483,south jersey,240
+5484,south jersey,60
+5485,south jersey,60
+5486,south jersey,85
+5487,south jersey,85
+5488,south jersey,60
+5489,south jersey,60
+5490,south jersey,85
+5491,south jersey,85
+5492,south jersey,60
+5493,south jersey,85
+5494,south jersey,60
+5495,south jersey,60
+5496,southwest KS,450
+5497,southwest KS,500
+5498,southwest KS,200
+5499,southwest KS,200
+5500,southwest KS,200
+5501,southwest KS,525
+5502,southwest KS,499
+5503,southwest KS,499
+5504,southwest KS,149
+5505,southwest KS,55
+5506,southwest KS,550
+5507,southwest KS,200
+5508,southwest michigan,450
+5509,southwest michigan,470
+5510,southwest michigan,400
+5511,southwest michigan,400
+5512,southwest michigan,400
+5513,southwest michigan,200
+5514,southwest michigan,700
+5515,southwest michigan,400
+5516,southwest michigan,200
+5517,southwest michigan,260
+5518,southwest MN,200
+5519,southwest MN,390
+5520,southwest MN,450
+5521,southwest MN,500
+5522,southwest MN,525
+5523,southwest MN,400
+5524,southwest MN,550
+5525,southwest MN,375
+5526,southwest MN,240
+5527,southwest MN,499
+5528,southwest MN,499
+5529,southwest MN,499
+5530,southwest MN,499
+5531,southwest MN,499
+5532,southwest MN,549
+5533,southwest MN,499
+5534,southwest MN,1111
+5535,southwest MN,550
+5536,southwest MN,400
+5537,southwest MN,350
+5538,southwest MN,800
+5539,southwest MS,125
+5540,southwest MS,200
+5541,southwest MS,350
+5542,southwest MS,325
+5543,southwest MS,325
+5544,southwest MS,238
+5545,southwest MS,200
+5546,southwest MS,400
+5547,southwest MS,200
+5548,southwest MS,200
+5549,southwest MS,240
+5550,southwest MS,500
+5551,southwest TX,225
+5552,southwest TX,400
+5553,southwest TX,400
+5554,southwest TX,550
+5555,southwest TX,370
+5556,southwest TX,380
+5557,southwest TX,370
+5558,southwest TX,380
+5559,southwest TX,650
+5560,southwest TX,580
+5561,southwest TX,500
+5562,southwest TX,300
+5563,southwest TX,450
+5564,southwest TX,475
+5565,southwest TX,449
+5566,southwest TX,450
+5567,southwest TX,450
+5568,southwest TX,100
+5569,southwest TX,380
+5570,southwest TX,200
+5571,southwest TX,900
+5572,southwest VA,200
+5573,southwest VA,550
+5574,southwest VA,450
+5575,southwest VA,580
+5576,southwest VA,230
+5577,southwest VA,75
+5578,southwest VA,229
+5579,southwest VA,350
+5580,southwest VA,450
+5581,southwest VA,400
+5582,southwest VA,200
+5583,southwest VA,200
+5584,southwest VA,500
+5585,"space coast, FL",440
+5586,"space coast, FL",425
+5587,"space coast, FL",400
+5588,"space coast, FL",230
+5589,"space coast, FL",500
+5590,"space coast, FL",485
+5591,"space coast, FL",500
+5592,"space coast, FL",350
+5593,"space coast, FL",200
+5594,"space coast, FL",550
+5595,"space coast, FL",700
+5596,"space coast, FL",500
+5597,"space coast, FL",470
+5598,"space coast, FL",500
+5599,"space coast, FL",200
+5600,"space coast, FL",899
+5601,"space coast, FL",700
+5602,"space coast, FL",530
+5603,"space coast, FL",700
+5604,"space coast, FL",300
+5605,"space coast, FL",200
+5606,spokane / coeur d'alene,500
+5607,spokane / coeur d'alene,475
+5608,spokane / coeur d'alene,500
+5609,spokane / coeur d'alene,500
+5610,spokane / coeur d'alene,500
+5611,spokane / coeur d'alene,475
+5612,spokane / coeur d'alene,560
+5613,spokane / coeur d'alene,400
+5614,spokane / coeur d'alene,400
+5615,"springfield, IL",400
+5616,"springfield, IL",400
+5617,"springfield, IL",200
+5618,"springfield, IL",230
+5619,"springfield, IL",400
+5620,"springfield, IL",400
+5621,"springfield, IL",550
+5622,"springfield, IL",600
+5623,"springfield, IL",475
+5624,"springfield, IL",530
+5625,"springfield, IL",450
+5626,"springfield, IL",380
+5627,"springfield, IL",550
+5628,"springfield, IL",500
+5629,"springfield, IL",400
+5630,"springfield, IL",480
+5631,"springfield, IL",200
+5632,"springfield, IL",400
+5633,"springfield, IL",550
+5634,"springfield, IL",200
+5635,"springfield, IL",400
+5636,"springfield, MO",400
+5637,"springfield, MO",950
+5638,"springfield, MO",350
+5639,"springfield, MO",400
+5640,"springfield, MO",200
+5641,"springfield, MO",225
+5642,"springfield, MO",225
+5643,"springfield, MO",400
+5644,"springfield, MO",500
+5645,"springfield, MO",375
+5646,"springfield, MO",225
+5647,"springfield, MO",400
+5648,"springfield, MO",600
+5649,"state college, PA",225
+5650,"state college, PA",500
+5651,"state college, PA",550
+5652,"state college, PA",500
+5653,"state college, PA",450
+5654,"state college, PA",490
+5655,"state college, PA",400
+5656,"statesboro, GA",500
+5657,"statesboro, GA",500
+5658,"statesboro, GA",225
+5659,"statesboro, GA",230
+5660,"statesboro, GA",150
+5661,"statesboro, GA",400
+5662,"statesboro, GA",500
+5663,"statesboro, GA",500
+5664,"st augustine, FL",200
+5665,"st augustine, FL",490
+5666,"st augustine, FL",200
+5667,"st augustine, FL",449
+5668,"st augustine, FL",400
+5669,"st augustine, FL",499
+5670,"st augustine, FL",499
+5671,"st augustine, FL",449
+5672,"st augustine, FL",400
+5673,"st augustine, FL",500
+5674,"st augustine, FL",200
+5675,"st augustine, FL",450
+5676,"st augustine, FL",500
+5677,"st augustine, FL",200
+5678,"st augustine, FL",500
+5679,"st augustine, FL",202
+5680,"st augustine, FL",420
+5681,"st augustine, FL",400
+5682,"st augustine, FL",450
+5683,"st augustine, FL",300
+5684,"st augustine, FL",200
+5685,"st cloud, MN",450
+5686,"st cloud, MN",500
+5687,"st cloud, MN",525
+5688,"st cloud, MN",400
+5689,"st cloud, MN",550
+5690,"st cloud, MN",375
+5691,"st cloud, MN",240
+5692,"st cloud, MN",499
+5693,"st cloud, MN",499
+5694,"st cloud, MN",499
+5695,"st cloud, MN",499
+5696,"st cloud, MN",499
+5697,"st cloud, MN",549
+5698,"st cloud, MN",499
+5699,"st cloud, MN",1111
+5700,"st cloud, MN",550
+5701,"st cloud, MN",400
+5702,"st cloud, MN",350
+5703,"st cloud, MN",800
+5704,"st cloud, MN",450
+5705,"st cloud, MN",500
+5706,"st george, UT",340
+5707,"st george, UT",230
+5708,"st george, UT",525
+5709,"st george, UT",200
+5710,"st george, UT",200
+5711,"st george, UT",400
+5712,"st george, UT",550
+5713,"st george, UT",550
+5714,"st george, UT",200
+5715,"st george, UT",550
+5716,"st george, UT",350
+5717,"st george, UT",200
+5718,"st george, UT",400
+5719,"st george, UT",200
+5720,"st george, UT",600
+5721,"st george, UT",400
+5722,"st george, UT",400
+5723,"st george, UT",200
+5724,"st george, UT",550
+5725,"st george, UT",550
+5726,"st george, UT",479
+5727,"stillwater, OK",200
+5728,"stillwater, OK",460
+5729,"stillwater, OK",469
+5730,"stillwater, OK",469
+5731,"stillwater, OK",469
+5732,"stillwater, OK",469
+5733,"stillwater, OK",469
+5734,"stillwater, OK",469
+5735,"stillwater, OK",475
+5736,"stillwater, OK",460
+5737,"stillwater, OK",400
+5738,"stillwater, OK",460
+5739,"stillwater, OK",469
+5740,"stillwater, OK",469
+5741,"stillwater, OK",460
+5742,"stillwater, OK",200
+5743,"stillwater, OK",460
+5744,"stillwater, OK",460
+5745,"stillwater, OK",500
+5746,"stillwater, OK",460
+5747,"stillwater, OK",460
+5748,st joseph,800
+5749,st joseph,380
+5750,st joseph,480
+5751,st joseph,540
+5752,st joseph,480
+5753,st joseph,450
+5754,st joseph,200
+5755,st joseph,200
+5756,st joseph,450
+5757,st joseph,600
+5758,st joseph,1000
+5759,st joseph,400
+5760,st joseph,400
+5761,st joseph,500
+5762,st joseph,200
+5763,st joseph,200
+5764,st joseph,200
+5765,st joseph,400
+5766,st joseph,200
+5767,st joseph,400
+5768,st joseph,200
+5769,"st louis, MO",475
+5770,"st louis, MO",530
+5771,"st louis, MO",450
+5772,"st louis, MO",380
+5773,"st louis, MO",550
+5774,"st louis, MO",500
+5775,"st louis, MO",400
+5776,"st louis, MO",480
+5777,"st louis, MO",200
+5778,"st louis, MO",400
+5779,"st louis, MO",550
+5780,"st louis, MO",200
+5781,"st louis, MO",400
+5782,"st louis, MO",395
+5783,"st louis, MO",400
+5784,"st louis, MO",395
+5785,"st louis, MO",400
+5786,"st louis, MO",400
+5787,"st louis, MO",200
+5788,"st louis, MO",230
+5789,"st louis, MO",400
+5790,"stockton, CA",450
+5791,"stockton, CA",450
+5792,"stockton, CA",200
+5793,"stockton, CA",400
+5794,"stockton, CA",425
+5795,"stockton, CA",450
+5796,"stockton, CA",549
+5797,"stockton, CA",400
+5798,"stockton, CA",400
+5799,"stockton, CA",600
+5800,"stockton, CA",400
+5801,"stockton, CA",500
+5802,"stockton, CA",200
+5803,"stockton, CA",200
+5804,"stockton, CA",550
+5805,"stockton, CA",550
+5806,"stockton, CA",425
+5807,"stockton, CA",370
+5808,"stockton, CA",400
+5809,"stockton, CA",200
+5810,"stockton, CA",580
+5811,"susanville, CA",470
+5812,"susanville, CA",475
+5813,"susanville, CA",475
+5814,"susanville, CA",200
+5815,"susanville, CA",450
+5816,"susanville, CA",470
+5817,"susanville, CA",475
+5818,"susanville, CA",400
+5819,"susanville, CA",450
+5820,"susanville, CA",500
+5821,"susanville, CA",239
+5822,"susanville, CA",400
+5823,"susanville, CA",400
+5824,"susanville, CA",400
+5825,"susanville, CA",352
+5826,"susanville, CA",227
+5827,"susanville, CA",500
+5828,"syracuse, NY",200
+5829,"syracuse, NY",200
+5830,"syracuse, NY",200
+5831,"syracuse, NY",200
+5832,"syracuse, NY",350
+5833,tallahassee,449
+5834,tallahassee,449
+5835,tallahassee,400
+5836,tallahassee,500
+5837,tallahassee,350
+5838,tallahassee,500
+5839,tallahassee,232
+5840,tallahassee,200
+5841,tallahassee,450
+5842,tallahassee,225
+5843,tallahassee,200
+5844,tallahassee,400
+5845,tallahassee,450
+5846,tallahassee,500
+5847,tallahassee,400
+5848,tallahassee,400
+5849,tampa bay area,100
+5850,tampa bay area,399
+5851,tampa bay area,499
+5852,tampa bay area,100
+5853,tampa bay area,400
+5854,tampa bay area,499
+5855,tampa bay area,50
+5856,tampa bay area,397
+5857,tampa bay area,397
+5858,tampa bay area,397
+5859,tampa bay area,100
+5860,tampa bay area,397
+5861,tampa bay area,100
+5862,tampa bay area,499
+5863,tampa bay area,100
+5864,tampa bay area,100
+5865,tampa bay area,100
+5866,tampa bay area,100
+5867,tampa bay area,397
+5868,tampa bay area,200
+5869,tampa bay area,100
+5870,"terre haute, IN",400
+5871,"terre haute, IN",550
+5872,"terre haute, IN",600
+5873,"terre haute, IN",200
+5874,"terre haute, IN",480
+5875,"terre haute, IN",200
+5876,"terre haute, IN",465
+5877,"terre haute, IN",250
+5878,"terre haute, IN",200
+5879,"terre haute, IN",400
+5880,"terre haute, IN",400
+5881,"terre haute, IN",200
+5882,"terre haute, IN",230
+5883,"terre haute, IN",400
+5884,texarkana,239
+5885,texarkana,275
+5886,texarkana,700
+5887,texarkana,238
+5888,texarkana,500
+5889,texarkana,235
+5890,texarkana,400
+5891,texarkana,200
+5892,texarkana,400
+5893,texarkana,600
+5894,texoma,200
+5895,texoma,200
+5896,texoma,240
+5897,texoma,202
+5898,texoma,550
+5899,texoma,500
+5900,texoma,475
+5901,texoma,475
+5902,texoma,200
+5903,texoma,200
+5904,texoma,650
+5905,texoma,499
+5906,texoma,475
+5907,texoma,567
+5908,texoma,500
+5909,texoma,500
+5910,texoma,430
+5911,texoma,999
+5912,texoma,66666
+5913,texoma,66666
+5914,texoma,66666
+5915,"the thumb, MI",450
+5916,"the thumb, MI",145
+5917,"the thumb, MI",439
+5918,"the thumb, MI",350
+5919,"the thumb, MI",449
+5920,"the thumb, MI",460
+5921,"the thumb, MI",549
+5922,"the thumb, MI",499
+5923,"the thumb, MI",99
+5924,"the thumb, MI",475
+5925,"the thumb, MI",99
+5926,"the thumb, MI",500
+5927,"the thumb, MI",300
+5928,"the thumb, MI",399
+5929,"the thumb, MI",499
+5930,"the thumb, MI",500
+5931,"the thumb, MI",99
+5932,"the thumb, MI",480
+5933,"the thumb, MI",500
+5934,"the thumb, MI",525
+5935,"the thumb, MI",500
+5936,"toledo, OH",201
+5937,"toledo, OH",79
+5938,"toledo, OH",230
+5939,"toledo, OH",450
+5940,"toledo, OH",439
+5941,"toledo, OH",350
+5942,"toledo, OH",449
+5943,"toledo, OH",460
+5944,"toledo, OH",549
+5945,"toledo, OH",499
+5946,"toledo, OH",99
+5947,"toledo, OH",475
+5948,"toledo, OH",99
+5949,"toledo, OH",500
+5950,"toledo, OH",300
+5951,"toledo, OH",399
+5952,"toledo, OH",499
+5953,"toledo, OH",500
+5954,"toledo, OH",99
+5955,"toledo, OH",480
+5956,"toledo, OH",500
+5957,"topeka, KS",200
+5958,"topeka, KS",200
+5959,"topeka, KS",200
+5960,"topeka, KS",400
+5961,"topeka, KS",800
+5962,"topeka, KS",380
+5963,"topeka, KS",480
+5964,"topeka, KS",540
+5965,"topeka, KS",480
+5966,"topeka, KS",450
+5967,"topeka, KS",200
+5968,"topeka, KS",200
+5969,"topeka, KS",450
+5970,"topeka, KS",600
+5971,"topeka, KS",1000
+5972,"topeka, KS",400
+5973,"topeka, KS",400
+5974,"topeka, KS",500
+5975,"topeka, KS",225
+5976,"treasure coast, FL",500
+5977,"treasure coast, FL",450
+5978,"treasure coast, FL",230
+5979,"treasure coast, FL",535
+5980,"treasure coast, FL",475
+5981,"treasure coast, FL",500
+5982,"treasure coast, FL",440
+5983,"treasure coast, FL",425
+5984,"treasure coast, FL",400
+5985,"treasure coast, FL",230
+5986,"treasure coast, FL",500
+5987,"treasure coast, FL",499
+5988,"treasure coast, FL",630
+5989,"treasure coast, FL",499
+5990,"treasure coast, FL",65
+5991,"treasure coast, FL",499
+5992,"treasure coast, FL",300
+5993,"treasure coast, FL",500
+5994,"treasure coast, FL",450
+5995,"treasure coast, FL",400
+5996,"treasure coast, FL",500
+5997,"tri-cities, TN",550
+5998,"tri-cities, TN",450
+5999,"tri-cities, TN",200
+6000,"tri-cities, TN",580
+6001,"tri-cities, TN",75
+6002,"tri-cities, TN",229
+6003,"tri-cities, TN",350
+6004,"tri-cities, TN",450
+6005,"tri-cities, TN",400
+6006,"tri-cities, TN",200
+6007,"tri-cities, TN",200
+6008,"tri-cities, TN",500
+6009,"tri-cities, TN",230
+6010,"tri-cities, TN",465
+6011,"tri-cities, TN",200
+6012,"tri-cities, TN",480
+6013,"tri-cities, TN",550
+6014,"tri-cities, TN",450
+6015,"tucson, AZ",500
+6016,"tucson, AZ",200
+6017,"tucson, AZ",390
+6018,"tucson, AZ",1750
+6019,"tucson, AZ",649
+6020,"tucson, AZ",799
+6021,"tucson, AZ",200
+6022,"tucson, AZ",700
+6023,"tucson, AZ",60
+6024,"tucson, AZ",200
+6025,"tucson, AZ",60
+6026,"tucson, AZ",400
+6027,"tucson, AZ",380
+6028,"tucson, AZ",200
+6029,"tucson, AZ",450
+6030,"tucson, AZ",200
+6031,"tucson, AZ",350
+6032,"tucson, AZ",200
+6033,"tucson, AZ",380
+6034,"tucson, AZ",575
+6035,"tucson, AZ",550
+6036,"tulsa, OK",429
+6037,"tulsa, OK",775
+6038,"tulsa, OK",469
+6039,"tulsa, OK",449
+6040,"tulsa, OK",449
+6041,"tulsa, OK",775
+6042,"tulsa, OK",200
+6043,"tulsa, OK",469
+6044,"tulsa, OK",459
+6045,"tulsa, OK",225
+6046,"tulsa, OK",460
+6047,"tulsa, OK",469
+6048,"tulsa, OK",469
+6049,"tulsa, OK",469
+6050,"tulsa, OK",469
+6051,"tulsa, OK",469
+6052,"tulsa, OK",469
+6053,"tulsa, OK",475
+6054,"tulsa, OK",460
+6055,"tulsa, OK",400
+6056,"tulsa, OK",460
+6057,tuscaloosa,400
+6058,tuscaloosa,350
+6059,tuscaloosa,250
+6060,tuscaloosa,200
+6061,tuscaloosa,350
+6062,tuscaloosa,450
+6063,tuscaloosa,200
+6064,tuscarawas co,235
+6065,tuscarawas co,400
+6066,tuscarawas co,450
+6067,tuscarawas co,549
+6068,tuscarawas co,225
+6069,tuscarawas co,400
+6070,tuscarawas co,300
+6071,tuscarawas co,245
+6072,tuscarawas co,225
+6073,tuscarawas co,450
+6074,tuscarawas co,999
+6075,tuscarawas co,201
+6076,tuscarawas co,400
+6077,tuscarawas co,999
+6078,tuscarawas co,999
+6079,tuscarawas co,201
+6080,tuscarawas co,400
+6081,tuscarawas co,400
+6082,tuscarawas co,200
+6083,tuscarawas co,400
+6084,tuscarawas co,400
+6085,"twin falls, ID",400
+6086,"twin falls, ID",200
+6087,"twin falls, ID",480
+6088,"twin falls, ID",550
+6089,"twin falls, ID",200
+6090,"twin falls, ID",200
+6091,"twin falls, ID",430
+6092,"twin falls, ID",487
+6093,"twin falls, ID",60
+6094,"twin falls, ID",200
+6095,"twin falls, ID",200
+6096,"twin falls, ID",225
+6097,"twin falls, ID",400
+6098,"twin falls, ID",200
+6099,twin tiers NY/PA,226
+6100,twin tiers NY/PA,200
+6101,tyler / east TX,700
+6102,tyler / east TX,275
+6103,tyler / east TX,500
+6104,tyler / east TX,475
+6105,tyler / east TX,475
+6106,tyler / east TX,200
+6107,tyler / east TX,200
+6108,tyler / east TX,650
+6109,tyler / east TX,499
+6110,tyler / east TX,475
+6111,tyler / east TX,567
+6112,tyler / east TX,500
+6113,tyler / east TX,500
+6114,tyler / east TX,430
+6115,tyler / east TX,999
+6116,tyler / east TX,66666
+6117,tyler / east TX,66666
+6118,tyler / east TX,66666
+6119,tyler / east TX,999
+6120,tyler / east TX,500
+6121,tyler / east TX,999
+6122,"upper peninsula, MI",550
+6123,"upper peninsula, MI",200
+6124,"upper peninsula, MI",350
+6125,"upper peninsula, MI",500
+6126,"upper peninsula, MI",550
+6127,"upper peninsula, MI",350
+6128,"upper peninsula, MI",400
+6129,utica-rome-oneida,350
+6130,utica-rome-oneida,200
+6131,utica-rome-oneida,200
+6132,utica-rome-oneida,200
+6133,utica-rome-oneida,200
+6134,utica-rome-oneida,400
+6135,utica-rome-oneida,200
+6136,utica-rome-oneida,200
+6137,utica-rome-oneida,400
+6138,utica-rome-oneida,400
+6139,utica-rome-oneida,400
+6140,utica-rome-oneida,200
+6141,utica-rome-oneida,500
+6142,utica-rome-oneida,425
+6143,utica-rome-oneida,200
+6144,utica-rome-oneida,699
+6145,"valdosta, GA",500
+6146,"valdosta, GA",350
+6147,"valdosta, GA",449
+6148,"valdosta, GA",449
+6149,"valdosta, GA",400
+6150,"valdosta, GA",500
+6151,"valdosta, GA",232
+6152,"valdosta, GA",450
+6153,"valdosta, GA",500
+6154,"valdosta, GA",400
+6155,"valdosta, GA",400
+6156,"valdosta, GA",200
+6157,"valdosta, GA",490
+6158,"valdosta, GA",200
+6159,"valdosta, GA",449
+6160,"valdosta, GA",400
+6161,"valdosta, GA",499
+6162,"valdosta, GA",499
+6163,"valdosta, GA",449
+6164,"valdosta, GA",400
+6165,"valdosta, GA",500
+6166,ventura county,425
+6167,ventura county,150
+6168,ventura county,229
+6169,ventura county,400
+6170,ventura county,500
+6171,ventura county,400
+6172,ventura county,400
+6173,ventura county,600
+6174,ventura county,425
+6175,ventura county,400
+6176,ventura county,145
+6177,ventura county,600
+6178,ventura county,499
+6179,ventura county,375
+6180,ventura county,500
+6181,ventura county,360
+6182,ventura county,560
+6183,ventura county,500
+6184,ventura county,300
+6185,ventura county,360
+6186,ventura county,145
+6187,vermont,460
+6188,vermont,200
+6189,vermont,200
+6190,vermont,200
+6191,vermont,499
+6192,vermont,499
+6193,vermont,489
+6194,vermont,465
+6195,vermont,340
+6196,vermont,400
+6197,vermont,200
+6198,vermont,200
+6199,vermont,400
+6200,vermont,400
+6201,vermont,400
+6202,vermont,200
+6203,vermont,500
+6204,vermont,425
+6205,vermont,200
+6206,vermont,699
+6207,"victoria, TX",200
+6208,"victoria, TX",200
+6209,"victoria, TX",200
+6210,"victoria, TX",450
+6211,"victoria, TX",100
+6212,"victoria, TX",380
+6213,"victoria, TX",200
+6214,"victoria, TX",900
+6215,"victoria, TX",380
+6216,"victoria, TX",450
+6217,"victoria, TX",800
+6218,"victoria, TX",500
+6219,"victoria, TX",800
+6220,"victoria, TX",500
+6221,"victoria, TX",800
+6222,"victoria, TX",800
+6223,"victoria, TX",350
+6224,"victoria, TX",420
+6225,"victoria, TX",800
+6226,"victoria, TX",700
+6227,"victoria, TX",900
+6228,visalia-tulare,550
+6229,visalia-tulare,200
+6230,visalia-tulare,200
+6231,visalia-tulare,200
+6232,visalia-tulare,250
+6233,visalia-tulare,480
+6234,visalia-tulare,230
+6235,visalia-tulare,200
+6236,visalia-tulare,400
+6237,visalia-tulare,400
+6238,visalia-tulare,400
+6239,visalia-tulare,400
+6240,visalia-tulare,400
+6241,visalia-tulare,400
+6242,visalia-tulare,200
+6243,visalia-tulare,400
+6244,visalia-tulare,460
+6245,visalia-tulare,400
+6246,visalia-tulare,400
+6247,visalia-tulare,400
+6248,visalia-tulare,400
+6249,"waco, TX",200
+6250,"waco, TX",400
+6251,"waco, TX",240
+6252,"waco, TX",400
+6253,"waco, TX",200
+6254,"waco, TX",200
+6255,"waco, TX",235
+6256,"waco, TX",575
+6257,"waco, TX",500
+6258,"waco, TX",475
+6259,"waco, TX",475
+6260,"waco, TX",200
+6261,"waco, TX",200
+6262,"waco, TX",650
+6263,"waco, TX",499
+6264,"waco, TX",475
+6265,"waco, TX",567
+6266,"waco, TX",500
+6267,"waco, TX",500
+6268,"waco, TX",430
+6269,"waco, TX",999
+6270,"washington, DC",200
+6271,"washington, DC",200
+6272,"washington, DC",400
+6273,"washington, DC",499
+6274,"washington, DC",500
+6275,"washington, DC",499
+6276,"washington, DC",230
+6277,"washington, DC",500
+6278,"washington, DC",475
+6279,"washington, DC",500
+6280,"washington, DC",499
+6281,"washington, DC",500
+6282,"washington, DC",500
+6283,"washington, DC",550
+6284,"washington, DC",400
+6285,"washington, DC",499
+6286,"washington, DC",299
+6287,"washington, DC",200
+6288,"washington, DC",425
+6289,"washington, DC",335
+6290,"washington, DC",299
+6291,waterloo / cedar falls,550
+6292,waterloo / cedar falls,400
+6293,waterloo / cedar falls,325
+6294,waterloo / cedar falls,500
+6295,waterloo / cedar falls,230
+6296,waterloo / cedar falls,525
+6297,waterloo / cedar falls,400
+6298,waterloo / cedar falls,200
+6299,waterloo / cedar falls,200
+6300,"watertown, NY",200
+6301,"watertown, NY",200
+6302,"watertown, NY",200
+6303,"watertown, NY",200
+6304,"watertown, NY",400
+6305,"watertown, NY",500
+6306,"watertown, NY",575
+6307,"watertown, NY",575
+6308,"watertown, NY",500
+6309,"wausau, WI",550
+6310,"wausau, WI",550
+6311,"wausau, WI",200
+6312,"wausau, WI",350
+6313,"wausau, WI",500
+6314,"wausau, WI",425
+6315,"wausau, WI",600
+6316,"wausau, WI",380
+6317,"wausau, WI",400
+6318,"wenatchee, WA",450
+6319,"wenatchee, WA",600
+6320,"wenatchee, WA",200
+6321,"wenatchee, WA",299
+6322,"wenatchee, WA",575
+6323,"wenatchee, WA",500
+6324,"wenatchee, WA",520
+6325,"wenatchee, WA",550
+6326,"wenatchee, WA",230
+6327,"wenatchee, WA",200
+6328,"wenatchee, WA",450
+6329,"wenatchee, WA",300
+6330,"wenatchee, WA",550
+6331,"wenatchee, WA",400
+6332,"wenatchee, WA",500
+6333,"wenatchee, WA",399
+6334,"wenatchee, WA",550
+6335,"wenatchee, WA",399
+6336,"wenatchee, WA",399
+6337,"wenatchee, WA",399
+6338,"wenatchee, WA",475
+6339,western IL,240
+6340,western IL,500
+6341,western IL,375
+6342,western IL,400
+6343,western IL,475
+6344,western IL,530
+6345,western IL,450
+6346,western IL,380
+6347,western IL,550
+6348,western IL,500
+6349,western IL,400
+6350,western IL,480
+6351,western IL,200
+6352,western IL,400
+6353,western IL,550
+6354,western IL,200
+6355,western IL,400
+6356,western IL,395
+6357,western IL,400
+6358,western IL,395
+6359,western KY,200
+6360,western KY,200
+6361,western KY,475
+6362,western KY,400
+6363,western KY,400
+6364,western KY,500
+6365,western KY,375
+6366,western KY,229
+6367,western KY,200
+6368,western KY,400
+6369,western KY,200
+6370,western KY,300
+6371,western maryland,575
+6372,western massachusetts,580
+6373,western massachusetts,550
+6374,western massachusetts,200
+6375,western massachusetts,400
+6376,western massachusetts,420
+6377,western massachusetts,400
+6378,western massachusetts,200
+6379,western massachusetts,400
+6380,western massachusetts,200
+6381,western massachusetts,400
+6382,western massachusetts,400
+6383,western massachusetts,200
+6384,western massachusetts,200
+6385,western massachusetts,400
+6386,western massachusetts,400
+6387,western massachusetts,400
+6388,western massachusetts,200
+6389,western massachusetts,500
+6390,western massachusetts,425
+6391,western massachusetts,200
+6392,western massachusetts,699
+6393,western slope,400
+6394,western slope,200
+6395,western slope,550
+6396,western slope,525
+6397,western slope,230
+6398,western slope,450
+6399,western slope,1400
+6400,western slope,325
+6401,western slope,475
+6402,western slope,425
+6403,western slope,200
+6404,western slope,650
+6405,western slope,200
+6406,western slope,400
+6407,western slope,400
+6408,western slope,450
+6409,western slope,450
+6410,western slope,450
+6411,western slope,425
+6412,western slope,200
+6413,western slope,400
+6414,west virginia (old),400
+6415,west virginia (old),240
+6416,west virginia (old),400
+6417,"wichita falls, TX",200
+6418,"wichita falls, TX",200
+6419,"wichita falls, TX",200
+6420,"wichita falls, TX",200
+6421,"wichita falls, TX",240
+6422,"wichita falls, TX",202
+6423,"wichita falls, TX",460
+6424,"wichita falls, TX",469
+6425,"wichita falls, TX",469
+6426,"wichita falls, TX",469
+6427,"wichita falls, TX",469
+6428,"wichita falls, TX",469
+6429,"wichita falls, TX",469
+6430,"wichita falls, TX",475
+6431,"wichita falls, TX",460
+6432,"wichita falls, TX",400
+6433,"wichita falls, TX",460
+6434,"wichita falls, TX",469
+6435,"wichita falls, TX",469
+6436,"wichita falls, TX",460
+6437,"wichita falls, TX",200
+6438,"wichita, KS",525
+6439,"wichita, KS",499
+6440,"wichita, KS",499
+6441,"wichita, KS",149
+6442,"wichita, KS",55
+6443,"wichita, KS",550
+6444,"wichita, KS",200
+6445,"wichita, KS",225
+6446,"wichita, KS",200
+6447,"wichita, KS",400
+6448,"wichita, KS",429
+6449,"wichita, KS",775
+6450,"wichita, KS",469
+6451,"wichita, KS",449
+6452,"wichita, KS",449
+6453,"wichita, KS",775
+6454,"wichita, KS",200
+6455,"wichita, KS",469
+6456,"wichita, KS",459
+6457,"williamsport, PA",225
+6458,"williamsport, PA",500
+6459,"williamsport, PA",550
+6460,"williamsport, PA",500
+6461,"williamsport, PA",450
+6462,"williamsport, PA",375
+6463,"williamsport, PA",229
+6464,"williamsport, PA",440
+6465,"williamsport, PA",230
+6466,"williamsport, PA",420
+6467,"wilmington, NC",599
+6468,"wilmington, NC",370
+6469,"wilmington, NC",500
+6470,"wilmington, NC",539
+6471,"wilmington, NC",539
+6472,"wilmington, NC",539
+6473,"wilmington, NC",200
+6474,"wilmington, NC",350
+6475,"wilmington, NC",600
+6476,"wilmington, NC",400
+6477,"wilmington, NC",450
+6478,"wilmington, NC",475
+6479,"wilmington, NC",425
+6480,"wilmington, NC",225
+6481,"wilmington, NC",225
+6482,"wilmington, NC",400
+6483,"wilmington, NC",300
+6484,"wilmington, NC",240
+6485,"wilmington, NC",50
+6486,"wilmington, NC",750
+6487,"wilmington, NC",450
+6488,"winchester, VA",575
+6489,"winchester, VA",447
+6490,"winchester, VA",520
+6491,"winchester, VA",200
+6492,"winchester, VA",200
+6493,"winchester, VA",400
+6494,"winchester, VA",499
+6495,"winchester, VA",500
+6496,"winchester, VA",499
+6497,"winchester, VA",230
+6498,"winchester, VA",500
+6499,"winchester, VA",475
+6500,"winchester, VA",500
+6501,"winchester, VA",499
+6502,"winchester, VA",500
+6503,"winchester, VA",500
+6504,"winchester, VA",550
+6505,"winchester, VA",400
+6506,"winchester, VA",499
+6507,"winchester, VA",299
+6508,"winchester, VA",200
+6509,"winston-salem, NC",325
+6510,"winston-salem, NC",485
+6511,"winston-salem, NC",485
+6512,"winston-salem, NC",550
+6513,"winston-salem, NC",240
+6514,"winston-salem, NC",800
+6515,"winston-salem, NC",450
+6516,"winston-salem, NC",500
+6517,"winston-salem, NC",235
+6518,"winston-salem, NC",400
+6519,"winston-salem, NC",425
+6520,"winston-salem, NC",799
+6521,"winston-salem, NC",799
+6522,"winston-salem, NC",400
+6523,"winston-salem, NC",450
+6524,"winston-salem, NC",550
+6525,"winston-salem, NC",200
+6526,"winston-salem, NC",250
+6527,"winston-salem, NC",330
+6528,"winston-salem, NC",450
+6529,"winston-salem, NC",220
+6530,worcester / central MA,60
+6531,worcester / central MA,400
+6532,worcester / central MA,400
+6533,worcester / central MA,60
+6534,worcester / central MA,60
+6535,worcester / central MA,60
+6536,worcester / central MA,60
+6537,worcester / central MA,275
+6538,worcester / central MA,450
+6539,worcester / central MA,55
+6540,worcester / central MA,55
+6541,worcester / central MA,99
+6542,worcester / central MA,495
+6543,worcester / central MA,350
+6544,worcester / central MA,450
+6545,worcester / central MA,99
+6546,worcester / central MA,90
+6547,worcester / central MA,450
+6548,worcester / central MA,500
+6549,worcester / central MA,99
+6550,worcester / central MA,349
+6551,wyoming,200
+6552,wyoming,550
+6553,wyoming,225
+6554,wyoming,400
+6555,wyoming,500
+6556,wyoming,450
+6557,wyoming,119
+6558,"yakima, WA",450
+6559,"yakima, WA",475
+6560,"yakima, WA",560
+6561,"yakima, WA",600
+6562,"yakima, WA",200
+6563,"yakima, WA",299
+6564,"yakima, WA",575
+6565,"yakima, WA",500
+6566,"yakima, WA",520
+6567,"yakima, WA",550
+6568,"yakima, WA",230
+6569,"yakima, WA",200
+6570,"yakima, WA",450
+6571,"yakima, WA",300
+6572,"yakima, WA",550
+6573,"yakima, WA",400
+6574,"yakima, WA",500
+6575,"yakima, WA",399
+6576,"yakima, WA",550
+6577,"yakima, WA",399
+6578,"yakima, WA",399
+6579,"york, PA",490
+6580,"york, PA",400
+6581,"york, PA",225
+6582,"york, PA",500
+6583,"york, PA",550
+6584,"york, PA",500
+6585,"york, PA",450
+6586,"york, PA",560
+6587,"york, PA",379
+6588,"york, PA",225
+6589,"york, PA",200
+6590,"york, PA",350
+6591,"york, PA",200
+6592,"york, PA",499
+6593,"york, PA",499
+6594,"york, PA",499
+6595,"york, PA",229
+6596,"york, PA",440
+6597,"york, PA",230
+6598,"york, PA",420
+6599,"york, PA",575
+6600,"youngstown, OH",225
+6601,"youngstown, OH",400
+6602,"youngstown, OH",300
+6603,"youngstown, OH",245
+6604,"youngstown, OH",400
+6605,"youngstown, OH",450
+6606,"youngstown, OH",549
+6607,"youngstown, OH",400
+6608,"youngstown, OH",425
+6609,"youngstown, OH",400
+6610,"youngstown, OH",420
+6611,"youngstown, OH",420
+6612,"youngstown, OH",600
+6613,"youngstown, OH",600
+6614,"youngstown, OH",200
+6615,"youngstown, OH",475
+6616,"youngstown, OH",500
+6617,"youngstown, OH",600
+6618,"youngstown, OH",600
+6619,"youngstown, OH",700
+6620,"youngstown, OH",400
+6621,"yuba-sutter, CA",227
+6622,"yuba-sutter, CA",500
+6623,"yuba-sutter, CA",200
+6624,"yuba-sutter, CA",200
+6625,"yuba-sutter, CA",550
+6626,"yuba-sutter, CA",550
+6627,"yuba-sutter, CA",425
+6628,"yuba-sutter, CA",370
+6629,"yuba-sutter, CA",400
+6630,"yuba-sutter, CA",200
+6631,"yuba-sutter, CA",580
+6632,"yuba-sutter, CA",400
+6633,"yuba-sutter, CA",500
+6634,"yuba-sutter, CA",500
+6635,"yuba-sutter, CA",460
+6636,"yuba-sutter, CA",500
+6637,"yuba-sutter, CA",500
+6638,"yuba-sutter, CA",400
+6639,"yuba-sutter, CA",450
+6640,"yuba-sutter, CA",500
+6641,"yuba-sutter, CA",239
+6642,"yuma, AZ",400
+6643,"yuma, AZ",239
+6644,"yuma, AZ",600
+6645,"yuma, AZ",229
+6646,"yuma, AZ",600
+6647,"yuma, AZ",80
+6648,"yuma, AZ",600
+6649,"yuma, AZ",650
+6650,"yuma, AZ",280
+6651,"yuma, AZ",540
+6652,"yuma, AZ",350
+6653,"yuma, AZ",550
+6654,"yuma, AZ",449
+6655,"yuma, AZ",777
+6656,"yuma, AZ",200
+6657,"yuma, AZ",200
+6658,"yuma, AZ",400
+6659,"yuma, AZ",459
+6660,"yuma, AZ",499
+6661,"yuma, AZ",499
+6662,"yuma, AZ",390
+6663,zanesville / cambridge,240
+6664,zanesville / cambridge,400
+6665,zanesville / cambridge,235
+6666,zanesville / cambridge,230
+6667,zanesville / cambridge,500
+6668,zanesville / cambridge,549
+6669,zanesville / cambridge,600
+6670,zanesville / cambridge,450
+6671,zanesville / cambridge,425
+6672,zanesville / cambridge,400
+6673,zanesville / cambridge,500
+6674,zanesville / cambridge,579
+6675,zanesville / cambridge,600
+6676,,
+6677,,
+6678,,
+6679,,
+6680,,
+6681,,
+6682,,
+6683,,
+6684,,
+6685,,
+6686,,
+6687,,
+6688,,
+6689,,
+6690,,
+6691,,
+6692,,
+6693,,
+6694,,
+6695,,
+6696,,
+6697,,
+6698,,
+6699,,
+6700,,
+6701,,
+6702,,
+6703,,
+6704,,
+6705,,
+6706,,
+6707,,
+6708,,
+6709,,
+6710,,
+6711,,
+6712,,
+6713,,
+6714,,
+6715,,
+6716,,
+6717,,
+6718,,
+6719,,
+6720,,
+6721,,
+6722,,
+6723,,
+6724,,
+6725,,
+6726,,
+6727,,
+6728,,
+6729,,
+6730,,
+6731,,
+6732,,
+6733,,
+6734,,
+6735,,
+6736,,
+6737,,
+6738,,
+6739,,
+6740,,
+6741,,
+6742,,
+6743,,
+6744,,
+6745,,
+6746,,
+6747,,
+6748,,
+6749,,
+6750,,
+6751,,
+6752,,
+6753,,
+6754,,
+6755,,
+6756,,
+6757,,
+6758,,
+6759,,
+6760,,
+6761,,
+6762,,
+6763,,
+6764,,
+6765,,
+6766,,
+6767,,
+6768,,
+6769,,
+6770,,
+6771,,
+6772,,
+6773,,
+6774,,
+6775,,
+6776,,
+6777,,
+6778,,
+6779,,
+6780,,
+6781,,
+6782,,
+6783,,
+6784,,
+6785,,
+6786,,
+6787,,
+6788,,
+6789,,
+6790,,
+6791,,
+6792,,
+6793,,
+6794,,
+6795,,
+6796,,
+6797,,
+6798,,
+6799,,
+6800,,
+6801,,
+6802,,
+6803,,
+6804,,
+6805,,
+6806,,
+6807,,
+6808,,
+6809,,
+6810,,
+6811,,
+6812,,
+6813,,
+6814,,
+6815,,
+6816,,
+6817,,
+6818,,
+6819,,
+6820,,
+6821,,
+6822,,
+6823,,
+6824,,
+6825,,
+6826,,
+6827,,
+6828,,
+6829,,
+6830,,
+6831,,
+6832,,
+6833,,
+6834,,
+6835,,
+6836,,
+6837,,
+6838,,
+6839,,
+6840,,
+6841,,
+6842,,
+6843,,
+6844,,
+6845,,
+6846,,
+6847,,
+6848,,
+6849,,
+6850,,
+6851,,
+6852,,
+6853,,
+6854,,
+6855,,
+6856,,
+6857,,
+6858,,
+6859,,
+6860,,
+6861,,
+6862,,
+6863,,
+6864,,
+6865,,
+6866,,
+6867,,
+6868,,
+6869,,
+6870,,
+6871,,
+6872,,
+6873,,
+6874,,
+6875,,
+6876,,
+6877,,
+6878,,
+6879,,
+6880,,
+6881,,
+6882,,
+6883,,
+6884,,
+6885,,
+6886,,
+6887,,
+6888,,
+6889,,
+6890,,
+6891,,
+6892,,
+6893,,
+6894,,
+6895,,
+6896,,
+6897,,
+6898,,
+6899,,
+6900,,
+6901,,
+6902,,
+6903,,
+6904,,
+6905,,
+6906,,
+6907,,
+6908,,
+6909,,
+6910,,
+6911,,
+6912,,
+6913,,
+6914,,
+6915,,
+6916,,
+6917,,
+6918,,
+6919,,
+6920,,
+6921,,
+6922,,
+6923,,
+6924,,
+6925,,
+6926,,
+6927,,
+6928,,
+6929,,
+6930,,
+6931,,
+6932,,
+6933,,
+6934,,
+6935,,
+6936,,
+6937,,
+6938,,
+6939,,
+6940,,
+6941,,
+6942,,
+6943,,
+6944,,
+6945,,
+6946,,
+6947,,
+6948,,
+6949,,
+6950,,
+6951,,
+6952,,
+6953,,
+6954,,
+6955,,
+6956,,
+6957,,
+6958,,
+6959,,
+6960,,
+6961,,
+6962,,
+6963,,
+6964,,
+6965,,
+6966,,
+6967,,
+6968,,
+6969,,
+6970,,
+6971,,
+6972,,
+6973,,
+6974,,
+6975,,
+6976,,
+6977,,
+6978,,
+6979,,
+6980,,
+6981,,
+6982,,
+6983,,
+6984,,
+6985,,
+6986,,
+6987,,
+6988,,
+6989,,
+6990,,
+6991,,
+6992,,
+6993,,
+6994,,
+6995,,
+6996,,
+6997,,
+6998,,
+6999,,
+7000,,
+7001,,
+7002,,
+7003,,
+7004,,
+7005,,
+7006,,
+7007,,
+7008,,
+7009,,
+7010,,
+7011,,
+7012,,
+7013,,
+7014,,
+7015,,
+7016,,
+7017,,
+7018,,
+7019,,
+7020,,
+7021,,
+7022,,
+7023,,
+7024,,
+7025,,
+7026,,
+7027,,
+7028,,
+7029,,
+7030,,
+7031,,
+7032,,
+7033,,
+7034,,
+7035,,
+7036,,
+7037,,
+7038,,
+7039,,
+7040,,
+7041,,
+7042,,
+7043,,
+7044,,
+7045,,
+7046,,
+7047,,
+7048,,
+7049,,
+7050,,
+7051,,
+7052,,
+7053,,
+7054,,
+7055,,
+7056,,
+7057,,
+7058,,
+7059,,
+7060,,
+7061,,
+7062,,
+7063,,
+7064,,
+7065,,
+7066,,
+7067,,
+7068,,
+7069,,
+7070,,
+7071,,
+7072,,
+7073,,
+7074,,
+7075,,
+7076,,
+7077,,
+7078,,
+7079,,
+7080,,
+7081,,
+7082,,
+7083,,
+7084,,
+7085,,
+7086,,
+7087,,
+7088,,
+7089,,
+7090,,
+7091,,
+7092,,
+7093,,
+7094,,
+7095,,
+7096,,
+7097,,
+7098,,
+7099,,
+7100,,
+7101,,
+7102,,
+7103,,
+7104,,
+7105,,
+7106,,
+7107,,
+7108,,
+7109,,
+7110,,
+7111,,
+7112,,
+7113,,
+7114,,
+7115,,
+7116,,
+7117,,
+7118,,
+7119,,
+7120,,
+7121,,
+7122,,
+7123,,
+7124,,
+7125,,
+7126,,
+7127,,
+7128,,
+7129,,
+7130,,
+7131,,
+7132,,
+7133,,
+7134,,
+7135,,
+7136,,
+7137,,
+7138,,
+7139,,
+7140,,
+7141,,
+7142,,
+7143,,
+7144,,
+7145,,
+7146,,
+7147,,
+7148,,
+7149,,
+7150,,
+7151,,
+7152,,
+7153,,
+7154,,
+7155,,
+7156,,
+7157,,
+7158,,
+7159,,
+7160,,
+7161,,
+7162,,
+7163,,
+7164,,
+7165,,
+7166,,
+7167,,
+7168,,
+7169,,
+7170,,
+7171,,
+7172,,
+7173,,
+7174,,
+7175,,
+7176,,
+7177,,
+7178,,
+7179,,
+7180,,
+7181,,
+7182,,
+7183,,
+7184,,
+7185,,
+7186,,
+7187,,
+7188,,
+7189,,
+7190,,
+7191,,
+7192,,
+7193,,
+7194,,
+7195,,
+7196,,
+7197,,
+7198,,
+7199,,
+7200,,
+7201,,
+7202,,
+7203,,
+7204,,
+7205,,
+7206,,
+7207,,
+7208,,
+7209,,
+7210,,
+7211,,
+7212,,
+7213,,
+7214,,
+7215,,
+7216,,
+7217,,
+7218,,
+7219,,
+7220,,
+7221,,
+7222,,
+7223,,
+7224,,
+7225,,
+7226,,
+7227,,
+7228,,
+7229,,
+7230,,
+7231,,
+7232,,
+7233,,
+7234,,
+7235,,
+7236,,
+7237,,
+7238,,
+7239,,
+7240,,
+7241,,
+7242,,
+7243,,
+7244,,
+7245,,
+7246,,
+7247,,
+7248,,
+7249,,
+7250,,
+7251,,
+7252,,
+7253,,
+7254,,
+7255,,
+7256,,
+7257,,
+7258,,
+7259,,
+7260,,
+7261,,
+7262,,
+7263,,
+7264,,
+7265,,
+7266,,
+7267,,
+7268,,
+7269,,
+7270,,
+7271,,
+7272,,
+7273,,
+7274,,
+7275,,
+7276,,
+7277,,
+7278,,
+7279,,
+7280,,
+7281,,
+7282,,
+7283,,
+7284,,
+7285,,
+7286,,
+7287,,
+7288,,
+7289,,
+7290,,
+7291,,
+7292,,
+7293,,
+7294,,
+7295,,
+7296,,
+7297,,
+7298,,
+7299,,
+7300,,
+7301,,
+7302,,
+7303,,
+7304,,
+7305,,
+7306,,
+7307,,
+7308,,
+7309,,
+7310,,
+7311,,
+7312,,
+7313,,
+7314,,
+7315,,
+7316,,
+7317,,
+7318,,
+7319,,
+7320,,
+7321,,
+7322,,
+7323,,
+7324,,
+7325,,
+7326,,
+7327,,
+7328,,
+7329,,
+7330,,
+7331,,
+7332,,
+7333,,
+7334,,
+7335,,
+7336,,
+7337,,
+7338,,
+7339,,
+7340,,
+7341,,
+7342,,
+7343,,
+7344,,
+7345,,
+7346,,
+7347,,
+7348,,
+7349,,
+7350,,
+7351,,
+7352,,
+7353,,
+7354,,
+7355,,
+7356,,
+7357,,
+7358,,
+7359,,
+7360,,
+7361,,
+7362,,
+7363,,
+7364,,
+7365,,
+7366,,
+7367,,
+7368,,
+7369,,
+7370,,
+7371,,
+7372,,
+7373,,
+7374,,
+7375,,
+7376,,
+7377,,
+7378,,
+7379,,
+7380,,
+7381,,
+7382,,
+7383,,
+7384,,
+7385,,
+7386,,
+7387,,
+7388,,
+7389,,
+7390,,
+7391,,
+7392,,
+7393,,
+7394,,
+7395,,
+7396,,
+7397,,
+7398,,
+7399,,
+7400,,
+7401,,
+7402,,
+7403,,
+7404,,
+7405,,
+7406,,
+7407,,
+7408,,
+7409,,
+7410,,
+7411,,
+7412,,
+7413,,
+7414,,
+7415,,
+7416,,
+7417,,
+7418,,
+7419,,
+7420,,
+7421,,
+7422,,
+7423,,
+7424,,
+7425,,
+7426,,
+7427,,
+7428,,
+7429,,
+7430,,
+7431,,
+7432,,
+7433,,
+7434,,
+7435,,
+7436,,
+7437,,
+7438,,
+7439,,
+7440,,
+7441,,
+7442,,
+7443,,
+7444,,
+7445,,
+7446,,
+7447,,
+7448,,
+7449,,
+7450,,
+7451,,
+7452,,
+7453,,
+7454,,
+7455,,
+7456,,
+7457,,
+7458,,
+7459,,
+7460,,
+7461,,
+7462,,
+7463,,
+7464,,
+7465,,
+7466,,
+7467,,
+7468,,
+7469,,
+7470,,
+7471,,
+7472,,
+7473,,
+7474,,
+7475,,
+7476,,
+7477,,
+7478,,
+7479,,
+7480,,
+7481,,
+7482,,
+7483,,
+7484,,
+7485,,
+7486,,
+7487,,
+7488,,
+7489,,
+7490,,
+7491,,
+7492,,
+7493,,
+7494,,
+7495,,
+7496,,
+7497,,
+7498,,
+7499,,
+7500,,
+7501,,
+7502,,
+7503,,
+7504,,
+7505,,
+7506,,
+7507,,
+7508,,
+7509,,
+7510,,
+7511,,
+7512,,
+7513,,
+7514,,
+7515,,
+7516,,
+7517,,
+7518,,
+7519,,
+7520,,
+7521,,
+7522,,
+7523,,
+7524,,
+7525,,
+7526,,
+7527,,
+7528,,
+7529,,
+7530,,
+7531,,
+7532,,
+7533,,
+7534,,
+7535,,
+7536,,
+7537,,
+7538,,
+7539,,
+7540,,
+7541,,
+7542,,
+7543,,
+7544,,
+7545,,
+7546,,
+7547,,
+7548,,
+7549,,
+7550,,
+7551,,
+7552,,
+7553,,
+7554,,
+7555,,
+7556,,
+7557,,
+7558,,
+7559,,
+7560,,
+7561,,
+7562,,
+7563,,
+7564,,
+7565,,
+7566,,
+7567,,
+7568,,
+7569,,
+7570,,
+7571,,
+7572,,
+7573,,
+7574,,
+7575,,
+7576,,
+7577,,
+7578,,
+7579,,
+7580,,
+7581,,
+7582,,
+7583,,
+7584,,
+7585,,
+7586,,
+7587,,
+7588,,
+7589,,
+7590,,
+7591,,
+7592,,
+7593,,
+7594,,
+7595,,
+7596,,
+7597,,
+7598,,
+7599,,
+7600,,
+7601,,
+7602,,
+7603,,
+7604,,
+7605,,
+7606,,
+7607,,
+7608,,
+7609,,
+7610,,
+7611,,
+7612,,
+7613,,
+7614,,
+7615,,
+7616,,
+7617,,
+7618,,
+7619,,
+7620,,
+7621,,
+7622,,
+7623,,
+7624,,
+7625,,
+7626,,
+7627,,
+7628,,
+7629,,
+7630,,
+7631,,
+7632,,
+7633,,
+7634,,
+7635,,
+7636,,
+7637,,
+7638,,
+7639,,
+7640,,
+7641,,
+7642,,
+7643,,
+7644,,
+7645,,
+7646,,
+7647,,
+7648,,
+7649,,
+7650,,
+7651,,
+7652,,
+7653,,
+7654,,
+7655,,
+7656,,
+7657,,
+7658,,
+7659,,
+7660,,
+7661,,
+7662,,
+7663,,
+7664,,
+7665,,
+7666,,
+7667,,
+7668,,
+7669,,
+7670,,
+7671,,
+7672,,
+7673,,
+7674,,
+7675,,
+7676,,
+7677,,
+7678,,
+7679,,
+7680,,
+7681,,
+7682,,
+7683,,
+7684,,
+7685,,
+7686,,
+7687,,
+7688,,
+7689,,
+7690,,
+7691,,
+7692,,
+7693,,
+7694,,
+7695,,
+7696,,
+7697,,
+7698,,
+7699,,
+7700,,
+7701,,
+7702,,
+7703,,
+7704,,
+7705,,
+7706,,
+7707,,
+7708,,
+7709,,
+7710,,
+7711,,
+7712,,
+7713,,
+7714,,
+7715,,
+7716,,
+7717,,
+7718,,
+7719,,
+7720,,
+7721,,
+7722,,
+7723,,
+7724,,
+7725,,
+7726,,
+7727,,
+7728,,
+7729,,
+7730,,
+7731,,
+7732,,
+7733,,
+7734,,
+7735,,
+7736,,
+7737,,
+7738,,
+7739,,
+7740,,
+7741,,
+7742,,
+7743,,
+7744,,
+7745,,
+7746,,
+7747,,
+7748,,
+7749,,
+7750,,
+7751,,
+7752,,
+7753,,
+7754,,
+7755,,
+7756,,
+7757,,
+7758,,
+7759,,
+7760,,
+7761,,
+7762,,
+7763,,
+7764,,
+7765,,
+7766,,
+7767,,
+7768,,
+7769,,
+7770,,
+7771,,
+7772,,
+7773,,
+7774,,
+7775,,
+7776,,
+7777,,
+7778,,
+7779,,
+7780,,
+7781,,
+7782,,
+7783,,
+7784,,
+7785,,
+7786,,
+7787,,
+7788,,
+7789,,
+7790,,
+7791,,
+7792,,
+7793,,
+7794,,
+7795,,
+7796,,
+7797,,
+7798,,
+7799,,
+7800,,
+7801,,
+7802,,
+7803,,
+7804,,
+7805,,
+7806,,
+7807,,
+7808,,
+7809,,
+7810,,
+7811,,
+7812,,
+7813,,
+7814,,
+7815,,
+7816,,
+7817,,
+7818,,
+7819,,
+7820,,
+7821,,
+7822,,
+7823,,
+7824,,
+7825,,
+7826,,
+7827,,
+7828,,
+7829,,
+7830,,
+7831,,
+7832,,
+7833,,
+7834,,
+7835,,
+7836,,
+7837,,
+7838,,
+7839,,
+7840,,
+7841,,
+7842,,
+7843,,
+7844,,
+7845,,
+7846,,
+7847,,
+7848,,
+7849,,
+7850,,
+7851,,
+7852,,
+7853,,
+7854,,
+7855,,
+7856,,
+7857,,
+7858,,
+7859,,
+7860,,
+7861,,
+7862,,
+7863,,
+7864,,
+7865,,
+7866,,
+7867,,
+7868,,
+7869,,
+7870,,
+7871,,
+7872,,
+7873,,
+7874,,
+7875,,
+7876,,
+7877,,
+7878,,
+7879,,
+7880,,
+7881,,
+7882,,
+7883,,
+7884,,
+7885,,
+7886,,
+7887,,
+7888,,
+7889,,
+7890,,
+7891,,
+7892,,
+7893,,
+7894,,
+7895,,
+7896,,
+7897,,
+7898,,
+7899,,
+7900,,
+7901,,
+7902,,
+7903,,
+7904,,
+7905,,
+7906,,
+7907,,
+7908,,
+7909,,
+7910,,
+7911,,
+7912,,
+7913,,
+7914,,
+7915,,
+7916,,
+7917,,
+7918,,
+7919,,
+7920,,
+7921,,
+7922,,
+7923,,
+7924,,
+7925,,
+7926,,
+7927,,
+7928,,
+7929,,
+7930,,
+7931,,
+7932,,
+7933,,
+7934,,
+7935,,
+7936,,
+7937,,
+7938,,
+7939,,
+7940,,
+7941,,
+7942,,
+7943,,
+7944,,
+7945,,
+7946,,
+7947,,
+7948,,
+7949,,
+7950,,
+7951,,
+7952,,
+7953,,
+7954,,
+7955,,
+7956,,
+7957,,
+7958,,
+7959,,
+7960,,
+7961,,
+7962,,
+7963,,
+7964,,
+7965,,
+7966,,
+7967,,
+7968,,
+7969,,
+7970,,
+7971,,
+7972,,
+7973,,
+7974,,
+7975,,
+7976,,
+7977,,
+7978,,
+7979,,
+7980,,
+7981,,
+7982,,
+7983,,
+7984,,
+7985,,
+7986,,
+7987,,
+7988,,
+7989,,
+7990,,
+7991,,
+7992,,
+7993,,
+7994,,
+7995,,
+7996,,
+7997,,
+7998,,
+7999,,
+8000,,
+8001,,
+8002,,
+8003,,
+8004,,
+8005,,
+8006,,
+8007,,
+8008,,
+8009,,
+8010,,
+8011,,
+8012,,
+8013,,
+8014,,
+8015,,
+8016,,
+8017,,
+8018,,
+8019,,
+8020,,
+8021,,
+8022,,
+8023,,
+8024,,
+8025,,
+8026,,
+8027,,
+8028,,
+8029,,
+8030,,
+8031,,
+8032,,
+8033,,
+8034,,
+8035,,
+8036,,
+8037,,
+8038,,
+8039,,
+8040,,
+8041,,
+8042,,
+8043,,
+8044,,
+8045,,
+8046,,
+8047,,
+8048,,
+8049,,
+8050,,
+8051,,
+8052,,
+8053,,
+8054,,
+8055,,
+8056,,
+8057,,
+8058,,
+8059,,
+8060,,
+8061,,
+8062,,
+8063,,
+8064,,
+8065,,
+8066,,
+8067,,
+8068,,
+8069,,
+8070,,
+8071,,
+8072,,
+8073,,
+8074,,
+8075,,
+8076,,
+8077,,
+8078,,
+8079,,
+8080,,
+8081,,
+8082,,
+8083,,
+8084,,
+8085,,
+8086,,
+8087,,
+8088,,
+8089,,
+8090,,
+8091,,
+8092,,
+8093,,
+8094,,
+8095,,
+8096,,
+8097,,
+8098,,
+8099,,
+8100,,
+8101,,
+8102,,
+8103,,
+8104,,
+8105,,
+8106,,
+8107,,
+8108,,
+8109,,
+8110,,
+8111,,
+8112,,
+8113,,
+8114,,
+8115,,
+8116,,
+8117,,
+8118,,
+8119,,
+8120,,
+8121,,
+8122,,
+8123,,
+8124,,
+8125,,
+8126,,
+8127,,
+8128,,
+8129,,
+8130,,
+8131,,
+8132,,
+8133,,
+8134,,
+8135,,
+8136,,
+8137,,
+8138,,
+8139,,
+8140,,
+8141,,
+8142,,
+8143,,
+8144,,
+8145,,
+8146,,
+8147,,
+8148,,
+8149,,
+8150,,
+8151,,
+8152,,
+8153,,
+8154,,
+8155,,
+8156,,
+8157,,
+8158,,
+8159,,
+8160,,
+8161,,
+8162,,
+8163,,
+8164,,
+8165,,
+8166,,
+8167,,
+8168,,
+8169,,
+8170,,
+8171,,
+8172,,
+8173,,
+8174,,
+8175,,
+8176,,
+8177,,
+8178,,
+8179,,
+8180,,
+8181,,
+8182,,
+8183,,
+8184,,
+8185,,
+8186,,
+8187,,
+8188,,
+8189,,
+8190,,
+8191,,
+8192,,
+8193,,
+8194,,
+8195,,
+8196,,
+8197,,
+8198,,
+8199,,
+8200,,
+8201,,
+8202,,
+8203,,
+8204,,
+8205,,
+8206,,
+8207,,
+8208,,
+8209,,
+8210,,
+8211,,
+8212,,
+8213,,
+8214,,
+8215,,
+8216,,
+8217,,
+8218,,
+8219,,
+8220,,
+8221,,
+8222,,
+8223,,
+8224,,
+8225,,
+8226,,
+8227,,
+8228,,
+8229,,
+8230,,
+8231,,
+8232,,
+8233,,
+8234,,
+8235,,
+8236,,
+8237,,
+8238,,
+8239,,
+8240,,
+8241,,
+8242,,
+8243,,
+8244,,
+8245,,
+8246,,
+8247,,
+8248,,
+8249,,
+8250,,
+8251,,
+8252,,
+8253,,
+8254,,
+8255,,
+8256,,
+8257,,
+8258,,
+8259,,
