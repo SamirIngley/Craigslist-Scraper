@@ -4,11 +4,16 @@ import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup as bs
 import googlemaps
+from bokeh.io import show, output_file
+from bokeh.models import (GMapPlot, GMapOptions, ColumnDataSource, 
+Circle, DataRange1d, Range1d, PanTool, WheelZoomTool, BoxSelectTool)
 import timeit
 
 api_key = os.environ['GOOGLE_API_KEY']
 
 # modeled on "Python Nerds"'s https://www.youtube.com/watch?v=cFNh2amlYHI&list=PLG3zXM1RkYfTZlZOBc2L6e6aU7IBnzfGN&index=1
+# CRAIGSLIST USES A STANDARD / KNOWN URL QUERY FOR ITS WEBSITES
+# PARAMETERS IN pricesDFrame() -> SEARCH_PARAMS OR stats()
 
 # all us based craigslist sites
 def cityDict():
@@ -152,23 +157,75 @@ def file_write_locations():
         df.loc[df.city == place, 'lng'] = latlong['lng']
     
     print(df.head)
-    print(df.groupby('city').head(1))
+    print(df.groupby('city').head(1)) # 1 from each
     df.to_csv('cities_and_latlongs.csv')
 
-def new():
+
+
+def stats():
+    ''' REMOVES EXTREME PRICES '''
+
     df = pd.read_csv('cities_and_latlongs.csv', index_col=0)
+    df = df[df.price < 1000] # reassigned df to itself, subset of iteself with values only under 1000
+
     df.dropna(inplace=True) # drops NaNs
-    print(df.price.mean())
+    print('mean: ', df.price.mean()) # df.mean() gives a mean of all the columns
+    print('median: ', df.price.median())
+
+    print('HEAD')
+    print(df[['city', 'price']].sort_values(by='price').head(30))
+
+    print('TAIL')
+    print(df[['city', 'price']].sort_values(by='price').tail(30)) # DEFAULT IS DESCENDING ORDER, 30 - last thirty, gives us the last thirty prices to see why our mean and median are so off
+
+    df = df[df.price < 1000] # reassigned df to itself, subset of iteself with values only under 1000
+
+    print('STD: ', df.price.std())
+    # 3 of your standard deviation should get you most of your values (98%)
+    # so to get our upper and lower bounds
+    print(df.price.mean() - 3 * df.price.std())
+    print(df.price.mean() + 3 * df.price.std())
+
+    # Visualize using %matplotlib inline if using jupyter
+    # print(df.price.hist(bins=50))
+    df.to_csv('df_clean.csv')
+
+
+
+def map_data():
+    df0 = pd.read_csv('df_clean.csv', index_col=0) # need to tell pandas the first row is an index column
+
+    df = df0.groupby('city').mean() # gives us the MEAN PRICE FOR EACH CITY
+    print(df.head)
+
+    # Google maps has control over plot axes so no DataRange1d, only Range1d
+    map_options = GMapOptions(lat=50.5020794, lng=-111.9912878, map_type='roadmap', zoom=3) # LAT LNG ARE ROUGHLY THE CENTER OF THE MAP
+    plot = GMapPlot(x_range=Range1d(), y_range=Range1d(), map_options=map_options,
+                    api_key=api_key)
+
+    plot.add_tools(PanTool(), WheelZoomTool(), BoxSelectTool())
+
+    # ranges for our circles in bokeh (gliphs)
+    baseline = df['price'].min() - 1.0 # smallest price is smallest dot
+    scale = 10.4
+    # latitude and longitude for the circles (gliphs) on the map, dict in this column format 
+    # radius is scaling, i is price, subtracting baseline by a scale so the circles fit
+    source = ColumnDataSource(data=dict(lat=df['lat'].tolist(), lon=df['lng'].tolist(), 
+                                        rad = [(i-baseline) / scale for i in df['price'].tolist()]))
     
+    circle = Circle(x="lon", y="lat", size="rad", fill_color="blue", fill_alpha=0.5) # alpha makes transparent
+    plot.add_glyph(source, circle)
+    # print(plot.add_glyph(source, circle)
+
+    output_file('USA_plot.html')
+    show(plot)
 
 
 
-
-
-    
 
 if __name__ == "__main__":
     # cityDict()
     # pricesDFrame(cityDict())
     # file_write_locations()
-    new()
+    # stats()
+    map_data()
