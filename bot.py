@@ -8,7 +8,7 @@ import timeit
 
 api_key = os.environ['GOOGLE_API_KEY']
 
-# modeled on Python Nerds https://www.youtube.com/watch?v=cFNh2amlYHI&list=PLG3zXM1RkYfTZlZOBc2L6e6aU7IBnzfGN&index=1
+# modeled on "Python Nerds"'s https://www.youtube.com/watch?v=cFNh2amlYHI&list=PLG3zXM1RkYfTZlZOBc2L6e6aU7IBnzfGN&index=1
 
 # all us based craigslist sites
 def cityDict():
@@ -120,7 +120,8 @@ def pricesDFrame(c_dict):
     # %timeit df.to_hdf('craigslist_data.h5', 'craigslist_data') # for millions of lines, must include a data table name, since we're using strings it's gonna be slower - would be faster with chars and ints
 
 def file_write_locations():
-    ''' GETS THE CSV DATA OF THE TWO LISTS (city, price) AND GETS LOCATION ''' 
+    ''' GETS THE CSV DATA OF THE TWO LISTS (city, price), GETS CITY LOCATION LAT LONG
+    AND PUTS INTO A NEW CSV ''' 
 
     df = pd.read_csv('craigslist_data_copy.csv', index_col=0)
     # print(df)
@@ -129,13 +130,14 @@ def file_write_locations():
 
     for place in city_list:
         # print(place)
-        single_place = place.split('/')[0]
+        if type(place) == float:
+            continue
         # print(single_place)
         #Geocoding couldn't recognize what the florida keys were soo... 
         # try except: try this, if you run into an error, try this other thing
         # print(df.head)
+
         try:
-            if '/' in char for char in place
             single_place = place.split('/')[0]
             gmaps = googlemaps.Client(key=api_key)
             geocode = gmaps.geocode(single_place)[0]
@@ -150,10 +152,23 @@ def file_write_locations():
         df.loc[df.city == place, 'lng'] = latlong['lng']
     
     print(df.head)
+    print(df.groupby('city').head(1))
+    df.to_csv('cities_and_latlongs.csv')
+
+def new():
+    df = pd.read_csv('cities_and_latlong.csv', index_col=0)
+    df.dropna(inplace=True) # drops NaNs
+    print(df.price.mean())
+    
+
+
+
+
 
     
 
 if __name__ == "__main__":
     # cityDict()
     # pricesDFrame(cityDict())
-    file_write_locations()
+    # file_write_locations()
+    new()
