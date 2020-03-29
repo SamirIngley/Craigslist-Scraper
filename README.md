@@ -19,3 +19,5 @@ The larger the circle - the higher the price.
 
 
 Map plotted with Bokeh
+![Alt text](images/us_map.png?raw=true "US Map")
+

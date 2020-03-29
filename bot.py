@@ -119,7 +119,7 @@ def pricesDFrame(c_dict):
     # THESE COMMANDS ACTUALLY CREATE THOSE FILES, TIMEIT JUST TIMES THEM
     # pandas can send as csv, to excel, sql, ... 
     #magic commands work in python notebooks- timeit times one loop how long to process one loop
-    %timeit df.to_csv('craigslist_data.csv') #just name it
+    # %timeit df.to_csv('craigslist_data.csv') #just name it
     # %timeit df.to_excel('craigslist_data.xlsx')
     # %timeit df.to_html('craigslist_data.html') # can open it in a web browser
     # %timeit df.to_hdf('craigslist_data.h5', 'craigslist_data') # for millions of lines, must include a data table name, since we're using strings it's gonna be slower - would be faster with chars and ints
@@ -199,7 +199,7 @@ def map_data():
     # print(df.head)
 
     # Google maps has control over plot axes so no DataRange1d, only Range1d
-    map_options = GMapOptions(lat=50.5020794, lng=-111.9912878, map_type='roadmap', zoom=3) # LAT LNG ARE ROUGHLY THE CENTER OF THE MAP
+    map_options = GMapOptions(lat=50.5020794, lng=-111.9912878, map_type='satellite', zoom=3) # LAT LNG ARE ROUGHLY THE CENTER OF THE MAP
     plot = GMapPlot(x_range=Range1d(), y_range=Range1d(), map_options=map_options,
                     api_key=api_key)
 
