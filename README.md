@@ -7,6 +7,11 @@
 2. download the requirements.txt
 3. save a google api key as an environment variable
     and use that key variable name in the code
+Can be done temporarily from the terminal this way:
+export GOOGLE_API_KEY=yourapikeyhere
+Check to make sure it was saved with:
+echo $GOOGLE_API_KEY
+This should return your key
 ****************
 - Scrapes the data of every craigslist site in the US
 - Looks for an item with given parameters
