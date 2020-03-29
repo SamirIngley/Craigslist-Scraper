@@ -1,6 +1,6 @@
-Craigslist Bot
+# Craigslist Bot
 ***************
-Install:
+## Install:
 (best if copy and pasted into a jupyter notebook)
 
 1. clone fork or download this 
@@ -18,6 +18,14 @@ Plots the mean price for each city (eliminating extremes) on a map of the US
 The larger the circle - the higher the price. 
 
 
-Map plotted with Bokeh
+Maps plotted with Bokeh
+
+
 ![Alt text](images/us_map.png?raw=true "US Map")
+
+![Alt text](images/NY_map.png?raw=true "NY Map")
+
+![Alt text](images/Texas_map.png?raw=true "Texas Map")
+
+
 
