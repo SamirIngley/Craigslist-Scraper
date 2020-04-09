@@ -1,4 +1,5 @@
 # Craigslist Bot
+This app scrapes the craigslist website for each city/zone across the US and plots a circle of a size with relation to the price of the item for that area. The larger the circle: the higher the price. Data below is for the iPhone X as of March 2020.
 ***************
 ## Install:
 (best if copy and pasted into a jupyter notebook)
